@@ -9,14 +9,19 @@ const sqlContent = fs.readFileSync(
 
 console.log("SQL file loaded, length:", sqlContent.length);
 
+function createSlug(title) {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "") // Remove special chars except spaces and hyphens
+    .replace(/\s+/g, "-") // Replace spaces with hyphens
+    .replace(/-+/g, "-"); // Replace multiple hyphens with single hyphen
+}
+
 function extractPosts(sql) {
   const posts = [];
   const lines = sql.split("\n");
   let inInsertBlock = false;
   let currentInsert = "";
-  let processedCount = 0;
-
-  console.log("Total lines:", lines.length);
 
   for (let line of lines) {
     line = line.trim();
@@ -35,7 +40,6 @@ function extractPosts(sql) {
       // End of INSERT block
       if (line.endsWith(";")) {
         inInsertBlock = false;
-        processedCount++;
 
         // Extract values from the complete INSERT statement
         const valuesMatch = currentInsert.match(/VALUES\s*(\(.*\))/);
@@ -83,9 +87,16 @@ function extractPosts(sql) {
               const date = values[2]?.replace(/^'|'$/g, "").trim();
 
               if (title && date) {
+                const postDate = new Date(date);
+                const dateStr = postDate.toISOString().split("T")[0];
+                const slug = createSlug(title);
+                const filename = `${dateStr}-${slug}.md`;
+
                 posts.push({
                   title,
-                  date: new Date(date),
+                  date: dateStr,
+                  filename,
+                  filepath: `content/${filename}`,
                 });
               }
             }
@@ -102,22 +113,18 @@ function extractPosts(sql) {
 const posts = extractPosts(sqlContent);
 
 // Sort posts by date
-posts.sort((a, b) => a.date - b.date);
+posts.sort((a, b) => a.date.localeCompare(b.date));
 
-// Format for output
-const output = posts
-  .map((post) => `${post.date.toISOString().split("T")[0]} - ${post.title}`)
-  .join("\n");
+// Create content directory if it doesn't exist
+const contentDir = path.join(__dirname, "../content");
+if (!fs.existsSync(contentDir)) {
+  fs.mkdirSync(contentDir);
+}
 
-// Write to file
-const outputPath = path.join(__dirname, "../article-titles.txt");
-fs.writeFileSync(outputPath, output);
+// Save metadata to articles.json
+const articlesPath = path.join(__dirname, "../articles.json");
+fs.writeFileSync(articlesPath, JSON.stringify(posts, null, 2));
 
-console.log(`\nFound ${posts.length} posts. Written to article-titles.txt`);
+console.log(`\nFound ${posts.length} posts. Written to articles.json`);
 console.log("\nFirst few posts:");
-console.log(
-  posts
-    .slice(0, 5)
-    .map((p) => `${p.date.toISOString().split("T")[0]} - ${p.title}`)
-    .join("\n")
-);
+console.log(posts.slice(0, 5));
