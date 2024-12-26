@@ -16,19 +16,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export async function generateStaticParams() {
   const paths = getAllPostSlugs();
-  console.log("Generating paths for:", paths.length, "posts");
   return paths;
 }
 
 export default async function Post({ params }: Props) {
   const post = await getPostData(params.slug);
 
-  console.log("Post content length:", post.content?.length || 0);
-
   return (
-    <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <article className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="max-w-2xl mx-auto">
-        <article className="prose dark:prose-invert lg:prose-lg">
+        <div className="prose dark:prose-invert lg:prose-lg mx-auto">
           <h1 className="mb-4 text-gray-900 dark:text-gray-100">
             {post.title}
           </h1>
@@ -40,14 +37,14 @@ export default async function Post({ params }: Props) {
           </div>
           {post.content ? (
             <div
-              className="mt-8 prose-headings:text-gray-900 prose-headings:dark:text-gray-100"
+              className="mt-8"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
           ) : (
             <p className="text-red-600">No content available for this post.</p>
           )}
-        </article>
+        </div>
       </div>
-    </div>
+    </article>
   );
 }

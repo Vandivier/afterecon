@@ -25,16 +25,15 @@ export async function generateStaticPosts() {
     .filter(fileName => fileName.endsWith('.md'));
 
   const allPosts = await Promise.all(fileNames.map(async (fileName) => {
-    // Remove .md extension but keep the full date-slug format
-    const slug = fileName.slice(0, -3); // This preserves the date in the slug
+    const slug = fileName.slice(0, -3);
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
     const matterResult = matter(fileContents);
 
-    // Process markdown to HTML at build time
+    // Process markdown to HTML
     const processedContent = await unified()
       .use(remarkParse)
-      .use(remarkHtml)
+      .use(remarkHtml, { sanitize: false })
       .process(matterResult.content);
 
     return {
@@ -44,9 +43,11 @@ export async function generateStaticPosts() {
     };
   }));
 
-  // Write the processed posts to a JSON file
   const outputPath = path.join(process.cwd(), 'articles.json');
-  fs.writeFileSync(outputPath, JSON.stringify(allPosts, null, 2));
+  fs.writeFileSync(
+    outputPath, 
+    JSON.stringify(allPosts, null, 2)
+  );
 
   return allPosts;
 }
