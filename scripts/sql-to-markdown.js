@@ -7,65 +7,114 @@ const sqlContent = fs.readFileSync(
   "utf8"
 );
 
-// Extract posts from SQL
-function extractPosts(sql) {
-  const posts = [];
-  const insertRegex =
-    /INSERT INTO `wp_a6ky8v_posts` \(`ID`.*?\) VALUES\s*(.*?);/gs;
-  const matches = sql.matchAll(insertRegex);
+console.log("SQL file loaded, length:", sqlContent.length);
 
-  for (const match of matches) {
-    const values = match[1].split("),(");
+function extractTitles(sql) {
+  const titles = [];
+  const lines = sql.split("\n");
+  let inInsertBlock = false;
+  let currentInsert = "";
+  let processedCount = 0;
 
-    for (const value of values) {
-      // Clean up the value string
-      const cleanValue = value.replace(/^\(|\)$/g, "");
-      const columns = cleanValue
-        .split(",")
-        .map((col) => col.trim().replace(/^'|'$/g, ""));
+  console.log("Total lines:", lines.length);
 
-      // Only process published posts
-      if (columns[7] === "publish" && columns[20] === "post") {
-        posts.push({
-          id: columns[0],
-          author: columns[1],
-          date: new Date(columns[2]),
-          content: columns[4].replace(/\\'/g, "'").replace(/\\"/g, '"'),
-          title: columns[5].replace(/\\'/g, "'").replace(/\\"/g, '"'),
-          slug: columns[11],
-        });
+  for (let line of lines) {
+    line = line.trim();
+
+    // Start of an INSERT block
+    if (line.startsWith("INSERT INTO `wp_a6ky8v_posts`")) {
+      console.log("\nFound INSERT block:", line.substring(0, 100) + "...");
+      inInsertBlock = true;
+      currentInsert = line;
+      continue;
+    }
+
+    // Collecting lines in the current INSERT block
+    if (inInsertBlock) {
+      currentInsert += " " + line;
+
+      // End of INSERT block
+      if (line.endsWith(";")) {
+        inInsertBlock = false;
+        processedCount++;
+        console.log("\nProcessing complete INSERT block #", processedCount);
+
+        // Exit after 20 blocks
+        if (processedCount >= 20) {
+          console.log("Exiting after 20 blocks for debugging");
+          return titles;
+        }
+
+        // Extract values from the complete INSERT statement
+        const valuesMatch = currentInsert.match(/VALUES\s*(\(.*\))/);
+        if (valuesMatch) {
+          console.log("Found VALUES section");
+          // Split multiple value sets
+          const valuesSets = valuesMatch[1].split("),(");
+          console.log("Number of value sets:", valuesSets.length);
+
+          for (let valueSet of valuesSets) {
+            // Clean up the first and last value sets
+            valueSet = valueSet.replace(/^\(|\)$/g, "");
+
+            // Split into columns, handling quoted values properly
+            const values = [];
+            let currentValue = "";
+            let inQuotes = false;
+
+            for (let char of valueSet) {
+              if (
+                char === "'" &&
+                (currentValue.length === 0 ||
+                  currentValue[currentValue.length - 1] !== "\\")
+              ) {
+                inQuotes = !inQuotes;
+                currentValue += char;
+              } else if (char === "," && !inQuotes) {
+                values.push(currentValue.trim());
+                currentValue = "";
+              } else {
+                currentValue += char;
+              }
+            }
+            if (currentValue) {
+              values.push(currentValue.trim());
+            }
+
+            // Check if it's a published post
+            const status = values[7]?.replace(/^'|'$/g, "").trim();
+            const type = values[20]?.replace(/^'|'$/g, "").trim();
+
+            console.log("Status:", status, "Type:", type);
+
+            if (status === "publish" && type === "post") {
+              // Extract title (6th column, index 5)
+              const title = values[5]
+                ?.replace(/^'|'$/g, "") // Remove outer quotes
+                .replace(/\\'/g, "'") // Unescape quotes
+                .trim();
+
+              if (title) {
+                console.log("Found title:", title);
+                titles.push(title);
+              }
+            }
+          }
+        }
       }
     }
   }
 
-  return posts;
-}
-
-// Convert post to markdown
-function postToMarkdown(post) {
-  const date = post.date.toISOString().split("T")[0];
-  return `---
-title: ${post.title}
-date: ${date}
-author: John Vandivier
----
-
-${post.content}
-`;
+  return titles;
 }
 
 // Main execution
-const posts = extractPosts(sqlContent);
+const titles = extractTitles(sqlContent);
 
-// Create posts directory if it doesn't exist
-const postsDir = path.join(__dirname, "../content/posts");
-fs.mkdirSync(postsDir, { recursive: true });
+console.log("\nAll titles found:", titles);
 
-// Write each post to a markdown file
-posts.forEach((post) => {
-  const fileName = `${post.date.toISOString().split("T")[0]}-${post.slug}.md`;
-  const filePath = path.join(postsDir, fileName);
-  fs.writeFileSync(filePath, postToMarkdown(post));
-});
+// Write titles to a file
+const outputPath = path.join(__dirname, "../article-titles.txt");
+fs.writeFileSync(outputPath, titles.join("\n"));
 
-console.log(`Converted ${posts.length} posts to Markdown`);
+console.log(`\nFound ${titles.length} titles. Written to article-titles.txt`);
