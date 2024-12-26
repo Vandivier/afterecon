@@ -2,31 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-rgb: 255, 255, 255;
+@layer base {
+  body {
+    @apply antialiased;
+  }
 }
 
-[data-theme="dark"] {
-  --foreground-rgb: 255, 255, 255;
-  --background-rgb: 0, 0, 0;
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-rgb));
-}
-
+/* Customize prose styles */
 .prose {
-  max-width: 65ch;
-  margin: 0 auto;
+  @apply prose-sky;
+}
+
+.prose pre {
+  @apply bg-sky-100 dark:bg-gray-800;
+}
+
+.prose code {
+  @apply text-sky-800 dark:text-sky-300;
 }
 
 .prose a {
-  color: #0070f3;
-  text-decoration: none;
+  @apply text-sky-600 dark:text-sky-400 no-underline hover:underline;
 }
 
-.prose a:hover {
-  text-decoration: underline;
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  @apply text-gray-900 dark:text-gray-100;
+}
+
+.prose p,
+.prose li {
+  @apply text-gray-800 dark:text-gray-200;
+}
+
+.prose blockquote {
+  @apply border-l-sky-200 dark:border-l-sky-700 bg-sky-50 dark:bg-gray-800;
 }
