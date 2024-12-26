@@ -28,3 +28,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# sql dump from wordpress / phpMyAdmin
+# it's used by the scripts/sql-to-markdown.js script
+wp-dump.sql
