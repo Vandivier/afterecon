@@ -1,6 +1,6 @@
 import Link from "next/link";
-import ThemeToggle from "@/components/ThemeToggle";
-import { getSortedPostsData } from "@/lib/posts";
+import ThemeToggle from "../components/ThemeToggle";
+import { getSortedPostsData } from "../lib/posts";
 import { format } from "date-fns";
 
 export default async function Home() {

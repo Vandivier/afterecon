@@ -1,3 +1,5 @@
+"use client";
+
 import { ThemeProvider } from "next-themes";
 import "./globals.css";
 import type { Metadata } from "next";
