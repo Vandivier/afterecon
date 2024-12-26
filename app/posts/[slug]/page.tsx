@@ -23,6 +23,8 @@ export async function generateStaticParams() {
 export default async function Post({ params }: Props) {
   const post = await getPostData(params.slug);
 
+  console.log("Post content length:", post.content?.length || 0);
+
   return (
     <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="max-w-2xl mx-auto">
@@ -36,10 +38,14 @@ export default async function Post({ params }: Props) {
             </time>{" "}
             • {post.author}
           </div>
-          <div
-            className="mt-8 prose-headings:text-gray-900 prose-headings:dark:text-gray-100"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+          {post.content ? (
+            <div
+              className="mt-8 prose-headings:text-gray-900 prose-headings:dark:text-gray-100"
+              dangerouslySetInnerHTML={{ __html: post.content }}
+            />
+          ) : (
+            <p className="text-red-600">No content available for this post.</p>
+          )}
         </article>
       </div>
     </div>

@@ -1,10 +1,14 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from 'url';
 import matter from "gray-matter";
-import { remark } from "remark";
-import html from "remark-html";
+import { unified } from "unified";
+import remarkParse from "remark-parse";
+import remarkHtml from "remark-html";
 
-const postsDirectory = path.join(process.cwd(), "content");
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const postsDirectory = path.join(__dirname, "..", "content");
 
 export interface Post {
   title: string;
@@ -15,70 +19,63 @@ export interface Post {
   slug: string;
 }
 
-export function getSortedPosts() {
-  // Get file names under /content
+// This function will be used at build time to generate static content
+export async function generateStaticPosts() {
   const fileNames = fs.readdirSync(postsDirectory)
-    .filter(fileName => fileName.endsWith('.md')); // Only get markdown files
+    .filter(fileName => fileName.endsWith('.md'));
 
-  const allPosts = fileNames.map((fileName) => {
-    // Remove ".md" from file name to get slug
-    const slug = fileName.replace(/\.md$/, "");
-
-    // Read markdown file as string
+  const allPosts = await Promise.all(fileNames.map(async (fileName) => {
+    // Remove .md extension but keep the full date-slug format
+    const slug = fileName.slice(0, -3); // This preserves the date in the slug
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
-
-    // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents);
 
-    // Combine the data with the slug
+    // Process markdown to HTML at build time
+    const processedContent = await unified()
+      .use(remarkParse)
+      .use(remarkHtml)
+      .process(matterResult.content);
+
     return {
       slug,
+      content: processedContent.toString(),
       ...(matterResult.data as Omit<Post, "slug" | "content">),
-      content: matterResult.content,
     };
-  });
+  }));
 
-  // Sort posts by date
-  return allPosts.sort((a, b) => {
-    if (a.date < b.date) {
-      return 1;
-    } else {
-      return -1;
-    }
+  // Write the processed posts to a JSON file
+  const outputPath = path.join(process.cwd(), 'articles.json');
+  fs.writeFileSync(outputPath, JSON.stringify(allPosts, null, 2));
+
+  return allPosts;
+}
+
+// This function will read from the generated JSON at runtime
+export function getSortedPosts(): Post[] {
+  const postsPath = path.join(process.cwd(), 'articles.json');
+  const posts = JSON.parse(fs.readFileSync(postsPath, 'utf8'));
+  
+  return posts.sort((a: Post, b: Post) => {
+    if (a.date < b.date) return 1;
+    return -1;
   });
 }
 
 export function getAllPostSlugs() {
-  const fileNames = fs.readdirSync(postsDirectory)
-    .filter(fileName => fileName.endsWith('.md')); // Only get markdown files
-
-  return fileNames.map((fileName) => {
-    return {
-      params: {
-        slug: fileName.replace(/\.md$/, ""),
-      },
-    };
-  });
+  const posts = getSortedPosts();
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+  }));
 }
 
 export async function getPostData(slug: string): Promise<Post> {
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
+  const posts = getSortedPosts();
+  const post = posts.find(p => p.slug === slug);
+  
+  if (!post) {
+    throw new Error(`Post not found: ${slug}`);
+  }
 
-  // Use gray-matter to parse the post metadata section
-  const matterResult = matter(fileContents);
-
-  // Use remark to convert markdown into HTML string
-  const processedContent = await remark()
-    .use(html)
-    .process(matterResult.content);
-  const contentHtml = processedContent.toString();
-
-  // Combine the data with the slug and contentHtml
-  return {
-    slug,
-    content: contentHtml,
-    ...(matterResult.data as Omit<Post, "slug" | "content">),
-  };
+  return post;
 } 

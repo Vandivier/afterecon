@@ -1,13 +1,18 @@
 {
   "name": "afterecon",
   "version": "1.0.0",
+  "type": "module",
   "description": "John Vandivier's blog, inspired by his training in economics",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run prebuild && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "convert": "node scripts/sql-to-markdown.js && node scripts/json-to-markdown.js"
+    "convert": "node scripts/sql-to-markdown.js && node scripts/json-to-markdown.js",
+    "prebuild": "node --loader ts-node/esm scripts/build-content.ts"
   },
   "repository": {
     "type": "git",
@@ -37,13 +42,16 @@
     "react-dom": "^18.2.0",
     "remark": "^14.0.3",
     "remark-html": "^15.0.2",
-    "tailwindcss": "^3.3.5"
+    "tailwindcss": "^3.3.5",
+    "unified": "^10.1.0",
+    "remark-parse": "^10.0.2"
   },
   "devDependencies": {
     "@types/node": "^20.9.3",
     "@types/react": "^18.2.38",
     "eslint": "^8.54.0",
     "eslint-config-next": "^14.0.3",
+    "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
   }
 }
