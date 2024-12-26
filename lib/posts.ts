@@ -17,7 +17,9 @@ export interface Post {
 
 export function getSortedPosts() {
   // Get file names under /content
-  const fileNames = fs.readdirSync(postsDirectory);
+  const fileNames = fs.readdirSync(postsDirectory)
+    .filter(fileName => fileName.endsWith('.md')); // Only get markdown files
+
   const allPosts = fileNames.map((fileName) => {
     // Remove ".md" from file name to get slug
     const slug = fileName.replace(/\.md$/, "");
@@ -48,7 +50,9 @@ export function getSortedPosts() {
 }
 
 export function getAllPostSlugs() {
-  const fileNames = fs.readdirSync(postsDirectory);
+  const fileNames = fs.readdirSync(postsDirectory)
+    .filter(fileName => fileName.endsWith('.md')); // Only get markdown files
+
   return fileNames.map((fileName) => {
     return {
       params: {

@@ -11,9 +11,9 @@ AfterEcon is a collection of writings on economics, technology, and their inters
 - Modern Next.js 14 with App Router
 - Dark mode support
 - Markdown blog posts converted from original WordPress content
-- Responsive design
+- Static site generation for optimal performance
+- Responsive design with Tailwind Typography
 - TypeScript & Tailwind CSS
-- Fast, static generation
 
 ## Getting Started
 
@@ -35,6 +35,12 @@ npm run convert
 npm run dev
 ```
 
+4. Build for production:
+
+```bash
+npm run build
+```
+
 ## Project Structure
 
 ```
@@ -42,26 +48,66 @@ afterecon/
 ├── app/                  # Next.js app directory
 │   ├── globals.css      # Global styles
 │   ├── layout.tsx       # Root layout with theme support
-│   └── page.tsx         # Home page
+│   ├── page.tsx         # Home page listing all posts
+│   └── posts/           # Dynamic post routes
+│       └── [slug]/      # Individual post pages
 ├── components/          # React components
-│   └── ThemeToggle.tsx  # Dark mode toggle
+│   └── theme-provider   # Dark mode provider
 ├── content/             # Blog content
-│   └── posts/          # Markdown blog posts
+│   └── *.md            # Markdown blog posts
 ├── lib/                 # Utilities
-│   └── posts.ts        # Post loading logic
+│   └── posts.ts        # Post loading and parsing logic
 └── scripts/            # Build scripts
-     └── sql-to-markdown.js  # WordPress conversion
+    ├── sql-to-markdown.js  # WordPress SQL to JSON conversion
+    └── json-to-markdown.js # JSON to Markdown conversion
 ```
 
-## Content Migration
+## Content Management
 
-The blog content is migrated from a WordPress installation using a custom conversion script. The script:
+The blog content follows a two-step conversion process:
 
-1. Reads the WordPress SQL dump
-2. Extracts published posts
-3. Converts them to Markdown format
-4. Preserves metadata like dates and titles
-5. Cleans up WordPress-specific formatting
+1. WordPress SQL dump → JSON
+   - Script: `sql-to-markdown.js`
+   - Extracts posts from WordPress database
+   - Preserves metadata like dates, titles, and authors
+   - Outputs to `articles.json`
+
+2. JSON → Markdown files
+   - Script: `json-to-markdown.js`
+   - Converts each article to a Markdown file
+   - Includes YAML frontmatter with metadata
+   - Places files in `content/` directory
+
+The Next.js application then:
+
+- Statically generates pages at build time
+- Parses Markdown with gray-matter and remark
+- Supports both light and dark modes
+- Provides a responsive, accessible reading experience
+
+## Build Process
+
+The build process involves:
+
+1. Content preparation:
+
+```bash
+npm run convert  # Converts WordPress content to Markdown
+```
+
+2. Static site generation:
+
+```bash
+npm run build   # Builds optimized production site
+```
+
+This creates a fully static site with:
+
+- Homepage listing all posts
+- Individual pages for each post
+- Optimized images and styles
+- Dark mode support
+- Fast page loads
 
 ## License
 

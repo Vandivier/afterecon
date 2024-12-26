@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { format } from "date-fns";
 import { getSortedPosts } from "@/lib/posts";
 
 export default function Home() {
@@ -19,7 +20,10 @@ export default function Home() {
               </Link>
             </h2>
             <div className="text-gray-600 dark:text-gray-400 mb-4">
-              <time>{post.date}</time> • {post.author}
+              <time dateTime={post.date}>
+                {format(new Date(post.date), "MMMM d, yyyy")}
+              </time>{" "}
+              • {post.author}
             </div>
           </article>
         ))}
