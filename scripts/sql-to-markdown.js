@@ -7,14 +7,18 @@ const sqlContent = fs.readFileSync(
   "utf8"
 );
 
-console.log("SQL file loaded, length:", sqlContent.length);
-
 function createSlug(title) {
   return title
     .toLowerCase()
     .replace(/[^a-z0-9\s-]/g, "") // Remove special chars except spaces and hyphens
     .replace(/\s+/g, "-") // Replace spaces with hyphens
     .replace(/-+/g, "-"); // Replace multiple hyphens with single hyphen
+}
+
+function normalizeQuotes(text) {
+  return text
+    .replace(/[""]/g, '"') // Replace fancy double quotes
+    .replace(/['']/g, "'"); // Replace fancy single quotes
 }
 
 function extractPosts(sql) {
@@ -85,16 +89,25 @@ function extractPosts(sql) {
                 .replace(/\\'/g, "'")
                 .trim();
               const date = values[2]?.replace(/^'|'$/g, "").trim();
+              const content = values[4]
+                ?.replace(/^'|'$/g, "")
+                .replace(/\\'/g, "'")
+                .trim();
+              const authorId = values[1]?.replace(/^'|'$/g, "").trim();
 
-              if (title && date) {
+              if (title && date && content) {
                 const postDate = new Date(date);
                 const dateStr = postDate.toISOString().split("T")[0];
                 const slug = createSlug(title);
                 const filename = `${dateStr}-${slug}.md`;
 
+                console.log(`Found: ${filename}`);
+
                 posts.push({
-                  title,
+                  title: normalizeQuotes(title),
                   date: dateStr,
+                  author: "John Vandivier", // Hardcoded since all posts are by the same author
+                  content: normalizeQuotes(content),
                   filename,
                   filepath: `content/${filename}`,
                 });
@@ -125,6 +138,4 @@ if (!fs.existsSync(contentDir)) {
 const articlesPath = path.join(__dirname, "../articles.json");
 fs.writeFileSync(articlesPath, JSON.stringify(posts, null, 2));
 
-console.log(`\nFound ${posts.length} posts. Written to articles.json`);
-console.log("\nFirst few posts:");
-console.log(posts.slice(0, 5));
+console.log(`\nTotal: ${posts.length} posts written to articles.json`);
