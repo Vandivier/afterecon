@@ -79,11 +79,10 @@ function extractPosts(sql) {
               values.push(currentValue.trim());
             }
 
-            // Check if it's a published post
-            const status = values[7]?.replace(/^'|'$/g, "").trim();
+            // Check if it's a post
             const type = values[20]?.replace(/^'|'$/g, "").trim();
 
-            if (status === "publish" && type === "post") {
+            if (type === "post") {
               const title = values[5]
                 ?.replace(/^'|'$/g, "")
                 .replace(/\\'/g, "'")
@@ -93,21 +92,25 @@ function extractPosts(sql) {
                 ?.replace(/^'|'$/g, "")
                 .replace(/\\'/g, "'")
                 .trim();
-              const authorId = values[1]?.replace(/^'|'$/g, "").trim();
+              const status = values[7]?.replace(/^'|'$/g, "").trim();
+              const isDraft = status !== "publish";
 
               if (title && date && content) {
                 const postDate = new Date(date);
                 const dateStr = postDate.toISOString().split("T")[0];
                 const slug = createSlug(title);
-                const filename = `${dateStr}-${slug}.md`;
+                const filename = isDraft
+                  ? `draft-${dateStr}-${slug}.md`
+                  : `${dateStr}-${slug}.md`;
 
                 console.log(`Found: ${filename}`);
 
                 posts.push({
                   title: normalizeQuotes(title),
                   date: dateStr,
-                  author: "John Vandivier", // Hardcoded since all posts are by the same author
+                  author: "John Vandivier",
                   content: normalizeQuotes(content),
+                  status: isDraft ? "draft" : "publish",
                   filename,
                   filepath: `content/${filename}`,
                 });
