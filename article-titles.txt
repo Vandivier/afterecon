@@ -1,16 +1,103 @@
-Cut The Evolution Crap
-5 Ways to Save Money Through Logistical Cost Reduction
-A Short Recommendation and Defense of Homeschooling
-J Warner Wallace Talk, \"Cold Case Christianity\" 4/09/13
-The Coming Litecoin Explosion
-Misdiagnosing the God of the Gaps
-God's Will as Objective Utility and Interpretive Proof
-This Juneteenth, Let's Discuss the Real History of Rascism
-New Atheism Is Contradictory, Ignorant of Christianity
-Snowden, Manning, Assange...Breitbart?
-American Thinker:The Mind-Boggling Implications of a Bitcoin Economy
-World Net Daily:'Gays' to sue church to perform 'marriage' ceremonies
-J. Warner Wallace: Unbelievable? Is There Enough Evidence Beyond the Gospels to Make Their Testimony Reliable?
-Religious Arguments for Minarchism
-Sean’s Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless
-Zdnet: Pay heed to the internet's Third Wave Cows of Disruption
+2012-09-25 - Cut The Evolution Crap
+2013-01-13 - 5 Ways to Save Money Through Logistical Cost Reduction
+2013-02-09 - A Short Recommendation and Defense of Homeschooling
+2013-04-10 - J Warner Wallace Talk, \"Cold Case Christianity\" 4/09/13
+2013-04-26 - The Coming Litecoin Explosion
+2013-05-13 - Misdiagnosing the God of the Gaps
+2013-06-10 - God's Will as Objective Utility and Interpretive Proof
+2013-06-20 - This Juneteenth, Let's Discuss the Real History of Rascism
+2013-07-01 - New Atheism Is Contradictory, Ignorant of Christianity
+2013-07-09 - Snowden, Manning, Assange...Breitbart?
+2013-07-21 - American Thinker:The Mind-Boggling Implications of a Bitcoin Economy
+2013-08-02 - World Net Daily:'Gays' to sue church to perform 'marriage' ceremonies
+2013-08-22 - J. Warner Wallace: Unbelievable? Is There Enough Evidence Beyond the Gospels to Make Their Testimony Reliable?
+2013-09-02 - Religious Arguments for Minarchism
+2013-09-10 - Sean’s Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless
+2013-09-19 - Zdnet: Pay heed to the internet's Third Wave Cows of Disruption
+2013-10-02 - J Warner Wallace On Hell
+2013-10-07 - Easy Activism
+2013-10-20 - Politico: Eureka! Tea partiers know science
+2013-10-30 - Pamorama: 50 Top Tools for Social Media Monitoring, Analytics, and Management
+2013-11-07 - School Choice and Zero Tolerance
+2013-11-10 - Was the Government Shutdown Good for the Job Market?
+2013-11-13 - Lessons from the 2013 Cuccinelli Race
+2014-01-21 - Diversity and Competition
+2014-04-16 - The Definition of Money
+2014-04-22 - Which Market?
+2014-05-24 - Two Models for a Marketing Plan
+2014-06-07 - The Real Link Between Technology and Entrepreneurship
+2014-07-19 - The Relationship Between Economics and Religion
+2014-07-26 - Quantified Ordinal Modelling of Action
+2014-09-19 - Elasticity of Belief and Presuppositional Economics
+2014-10-01 - John Vandivier Comments for 10/1 Readings
+2014-10-14 - The Halo Effect and Unconscious Accuracy
+2014-10-24 - Intro to Rails Deployment
+2014-10-24 - Advancing Human Capital Evaluation
+2014-11-06 - Municipal Bonds and the Cost of Sovereignty
+2014-12-07 - Immigration Issues Continue
+2015-01-30 - David Friedman Answers Some Questions
+2015-02-18 - True Demand
+2015-03-03 - The Risk Paradox
+2015-03-19 - Ordinal Modelling Applied to Connoisseurship
+2015-04-05 - Easter, Christmas, and Paganism
+2015-04-26 - Would PDAs form in an ACS?
+2015-05-06 - On the Garland Shooting
+2015-05-09 - Global Financial Crises and Institutions Cheat Sheet
+2015-05-10 - Political Signals as Modified Market Signals
+2015-05-16 - Larken's 5 Questions
+2015-06-05 - Criminal Investigation and Intelligent Design
+2015-06-13 - Deflationary Theory of Bias
+2015-09-14 - Some Resources for Advanced Math in Economics
+2015-11-01 - Meta-Economics
+2016-07-21 - Science Problems: Humility Failure
+2016-09-06 - Re: On Slavery and Subjugation of Women
+2016-09-11 - Misesian Efficiency as Subjective Moral Optimization
+2016-10-19 - The Military Singularity
+2016-11-03 - Virtual Competition Solves Geographic Monopoly
+2016-11-22 - Short Essay Regarding \"Samaritan’s Dilemmas, Wealth Redistribution, and Polycentricity\"
+2016-12-13 - Immediate Mental Direction
+2017-01-26 - Kaldor-Hicks Problems
+2017-03-26 - BOA and Budgeting: Multi-Category Transactions
+2017-03-30 - Non-Market Decision Making Reading Notes Section 3.7
+2017-04-05 - A Simple Argument for Objective Value
+2017-04-27 - Against Externalities
+2017-05-01 - Identifying Key Papers in the Economics of Education
+2017-05-03 - Key Papers in the Economics of Education Part 1
+2017-06-07 - An Approach to Reading the Bible: Moderate Literalism and Methodological Plausibility
+2017-08-01 - Defending Iterative Christianity
+2017-09-10 - 3 Problems With Libertarianism
+2017-09-18 - NAP Problems
+2017-10-05 - Education ABM Statement of Intent
+2017-11-15 - Stay Away from BitBet
+2017-12-14 - Mendenhall's ECON 410 Public Choice Final Exam
+2017-12-26 - Node ORM Comparison Table
+2017-12-27 - A Quick Protip When Debugging Node with Chrome Tools
+2018-03-15 - Metaphorical Truth and Metaphorical Legs
+2018-05-07 - The Energy Conversation is Overrated
+2018-06-04 - Lower House Prices
+2018-06-20 - Finding Extra Dollars to Finance Real Estate
+2018-06-23 - Against Moral Autodeterminism
+2018-08-13 - Biblical anti-hyperliteralism vs nonliteralism
+2018-10-03 - Shades of Unschooling
+2018-10-28 - Ramsey is Wrong on Debt
+2018-11-26 - Liberalism, Homosexuality, and Social Media Intersect to Show a Little Truth in Stereotypes, Part 1
+2018-12-14 - Christianity Without Certainty is OK
+2019-04-07 - The Great Debate On Morality, Post Mortem
+2019-12-02 - 20 Angular Quality Guidelines
+2020-01-25 - Last Resort Entrepreneurship
+2020-02-08 - EQ Tactics from Six Books
+2020-03-04 - 2019 Tax Year as a Landlord
+2020-07-04 - How long should it take to find a job after learning to program?
+2021-01-11 - The Names of My Children
+2021-01-28 - Kicking off a job search as a coding career switcher
+2021-05-16 - No Rothbardians by Their Fruit
+2021-07-19 - Unenforced Borders are not Open Borders
+2021-07-29 - Explanations from Rapid Change in Science
+2022-01-09 - What do SWE interviews look like?
+2022-03-09 - Brag Sheets and Better for SWEs
+2022-03-14 - Analyzing 'Resetting Tech Culture' by Accenture and Girls Who Code
+2022-04-27 - A Defense of the Timing of the Incarnation
+2022-05-11 - Epsilon Likelihood in Ordinal Logic
+2022-10-16 - Economics, Health, and Global Warming
+2023-06-09 - 5 Contemplative Strategies for Emotional Self-Stimulation
+2023-10-14 - Panpsychism and Classical Theism

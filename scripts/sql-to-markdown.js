@@ -9,8 +9,8 @@ const sqlContent = fs.readFileSync(
 
 console.log("SQL file loaded, length:", sqlContent.length);
 
-function extractTitles(sql) {
-  const titles = [];
+function extractPosts(sql) {
+  const posts = [];
   const lines = sql.split("\n");
   let inInsertBlock = false;
   let currentInsert = "";
@@ -23,7 +23,6 @@ function extractTitles(sql) {
 
     // Start of an INSERT block
     if (line.startsWith("INSERT INTO `wp_a6ky8v_posts`")) {
-      console.log("\nFound INSERT block:", line.substring(0, 100) + "...");
       inInsertBlock = true;
       currentInsert = line;
       continue;
@@ -37,21 +36,12 @@ function extractTitles(sql) {
       if (line.endsWith(";")) {
         inInsertBlock = false;
         processedCount++;
-        console.log("\nProcessing complete INSERT block #", processedCount);
-
-        // Exit after 20 blocks
-        if (processedCount >= 20) {
-          console.log("Exiting after 20 blocks for debugging");
-          return titles;
-        }
 
         // Extract values from the complete INSERT statement
         const valuesMatch = currentInsert.match(/VALUES\s*(\(.*\))/);
         if (valuesMatch) {
-          console.log("Found VALUES section");
           // Split multiple value sets
           const valuesSets = valuesMatch[1].split("),(");
-          console.log("Number of value sets:", valuesSets.length);
 
           for (let valueSet of valuesSets) {
             // Clean up the first and last value sets
@@ -85,18 +75,18 @@ function extractTitles(sql) {
             const status = values[7]?.replace(/^'|'$/g, "").trim();
             const type = values[20]?.replace(/^'|'$/g, "").trim();
 
-            console.log("Status:", status, "Type:", type);
-
             if (status === "publish" && type === "post") {
-              // Extract title (6th column, index 5)
               const title = values[5]
-                ?.replace(/^'|'$/g, "") // Remove outer quotes
-                .replace(/\\'/g, "'") // Unescape quotes
+                ?.replace(/^'|'$/g, "")
+                .replace(/\\'/g, "'")
                 .trim();
+              const date = values[2]?.replace(/^'|'$/g, "").trim();
 
-              if (title) {
-                console.log("Found title:", title);
-                titles.push(title);
+              if (title && date) {
+                posts.push({
+                  title,
+                  date: new Date(date),
+                });
               }
             }
           }
@@ -105,16 +95,29 @@ function extractTitles(sql) {
     }
   }
 
-  return titles;
+  return posts;
 }
 
 // Main execution
-const titles = extractTitles(sqlContent);
+const posts = extractPosts(sqlContent);
 
-console.log("\nAll titles found:", titles);
+// Sort posts by date
+posts.sort((a, b) => a.date - b.date);
 
-// Write titles to a file
+// Format for output
+const output = posts
+  .map((post) => `${post.date.toISOString().split("T")[0]} - ${post.title}`)
+  .join("\n");
+
+// Write to file
 const outputPath = path.join(__dirname, "../article-titles.txt");
-fs.writeFileSync(outputPath, titles.join("\n"));
+fs.writeFileSync(outputPath, output);
 
-console.log(`\nFound ${titles.length} titles. Written to article-titles.txt`);
+console.log(`\nFound ${posts.length} posts. Written to article-titles.txt`);
+console.log("\nFirst few posts:");
+console.log(
+  posts
+    .slice(0, 5)
+    .map((p) => `${p.date.toISOString().split("T")[0]} - ${p.title}`)
+    .join("\n")
+);
