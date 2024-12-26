@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "convert": "node scripts/sql-to-markdown.js"
+    "convert": "node scripts/sql-to-markdown.js && node scripts/json-to-markdown.js"
   },
   "repository": {
     "type": "git",
@@ -35,7 +35,9 @@
     "@tailwindcss/typography": "^0.5.10",
     "tailwindcss": "^3.3.5",
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31"
+    "postcss": "^8.4.31",
+    "remark": "^14.0.3",
+    "remark-html": "^15.0.2"
   },
   "devDependencies": {
     "@types/node": "^20.9.3",
