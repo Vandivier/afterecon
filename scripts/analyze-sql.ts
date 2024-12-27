@@ -11,7 +11,7 @@ interface Post {
   status: string;
 }
 
-const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump-chunks/chunk-1.txt"), "utf8");
+const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
 
 // Split into all lines
 const lines = chunk1.split("\n");
