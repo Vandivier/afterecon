@@ -1,5 +1,5 @@
 ---
-title: "Sean’s Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless"
+title: Sean’s Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless
 date: 2013-09-10
 author: John Vandivier
 status: publish

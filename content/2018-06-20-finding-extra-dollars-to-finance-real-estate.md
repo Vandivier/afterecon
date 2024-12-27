@@ -1,5 +1,5 @@
 ---
-title: "Finding Extra Dollars to Finance Real Estate"
+title: Finding Extra Dollars to Finance Real Estate
 date: 2018-06-20
 author: John Vandivier
 status: publish

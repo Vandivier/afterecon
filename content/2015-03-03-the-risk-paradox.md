@@ -1,5 +1,5 @@
 ---
-title: "The Risk Paradox"
+title: The Risk Paradox
 date: 2015-03-03
 author: John Vandivier
 status: publish

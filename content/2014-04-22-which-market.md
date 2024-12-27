@@ -1,5 +1,5 @@
 ---
-title: "Which Market?"
+title: Which Market?
 date: 2014-04-22
 author: John Vandivier
 status: publish

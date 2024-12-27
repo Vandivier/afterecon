@@ -1,5 +1,5 @@
 ---
-title: "The Names of My Children"
+title: The Names of My Children
 date: 2021-01-11
 author: John Vandivier
 status: publish

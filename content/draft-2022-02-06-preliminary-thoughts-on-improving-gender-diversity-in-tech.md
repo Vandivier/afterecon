@@ -1,5 +1,5 @@
 ---
-title: "Preliminary Thoughts on Improving Gender Diversity in Tech"
+title: Preliminary Thoughts on Improving Gender Diversity in Tech
 date: 2022-02-06
 author: John Vandivier
 status: draft

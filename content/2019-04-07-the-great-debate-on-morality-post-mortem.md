@@ -1,5 +1,5 @@
 ---
-title: "The Great Debate On Morality, Post Mortem"
+title: The Great Debate On Morality, Post Mortem
 date: 2019-04-07
 author: John Vandivier
 status: publish

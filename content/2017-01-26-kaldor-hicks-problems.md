@@ -1,5 +1,5 @@
 ---
-title: "Kaldor-Hicks Problems"
+title: Kaldor-Hicks Problems
 date: 2017-01-26
 author: John Vandivier
 status: publish

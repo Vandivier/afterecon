@@ -1,5 +1,5 @@
 ---
-title: "Re: On Slavery and Subjugation of Women"
+title: Re: On Slavery and Subjugation of Women
 date: 2016-09-06
 author: John Vandivier
 status: publish

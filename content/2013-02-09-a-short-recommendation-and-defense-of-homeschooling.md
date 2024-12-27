@@ -1,5 +1,5 @@
 ---
-title: "A Short Recommendation and Defense of Homeschooling"
+title: A Short Recommendation and Defense of Homeschooling
 date: 2013-02-09
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Ramsey is Wrong on Debt"
+title: Ramsey is Wrong on Debt
 date: 2018-10-28
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Education ABM Statement of Intent"
+title: Education ABM Statement of Intent
 date: 2017-10-05
 author: John Vandivier
 status: publish

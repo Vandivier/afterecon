@@ -1,5 +1,5 @@
 ---
-title: "No Rothbardians by Their Fruit"
+title: No Rothbardians by Their Fruit
 date: 2021-05-16
 author: John Vandivier
 status: publish

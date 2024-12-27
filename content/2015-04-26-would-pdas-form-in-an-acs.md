@@ -1,5 +1,5 @@
 ---
-title: "Would PDAs form in an ACS?"
+title: Would PDAs form in an ACS?
 date: 2015-04-26
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "The Real Link Between Technology and Entrepreneurship"
+title: The Real Link Between Technology and Entrepreneurship
 date: 2014-06-07
 author: John Vandivier
 status: publish

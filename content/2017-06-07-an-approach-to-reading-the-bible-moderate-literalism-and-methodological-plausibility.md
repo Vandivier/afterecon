@@ -1,5 +1,5 @@
 ---
-title: "An Approach to Reading the Bible: Moderate Literalism and Methodological Plausibility"
+title: An Approach to Reading the Bible: Moderate Literalism and Methodological Plausibility
 date: 2017-06-07
 author: John Vandivier
 status: publish

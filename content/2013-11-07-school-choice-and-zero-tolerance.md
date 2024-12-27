@@ -1,5 +1,5 @@
 ---
-title: "School Choice and Zero Tolerance"
+title: School Choice and Zero Tolerance
 date: 2013-11-07
 author: John Vandivier
 status: publish

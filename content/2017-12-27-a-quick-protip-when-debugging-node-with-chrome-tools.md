@@ -1,5 +1,5 @@
 ---
-title: "A Quick Protip When Debugging Node with Chrome Tools"
+title: A Quick Protip When Debugging Node with Chrome Tools
 date: 2017-12-27
 author: John Vandivier
 status: publish

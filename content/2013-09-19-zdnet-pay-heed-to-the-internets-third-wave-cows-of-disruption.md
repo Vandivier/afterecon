@@ -1,5 +1,5 @@
 ---
-title: "Zdnet: Pay heed to the internet's Third Wave Cows of Disruption"
+title: Zdnet: Pay heed to the internet's Third Wave Cows of Disruption
 date: 2013-09-19
 author: John Vandivier
 status: publish

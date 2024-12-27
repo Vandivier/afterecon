@@ -1,5 +1,5 @@
 ---
-title: "A Defense of the Timing of the Incarnation"
+title: A Defense of the Timing of the Incarnation
 date: 2022-04-27
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Empirical Examples of Anarchy"
+title: Empirical Examples of Anarchy
 date: 2017-02-17
 author: John Vandivier
 status: draft

@@ -1,5 +1,5 @@
 ---
-title: "Religious Arguments for Minarchism"
+title: Religious Arguments for Minarchism
 date: 2013-09-02
 author: John Vandivier
 status: publish

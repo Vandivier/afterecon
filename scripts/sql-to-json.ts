@@ -1,13 +1,21 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from 'url';
 
-// Read SQL file
-const sqlContent = fs.readFileSync(
-  path.join(__dirname, "../wp-dump.sql"),
-  "utf8"
-);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-function createSlug(title) {
+interface Post {
+  title: string;
+  date: string;
+  author: string;
+  content: string;
+  status: string;
+  filename: string;
+  filepath: string;
+}
+
+function createSlug(title: string): string {
   return title
     .toLowerCase()
     .replace(/[^a-z0-9\s-]/g, "") // Remove special chars except spaces and hyphens
@@ -15,14 +23,14 @@ function createSlug(title) {
     .replace(/-+/g, "-"); // Replace multiple hyphens with single hyphen
 }
 
-function normalizeQuotes(text) {
+function normalizeQuotes(text: string): string {
   return text
     .replace(/[""]/g, '"') // Replace fancy double quotes
     .replace(/['']/g, "'"); // Replace fancy single quotes
 }
 
-function extractPosts(sql) {
-  const posts = [];
+function extractPosts(sql: string): Post[] {
+  const posts: Post[] = [];
   const lines = sql.split("\n");
   let inInsertBlock = false;
   let currentInsert = "";
@@ -56,7 +64,7 @@ function extractPosts(sql) {
             valueSet = valueSet.replace(/^\(|\)$/g, "");
 
             // Split into columns, handling quoted values properly
-            const values = [];
+            const values: string[] = [];
             let currentValue = "";
             let inQuotes = false;
 
@@ -126,6 +134,11 @@ function extractPosts(sql) {
 }
 
 // Main execution
+const sqlContent = fs.readFileSync(
+  path.join(__dirname, "../wp-dump.sql"),
+  "utf8"
+);
+
 const posts = extractPosts(sqlContent);
 
 // Sort posts by date

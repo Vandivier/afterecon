@@ -1,5 +1,5 @@
 ---
-title: "Mendenhall's ECON 410 Public Choice Final Exam"
+title: Mendenhall's ECON 410 Public Choice Final Exam
 date: 2017-12-14
 author: John Vandivier
 status: publish

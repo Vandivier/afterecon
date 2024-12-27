@@ -1,5 +1,5 @@
 ---
-title: "Two Models for a Marketing Plan"
+title: Two Models for a Marketing Plan
 date: 2014-05-24
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "J Warner Wallace On Hell"
+title: J Warner Wallace On Hell
 date: 2013-10-02
 author: John Vandivier
 status: publish

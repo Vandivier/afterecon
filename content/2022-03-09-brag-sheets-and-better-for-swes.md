@@ -1,5 +1,5 @@
 ---
-title: "Brag Sheets and Better for SWEs"
+title: Brag Sheets and Better for SWEs
 date: 2022-03-09
 author: John Vandivier
 status: publish

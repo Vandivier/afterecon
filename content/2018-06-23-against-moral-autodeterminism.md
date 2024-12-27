@@ -1,5 +1,5 @@
 ---
-title: "Against Moral Autodeterminism"
+title: Against Moral Autodeterminism
 date: 2018-06-23
 author: John Vandivier
 status: publish

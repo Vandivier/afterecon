@@ -1,5 +1,5 @@
 ---
-title: "Science Problems: Humility Failure"
+title: Science Problems: Humility Failure
 date: 2016-07-21
 author: John Vandivier
 status: publish

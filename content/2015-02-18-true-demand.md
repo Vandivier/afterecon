@@ -1,5 +1,5 @@
 ---
-title: "True Demand"
+title: True Demand
 date: 2015-02-18
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Biblical anti-hyperliteralism vs nonliteralism"
+title: Biblical anti-hyperliteralism vs nonliteralism
 date: 2018-08-13
 author: John Vandivier
 status: publish

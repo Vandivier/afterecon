@@ -1,5 +1,5 @@
 ---
-title: "Lessons from the 2013 Cuccinelli Race"
+title: Lessons from the 2013 Cuccinelli Race
 date: 2013-11-13
 author: John Vandivier
 status: publish

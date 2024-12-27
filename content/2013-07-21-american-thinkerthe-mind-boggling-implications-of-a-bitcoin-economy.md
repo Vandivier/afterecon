@@ -1,5 +1,5 @@
 ---
-title: "American Thinker:The Mind-Boggling Implications of a Bitcoin Economy"
+title: American Thinker:The Mind-Boggling Implications of a Bitcoin Economy
 date: 2013-07-21
 author: John Vandivier
 status: publish

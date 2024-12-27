@@ -1,5 +1,5 @@
 ---
-title: "Political Signals as Modified Market Signals"
+title: Political Signals as Modified Market Signals
 date: 2015-05-10
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "Stay Away from BitBet"
+title: Stay Away from BitBet
 date: 2017-11-15
 author: John Vandivier
 status: publish

@@ -1,5 +1,5 @@
 ---
-title: "This Juneteenth, Let's Discuss the Real History of Rascism"
+title: This Juneteenth, Let's Discuss the Real History of Rascism
 date: 2013-06-20
 author: John Vandivier
 status: publish

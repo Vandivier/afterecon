@@ -1,5 +1,5 @@
 ---
-title: "Key Papers in the Economics of Education Part 1"
+title: Key Papers in the Economics of Education Part 1
 date: 2017-05-03
 author: John Vandivier
 status: publish

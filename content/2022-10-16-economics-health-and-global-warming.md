@@ -1,5 +1,5 @@
 ---
-title: "Economics, Health, and Global Warming"
+title: Economics, Health, and Global Warming
 date: 2022-10-16
 author: John Vandivier
 status: publish

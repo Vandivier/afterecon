@@ -1,5 +1,5 @@
 ---
-title: "BOA and Budgeting: Multi-Category Transactions"
+title: BOA and Budgeting: Multi-Category Transactions
 date: 2017-03-26
 author: John Vandivier
 status: publish

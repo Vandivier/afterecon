@@ -1,5 +1,5 @@
 ---
-title: "20 Angular Quality Guidelines"
+title: 20 Angular Quality Guidelines
 date: 2019-12-02
 author: John Vandivier
 status: publish

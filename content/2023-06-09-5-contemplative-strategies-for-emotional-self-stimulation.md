@@ -1,5 +1,5 @@
 ---
-title: "5 Contemplative Strategies for Emotional Self-Stimulation"
+title: 5 Contemplative Strategies for Emotional Self-Stimulation
 date: 2023-06-09
 author: John Vandivier
 status: publish

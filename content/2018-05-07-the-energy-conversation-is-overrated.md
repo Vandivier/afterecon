@@ -1,5 +1,5 @@
 ---
-title: "The Energy Conversation is Overrated"
+title: The Energy Conversation is Overrated
 date: 2018-05-07
 author: John Vandivier
 status: publish

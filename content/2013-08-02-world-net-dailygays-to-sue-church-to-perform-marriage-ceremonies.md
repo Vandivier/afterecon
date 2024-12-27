@@ -1,5 +1,5 @@
 ---
-title: "World Net Daily:'Gays' to sue church to perform 'marriage' ceremonies"
+title: World Net Daily:'Gays' to sue church to perform 'marriage' ceremonies
 date: 2013-08-02
 author: John Vandivier
 status: publish

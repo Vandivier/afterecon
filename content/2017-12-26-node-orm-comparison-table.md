@@ -1,5 +1,5 @@
 ---
-title: "Node ORM Comparison Table"
+title: Node ORM Comparison Table
 date: 2017-12-26
 author: John Vandivier
 status: publish

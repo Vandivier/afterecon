@@ -1,5 +1,5 @@
 ---
-title: "Global Financial Crises and Institutions Cheat Sheet"
+title: Global Financial Crises and Institutions Cheat Sheet
 date: 2015-05-09
 author: John Vandivier
 status: publish

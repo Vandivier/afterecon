@@ -1,5 +1,5 @@
 ---
-title: "Easter, Christmas, and Paganism"
+title: Easter, Christmas, and Paganism
 date: 2015-04-05
 author: John Vandivier
 status: publish

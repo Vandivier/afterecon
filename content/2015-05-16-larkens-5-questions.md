@@ -1,5 +1,5 @@
 ---
-title: "Larken's 5 Questions"
+title: Larken's 5 Questions
 date: 2015-05-16
 author: John Vandivier
 status: publish

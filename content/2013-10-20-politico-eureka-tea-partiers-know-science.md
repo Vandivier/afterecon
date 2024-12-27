@@ -1,5 +1,5 @@
 ---
-title: "Politico: Eureka! Tea partiers know science"
+title: Politico: Eureka! Tea partiers know science
 date: 2013-10-20
 author: John Vandivier
 status: publish

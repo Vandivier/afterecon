@@ -1,5 +1,5 @@
 ---
-title: "Against Externalities"
+title: Against Externalities
 date: 2017-04-27
 author: John Vandivier
 status: publish

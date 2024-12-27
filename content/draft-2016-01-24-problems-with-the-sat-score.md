@@ -1,5 +1,5 @@
 ---
-title: "Problems With the SAT Score"
+title: Problems With the SAT Score
 date: 2016-01-24
 author: John Vandivier
 status: draft

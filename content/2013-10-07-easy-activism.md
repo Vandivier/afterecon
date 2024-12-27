@@ -1,5 +1,5 @@
 ---
-title: "Easy Activism"
+title: Easy Activism
 date: 2013-10-07
 author: John Vandivier
 status: publish

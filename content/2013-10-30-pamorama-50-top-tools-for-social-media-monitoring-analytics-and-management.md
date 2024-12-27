@@ -1,5 +1,5 @@
 ---
-title: "Pamorama: 50 Top Tools for Social Media Monitoring, Analytics, and Management"
+title: Pamorama: 50 Top Tools for Social Media Monitoring, Analytics, and Management
 date: 2013-10-30
 author: John Vandivier
 status: publish

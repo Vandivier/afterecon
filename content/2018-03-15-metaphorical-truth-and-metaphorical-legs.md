@@ -1,5 +1,5 @@
 ---
-title: "Metaphorical Truth and Metaphorical Legs"
+title: Metaphorical Truth and Metaphorical Legs
 date: 2018-03-15
 author: John Vandivier
 status: publish

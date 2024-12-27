@@ -1,5 +1,5 @@
 ---
-title: "The Halo Effect and Unconscious Accuracy"
+title: The Halo Effect and Unconscious Accuracy
 date: 2014-10-14
 author: John Vandivier
 status: publish
