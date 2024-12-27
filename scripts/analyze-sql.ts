@@ -17,6 +17,7 @@ const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
 const lines = chunk1.split("\n");
 
 const posts: Post[] = [];
+const seenTitles = new Set<string>();
 
 lines.forEach(line => {
   // Extract post ID
@@ -35,6 +36,10 @@ lines.forEach(line => {
   const titleParts = beforeStatus.split(",");
   const title = titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "");
 
+  // Skip if we've seen this title before
+  if (seenTitles.has(title)) return;
+  seenTitles.add(title);
+
   posts.push({
     postId,
     status: isPublished ? "publish" : "inherit",
@@ -46,4 +51,4 @@ lines.forEach(line => {
 const outputPath = path.join(__dirname, "../articles-from-analyze-sql.json");
 fs.writeFileSync(outputPath, JSON.stringify(posts, null, 2));
 
-console.log(`Wrote ${posts.length} posts to articles-from-analyze-sql.json`); 
+console.log(`Wrote ${posts.length} unique posts to articles-from-analyze-sql.json`); 
