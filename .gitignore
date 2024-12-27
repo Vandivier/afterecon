@@ -31,4 +31,6 @@ next-env.d.ts
 
 # sql dump from wordpress / phpMyAdmin
 # it's used by the scripts/sql-to-markdown.js script
-wp-dump.sql
+wp-*.sql
+wp-dump-chunks/
+
