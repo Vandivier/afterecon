@@ -2561,25 +2561,29 @@
     "postId": 2763,
     "status": "inherit",
     "title": "About Us",
-    "postDate": "2014-02-27 17:36:05"
+    "postDate": "2014-02-27 17:36:05",
+    "ignore": true
   },
   {
     "postId": 2766,
     "status": "publish",
     "title": "Knowledge without application is meaningless.",
-    "postDate": "2014-02-27 17:53:01"
+    "postDate": "2014-02-27 17:53:01",
+    "ignore": "quote"
   },
   {
     "postId": 2767,
     "status": "publish",
     "title": "I have always thought the actions of men the best interpreters of their thoughts.",
-    "postDate": "2014-02-27 17:54:30"
+    "postDate": "2014-02-27 17:54:30",
+    "ignore": "quote"
   },
   {
     "postId": 6209,
     "status": "inherit",
     "title": "Funny",
-    "postDate": "2017-03-14 09:18:58"
+    "postDate": "2017-03-14 09:18:58",
+    "ignore": true
   },
   {
     "postId": 3587,
@@ -2717,13 +2721,15 @@
     "postId": 3149,
     "status": "inherit",
     "title": "Score on Teacher Attendance",
-    "postDate": "2014-04-22 01:04:30"
+    "postDate": "2014-04-22 01:04:30",
+    "ignore": true
   },
   {
     "postId": 3150,
     "status": "inherit",
     "title": "Score on Teacher Attendance_CSV_v5_140422",
-    "postDate": "2014-04-22 01:05:08"
+    "postDate": "2014-04-22 01:05:08",
+    "ignore": true
   },
   {
     "postId": 3025,
@@ -2837,13 +2843,15 @@
     "postId": 5088,
     "status": "inherit",
     "title": "the_output",
-    "postDate": "2015-06-02 04:47:48"
+    "postDate": "2015-06-02 04:47:48",
+    "ignore": true
   },
   {
     "postId": 5089,
     "status": "inherit",
     "title": "the_output_v2",
-    "postDate": "2015-06-02 04:47:59"
+    "postDate": "2015-06-02 04:47:59",
+    "ignore": true
   },
   {
     "postId": 5562,
@@ -2873,13 +2881,15 @@
     "postId": 5560,
     "status": "inherit",
     "title": "gods-not-dead-rotten-tomatoes",
-    "postDate": "2016-04-16 23:35:47"
+    "postDate": "2016-04-16 23:35:47",
+    "ignore": true
   },
   {
     "postId": 4528,
     "status": "inherit",
     "title": "inequalitymeme_unbiasedamerica",
-    "postDate": "2015-01-27 15:33:21"
+    "postDate": "2015-01-27 15:33:21",
+    "ignore": true
   },
   {
     "postId": 4701,
@@ -2963,25 +2973,29 @@
     "postId": 7452,
     "status": "inherit",
     "title": "Portfolio",
-    "postDate": "2020-04-25 13:25:01"
+    "postDate": "2020-04-25 13:25:01",
+    "ignore": true
   },
   {
     "postId": 8133,
     "status": "publish",
     "title": "About",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 7456,
     "status": "inherit",
     "title": "Articles",
-    "postDate": "2020-04-25 13:52:33"
+    "postDate": "2020-04-25 13:52:33",
+    "ignore": true
   },
   {
     "postId": 5007,
     "status": "inherit",
     "title": "Exams",
-    "postDate": "2015-05-19 01:22:27"
+    "postDate": "2015-05-19 01:22:27",
+    "ignore": true
   },
   {
     "postId": 5028,
@@ -3059,31 +3073,36 @@
     "postId": 6299,
     "status": "inherit",
     "title": "auto-proxy",
-    "postDate": "2017-04-08 11:38:20"
+    "postDate": "2017-04-08 11:38:20",
+    "ignore": true
   },
   {
     "postId": 6300,
     "status": "inherit",
     "title": "reference-manager-download-citation",
-    "postDate": "2017-04-08 11:38:24"
+    "postDate": "2017-04-08 11:38:24",
+    "ignore": true
   },
   {
     "postId": 6301,
     "status": "inherit",
     "title": "zotero-bibliography",
-    "postDate": "2017-04-08 11:38:26"
+    "postDate": "2017-04-08 11:38:26",
+    "ignore": true
   },
   {
     "postId": 6302,
     "status": "inherit",
     "title": "zotero-to-clipboard",
-    "postDate": "2017-04-08 11:38:28"
+    "postDate": "2017-04-08 11:38:28",
+    "ignore": true
   },
   {
     "postId": 3654,
     "status": "publish",
     "title": "A little Philosophy inclineth Mans Minde to Atheisme; But depth in Philosophy, bringeth Mens Mindes about to Religion.",
-    "postDate": "2014-08-04 13:00:41"
+    "postDate": "2014-08-04 13:00:41",
+    "ignore": "quote"
   },
   {
     "postId": 3659,
@@ -3119,7 +3138,8 @@
     "postId": 6312,
     "status": "inherit",
     "title": "Brackets > Atom",
-    "postDate": "2017-04-16 14:24:03"
+    "postDate": "2017-04-16 14:24:03",
+    "ignore": "obsolete"
   },
   {
     "postId": 6313,
@@ -3227,7 +3247,8 @@
     "postId": 4289,
     "status": "publish",
     "title": "Invisible shield found thousands of miles above Earth blocks \\'killer electrons\\' -- ScienceDaily",
-    "postDate": "2014-11-26 23:58:15"
+    "postDate": "2014-11-26 23:58:15",
+    "ignore": true
   },
   {
     "postId": 3598,
@@ -3299,7 +3320,8 @@
     "postId": 5553,
     "status": "inherit",
     "title": "sum-pernp",
-    "postDate": "2016-04-10 20:44:04"
+    "postDate": "2016-04-10 20:44:04",
+    "ignore": true
   },
   {
     "postId": 5552,
@@ -3311,7 +3333,8 @@
     "postId": 5556,
     "status": "inherit",
     "title": "Infographics",
-    "postDate": "2016-04-10 17:06:51"
+    "postDate": "2016-04-10 17:06:51",
+    "ignore": true
   },
   {
     "postId": 4501,
@@ -3329,13 +3352,15 @@
     "postId": 4916,
     "status": "inherit",
     "title": "Politics and Religion",
-    "postDate": "2015-05-02 21:02:33"
+    "postDate": "2015-05-02 21:02:33",
+    "ignore": true
   },
   {
     "postId": 4917,
     "status": "inherit",
     "title": "empty_plugin",
-    "postDate": "2015-05-03 19:17:24"
+    "postDate": "2015-05-03 19:17:24",
+    "ignore": true
   },
   {
     "postId": 5096,
@@ -3347,7 +3372,8 @@
     "postId": 3697,
     "status": "publish",
     "title": "People who think that there is a rigid status quo which cannot possibly be broken are wrong. It is rigid, it\\'s true, but it\\'s like a pane of glass. When it breaks it shatters.",
-    "postDate": "2014-09-05 15:58:46"
+    "postDate": "2014-09-05 15:58:46",
+    "ignore": "quote"
   },
   {
     "postId": 4642,
@@ -3365,7 +3391,8 @@
     "postId": 4551,
     "status": "publish",
     "title": "The people of these United States are the rightful masters of both Congresses and courts, not to overthrow the Constitution, but to overthrow the men who pervert the Constitution.",
-    "postDate": "2015-01-29 14:29:29"
+    "postDate": "2015-01-29 14:29:29",
+    "ignore": "quote"
   },
   {
     "postId": 7257,
@@ -3389,7 +3416,8 @@
     "postId": 5297,
     "status": "publish",
     "title": "The god an atheist does not believe in is usually not the God of the Bible. Unfortunately, the god of the \\\"believer\\\" is also not the God of the Bible.",
-    "postDate": "2015-11-26 21:23:49"
+    "postDate": "2015-11-26 21:23:49",
+    "ignore": "quote"
   },
   {
     "postId": 5448,
@@ -3413,7 +3441,8 @@
     "postId": 5542,
     "status": "inherit",
     "title": "stata-example-2",
-    "postDate": "2016-03-24 01:07:39"
+    "postDate": "2016-03-24 01:07:39",
+    "ignore": true
   },
   {
     "postId": 4378,
@@ -3509,13 +3538,15 @@
     "postId": 5166,
     "status": "inherit",
     "title": "jv_bookmarks_v14_150627",
-    "postDate": "2015-07-22 04:07:40"
+    "postDate": "2015-07-22 04:07:40",
+    "ignore": true
   },
   {
     "postId": 5167,
     "status": "inherit",
     "title": "bookmarkJsonArray150722",
-    "postDate": "2015-07-23 04:54:39"
+    "postDate": "2015-07-23 04:54:39",
+    "ignore": true
   },
   {
     "postId": 3808,
@@ -3629,13 +3660,15 @@
     "postId": 3779,
     "status": "inherit",
     "title": "John_HardenHeadShot_Small",
-    "postDate": "2014-09-21 04:46:33"
+    "postDate": "2014-09-21 04:46:33",
+    "ignore": true
   },
   {
     "postId": 3704,
     "status": "inherit",
     "title": "Gallery",
-    "postDate": "2014-09-09 16:17:18"
+    "postDate": "2014-09-09 16:17:18",
+    "ignore": true
   },
   {
     "postId": 3759,
@@ -3839,7 +3872,8 @@
     "postId": 4476,
     "status": "inherit",
     "title": "Bitcoin3MonthChart_150115",
-    "postDate": "2015-01-15 13:59:43"
+    "postDate": "2015-01-15 13:59:43",
+    "ignore": true
   },
   {
     "postId": 4406,
@@ -3869,7 +3903,8 @@
     "postId": 4248,
     "status": "inherit",
     "title": "▶ The World\\'s Most Persecuted Minority: Christians - YouTube",
-    "postDate": "2014-11-16 18:13:42"
+    "postDate": "2014-11-16 18:13:42",
+    "ignore": true
   },
   {
     "postId": 4255,
@@ -4061,7 +4096,8 @@
     "postId": 6637,
     "status": "inherit",
     "title": "predictions-vs-real-world",
-    "postDate": "2018-05-06 18:37:04"
+    "postDate": "2018-05-06 18:37:04",
+    "ignore": true
   },
   {
     "postId": 6640,
@@ -4085,7 +4121,8 @@
     "postId": 4894,
     "status": "inherit",
     "title": "aggregating demand",
-    "postDate": "2015-04-28 01:56:43"
+    "postDate": "2015-04-28 01:56:43",
+    "ignore": true
   },
   {
     "postId": 5512,
@@ -4103,7 +4140,8 @@
     "postId": 5578,
     "status": "publish",
     "title": "Random Article",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 5544,
@@ -4343,7 +4381,8 @@
     "postId": 5173,
     "status": "inherit",
     "title": "b19_150801",
-    "postDate": "2015-08-02 04:27:35"
+    "postDate": "2015-08-02 04:27:35",
+    "ignore": true
   },
   {
     "postId": 5182,
@@ -4385,19 +4424,22 @@
     "postId": 5170,
     "status": "inherit",
     "title": "b15_150726",
-    "postDate": "2015-07-27 03:38:52"
+    "postDate": "2015-07-27 03:38:52",
+    "ignore": true
   },
   {
     "postId": 5171,
     "status": "inherit",
     "title": "b16_150726",
-    "postDate": "2015-07-27 04:53:54"
+    "postDate": "2015-07-27 04:53:54",
+    "ignore": true
   },
   {
     "postId": 5172,
     "status": "inherit",
     "title": "b17_150726",
-    "postDate": "2015-07-27 04:58:45"
+    "postDate": "2015-07-27 04:58:45",
+    "ignore": true
   },
   {
     "postId": 5353,
@@ -4439,25 +4481,29 @@
     "postId": 5204,
     "status": "inherit",
     "title": "convertcsv2",
-    "postDate": "2015-09-07 08:16:37"
+    "postDate": "2015-09-07 08:16:37",
+    "ignore": true
   },
   {
     "postId": 5205,
     "status": "inherit",
     "title": "convertcsv4",
-    "postDate": "2015-09-07 08:23:37"
+    "postDate": "2015-09-07 08:23:37",
+    "ignore": true
   },
   {
     "postId": 5208,
     "status": "inherit",
     "title": "convertcsv3",
-    "postDate": "2015-09-07 08:43:09"
+    "postDate": "2015-09-07 08:43:09",
+    "ignore": true
   },
   {
     "postId": 5209,
     "status": "inherit",
     "title": "convertcsv6",
-    "postDate": "2015-09-07 09:15:12"
+    "postDate": "2015-09-07 09:15:12",
+    "ignore": true
   },
   {
     "postId": 5863,
@@ -4493,7 +4539,8 @@
     "postId": 5251,
     "status": "inherit",
     "title": "ln-approximation-test",
-    "postDate": "2015-10-14 00:54:22"
+    "postDate": "2015-10-14 00:54:22",
+    "ignore": true
   },
   {
     "postId": 5262,
@@ -4577,79 +4624,92 @@
     "postId": 7816,
     "status": "inherit",
     "title": "Featured Writing",
-    "postDate": "2021-04-27 08:41:52"
+    "postDate": "2021-04-27 08:41:52",
+    "ignore": true
   },
   {
     "postId": 5328,
     "status": "inherit",
     "title": "econ-graph-1",
-    "postDate": "2015-12-06 21:31:43"
+    "postDate": "2015-12-06 21:31:43",
+    "ignore": true
   },
   {
     "postId": 5329,
     "status": "inherit",
     "title": "econ-graph-7",
-    "postDate": "2015-12-06 21:31:48"
+    "postDate": "2015-12-06 21:31:48",
+    "ignore": true
   },
   {
     "postId": 5330,
     "status": "inherit",
     "title": "econ-graph-8",
-    "postDate": "2015-12-06 21:31:49"
+    "postDate": "2015-12-06 21:31:49",
+    "ignore": true
   },
   {
     "postId": 5331,
     "status": "inherit",
     "title": "econ-graph-9",
-    "postDate": "2015-12-06 21:31:53"
+    "postDate": "2015-12-06 21:31:53",
+    "ignore": true
   },
   {
     "postId": 5332,
     "status": "inherit",
     "title": "econ-graph-10",
-    "postDate": "2015-12-06 21:31:55"
+    "postDate": "2015-12-06 21:31:55",
+    "ignore": true
   },
   {
     "postId": 5333,
     "status": "inherit",
     "title": "econ-graph-11",
-    "postDate": "2015-12-06 21:31:57"
+    "postDate": "2015-12-06 21:31:57",
+    "ignore": true
   },
   {
     "postId": 5334,
     "status": "inherit",
     "title": "econ-graph-12",
-    "postDate": "2015-12-06 21:31:58"
+    "postDate": "2015-12-06 21:31:58",
+    "ignore": true
   },
   {
     "postId": 5335,
     "status": "inherit",
     "title": "econ-graph-2",
-    "postDate": "2015-12-06 21:32:01"
+    "postDate": "2015-12-06 21:32:01",
+    "ignore": true
   },
   {
     "postId": 5336,
     "status": "inherit",
     "title": "econ-graph-3",
-    "postDate": "2015-12-06 21:32:03"
+    "postDate": "2015-12-06 21:32:03",
+    "ignore": true
   },
   {
     "postId": 5337,
     "status": "inherit",
     "title": "econ-graph-4",
-    "postDate": "2015-12-06 21:32:06"
+    "postDate": "2015-12-06 21:32:06",
+    "ignore": true
   },
   {
     "postId": 5338,
     "status": "inherit",
     "title": "econ-graph-5",
-    "postDate": "2015-12-06 21:32:07"
+    "postDate": "2015-12-06 21:32:07",
+    "ignore": true
   },
   {
     "postId": 5339,
     "status": "inherit",
     "title": "econ-graph-6",
-    "postDate": "2015-12-06 21:32:09"
+    "postDate": "2015-12-06 21:32:09",
+    "ignore": true
   },
   {
     "postId": 5444,
@@ -4661,7 +4721,8 @@
     "postId": 6050,
     "status": "inherit",
     "title": "Exams Overview",
-    "postDate": "2017-02-03 08:22:42"
+    "postDate": "2017-02-03 08:22:42",
+    "ignore": true
   },
   {
     "postId": 5363,
@@ -4685,7 +4746,8 @@
     "postId": 5441,
     "status": "inherit",
     "title": "noob-tex-exam-solution",
-    "postDate": "2015-12-12 02:32:49"
+    "postDate": "2015-12-12 02:32:49",
+    "ignore": true
   },
   {
     "postId": 5450,
@@ -4697,7 +4759,8 @@
     "postId": 5445,
     "status": "inherit",
     "title": "s-w-credit-rationing",
-    "postDate": "2015-12-13 20:17:44"
+    "postDate": "2015-12-13 20:17:44",
+    "ignore": true
   },
   {
     "postId": 5456,
@@ -4781,19 +4844,22 @@
     "postId": 5494,
     "status": "inherit",
     "title": "jetpack-code",
-    "postDate": "2016-02-04 03:09:07"
+    "postDate": "2016-02-04 03:09:07",
+    "ignore": true
   },
   {
     "postId": 5495,
     "status": "inherit",
     "title": "rendering",
-    "postDate": "2016-02-04 03:09:09"
+    "postDate": "2016-02-04 03:09:09",
+    "ignore": true
   },
   {
     "postId": 5496,
     "status": "inherit",
     "title": "katex-code",
-    "postDate": "2016-02-04 03:09:09"
+    "postDate": "2016-02-04 03:09:09",
+    "ignore": true
   },
   {
     "postId": 5502,
@@ -4805,7 +4871,8 @@
     "postId": 5500,
     "status": "inherit",
     "title": "arbitration-award",
-    "postDate": "2016-02-06 16:26:50"
+    "postDate": "2016-02-06 16:26:50",
+    "ignore": true
   },
   {
     "postId": 5509,
@@ -4823,19 +4890,22 @@
     "postId": 5526,
     "status": "inherit",
     "title": "Capture",
-    "postDate": "2016-03-16 00:15:44"
+    "postDate": "2016-03-16 00:15:44",
+    "ignore": true
   },
   {
     "postId": 5527,
     "status": "inherit",
     "title": "stata-example-output",
-    "postDate": "2016-03-16 01:02:19"
+    "postDate": "2016-03-16 01:02:19",
+    "ignore": true
   },
   {
     "postId": 5574,
     "status": "inherit",
     "title": "disposable-income-per-capita-over-time",
-    "postDate": "2016-04-17 11:46:15"
+    "postDate": "2016-04-17 11:46:15",
+    "ignore": true
   },
   {
     "postId": 5588,
@@ -4859,7 +4929,8 @@
     "postId": 5598,
     "status": "inherit",
     "title": "macro-spring-2016-q6",
-    "postDate": "2016-06-13 19:11:13"
+    "postDate": "2016-06-13 19:11:13",
+    "ignore": true
   },
   {
     "postId": 6025,
@@ -4895,13 +4966,15 @@
     "postId": 5610,
     "status": "inherit",
     "title": "macro-solow-fall-2015-q5",
-    "postDate": "2016-06-18 01:51:19"
+    "postDate": "2016-06-18 01:51:19",
+    "ignore": true
   },
   {
     "postId": 5615,
     "status": "inherit",
     "title": "macro-rck-spring-2012-q2.2",
-    "postDate": "2016-07-04 15:05:15"
+    "postDate": "2016-07-04 15:05:15",
+    "ignore": true
   },
   {
     "postId": 5656,
@@ -4979,7 +5052,8 @@
     "postId": 5685,
     "status": "inherit",
     "title": "Is Old Testament Slavery Evidence Against Biblical Morality",
-    "postDate": "2016-09-03 17:51:34"
+    "postDate": "2016-09-03 17:51:34",
+    "ignore": true
   },
   {
     "postId": 5683,
@@ -5015,13 +5089,15 @@
     "postId": 7478,
     "status": "inherit",
     "title": "Pro Type Favicon Game",
-    "postDate": "2020-04-26 07:35:56"
+    "postDate": "2020-04-26 07:35:56",
+    "ignore": true
   },
   {
     "postId": 7458,
     "status": "inherit",
     "title": "Learn",
-    "postDate": "2020-04-25 13:55:08"
+    "postDate": "2020-04-25 13:55:08",
+    "ignore": true
   },
   {
     "postId": 5722,
@@ -5045,7 +5121,8 @@
     "postId": 5725,
     "status": "inherit",
     "title": "craft-beer-deregulation",
-    "postDate": "2016-09-10 13:11:21"
+    "postDate": "2016-09-10 13:11:21",
+    "ignore": true
   },
   {
     "postId": 5735,
@@ -5069,7 +5146,8 @@
     "postId": 5738,
     "status": "inherit",
     "title": "The Argument from Paternalism from Pleasant Surprise",
-    "postDate": "2016-09-11 11:59:25"
+    "postDate": "2016-09-11 11:59:25",
+    "ignore": true
   },
   {
     "postId": 5767,
@@ -5087,25 +5165,29 @@
     "postId": 5755,
     "status": "inherit",
     "title": "johnsky-3",
-    "postDate": "2016-09-12 00:26:26"
+    "postDate": "2016-09-12 00:26:26",
+    "ignore": true
   },
   {
     "postId": 5756,
     "status": "inherit",
     "title": "johnsky-4",
-    "postDate": "2016-09-12 00:26:29"
+    "postDate": "2016-09-12 00:26:29",
+    "ignore": true
   },
   {
     "postId": 5757,
     "status": "inherit",
     "title": "johnsky-1",
-    "postDate": "2016-09-12 00:26:32"
+    "postDate": "2016-09-12 00:26:32",
+    "ignore": true
   },
   {
     "postId": 5758,
     "status": "inherit",
     "title": "johnsky-2",
-    "postDate": "2016-09-12 00:26:38"
+    "postDate": "2016-09-12 00:26:38",
+    "ignore": true
   },
   {
     "postId": 5759,
@@ -5117,7 +5199,8 @@
     "postId": 5763,
     "status": "inherit",
     "title": "johnsky-5",
-    "postDate": "2016-09-12 01:44:32"
+    "postDate": "2016-09-12 01:44:32",
+    "ignore": true
   },
   {
     "postId": 5769,
@@ -5153,19 +5236,22 @@
     "postId": 5796,
     "status": "inherit",
     "title": "Polls and Surveys",
-    "postDate": "2016-10-02 17:45:21"
+    "postDate": "2016-10-02 17:45:21",
+    "ignore": true
   },
   {
     "postId": 5811,
     "status": "inherit",
     "title": "Surveys",
-    "postDate": "2016-10-02 21:17:02"
+    "postDate": "2016-10-02 21:17:02",
+    "ignore": true
   },
   {
     "postId": 7825,
     "status": "inherit",
     "title": "image-1",
-    "postDate": "2021-05-11 22:15:33"
+    "postDate": "2021-05-11 22:15:33",
+    "ignore": true
   },
   {
     "postId": 7557,
@@ -5201,7 +5287,8 @@
     "postId": 5859,
     "status": "inherit",
     "title": "ghost-gunner",
-    "postDate": "2016-10-19 22:07:26"
+    "postDate": "2016-10-19 22:07:26",
+    "ignore": true
   },
   {
     "postId": 5866,
@@ -5249,7 +5336,8 @@
     "postId": 6113,
     "status": "inherit",
     "title": "new-menu",
-    "postDate": "2017-02-14 21:41:52"
+    "postDate": "2017-02-14 21:41:52",
+    "ignore": true
   },
   {
     "postId": 5983,
@@ -5285,7 +5373,8 @@
     "postId": 5922,
     "status": "publish",
     "title": "Blogroll",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 5926,
@@ -5296,7 +5385,7 @@
   {
     "postId": 5928,
     "status": "publish",
-    "title": "Short Essay Regarding \\\"Samaritan’s Dilemmas, Wealth Redistribution, and Polycentricity\\\"",
+    "title": "Short Essay Regarding \\\"Samaritan's Dilemmas, Wealth Redistribution, and Polycentricity\\\"",
     "postDate": "2016-11-22 15:00:43"
   },
   {
@@ -5315,13 +5404,15 @@
     "postId": 5937,
     "status": "inherit",
     "title": "entangled-political-economy",
-    "postDate": "2016-11-27 17:33:30"
+    "postDate": "2016-11-27 17:33:30",
+    "ignore": true
   },
   {
     "postId": 5938,
     "status": "inherit",
     "title": "pop-statistics",
-    "postDate": "2016-11-27 17:34:02"
+    "postDate": "2016-11-27 17:34:02",
+    "ignore": true
   },
   {
     "postId": 5973,
@@ -5381,12 +5472,13 @@
     "postId": 5984,
     "status": "inherit",
     "title": "comments-tag-numbers-atheism",
-    "postDate": "2016-12-06 18:31:40"
+    "postDate": "2016-12-06 18:31:40",
+    "ignore": true
   },
   {
     "postId": 5994,
     "status": "publish",
-    "title": "An Odd Argument for Belief in God – The Vandivierian Wager",
+    "title": "An Odd Argument for Belief in God - The Vandivierian Wager",
     "postDate": "2016-12-12 15:00:47"
   },
   {
@@ -5459,19 +5551,22 @@
     "postId": 6062,
     "status": "inherit",
     "title": "micro-syl-econ-881-wagner",
-    "postDate": "2017-02-07 23:04:20"
+    "postDate": "2017-02-07 23:04:20",
+    "ignore": true
   },
   {
     "postId": 6066,
     "status": "inherit",
     "title": "budget-tool",
-    "postDate": "2017-02-07 23:57:33"
+    "postDate": "2017-02-07 23:57:33",
+    "ignore": true
   },
   {
     "postId": 6068,
     "status": "inherit",
     "title": "budget-tool-2",
-    "postDate": "2017-02-08 00:00:48"
+    "postDate": "2017-02-08 00:00:48",
+    "ignore": true
   },
   {
     "postId": 6071,
@@ -5483,7 +5578,8 @@
     "postId": 6072,
     "status": "inherit",
     "title": "remote",
-    "postDate": "2017-02-08 02:29:55"
+    "postDate": "2017-02-08 02:29:55",
+    "ignore": true
   },
   {
     "postId": 6076,
@@ -5507,25 +5603,29 @@
     "postId": 6082,
     "status": "inherit",
     "title": "figure-1-2016-fall",
-    "postDate": "2017-02-08 21:59:42"
+    "postDate": "2017-02-08 21:59:42",
+    "ignore": true
   },
   {
     "postId": 6081,
     "status": "inherit",
     "title": "semester-paper",
-    "postDate": "2017-02-08 21:58:19"
+    "postDate": "2017-02-08 21:58:19",
+    "ignore": true
   },
   {
     "postId": 6083,
     "status": "inherit",
     "title": "figure-2-2016-fall",
-    "postDate": "2017-02-08 21:59:44"
+    "postDate": "2017-02-08 21:59:44",
+    "ignore": true
   },
   {
     "postId": 6084,
     "status": "inherit",
     "title": "tables-2016-fall",
-    "postDate": "2017-02-08 21:59:47"
+    "postDate": "2017-02-08 21:59:47",
+    "ignore": true
   },
   {
     "postId": 6149,
@@ -5549,13 +5649,15 @@
     "postId": 6103,
     "status": "inherit",
     "title": "illegal-cost",
-    "postDate": "2017-02-12 20:33:52"
+    "postDate": "2017-02-12 20:33:52",
+    "ignore": true
   },
   {
     "postId": 6110,
     "status": "inherit",
     "title": "immigrant-income",
-    "postDate": "2017-02-12 21:30:45"
+    "postDate": "2017-02-12 21:30:45",
+    "ignore": true
   },
   {
     "postId": 6112,
@@ -5567,19 +5669,22 @@
     "postId": 6115,
     "status": "publish",
     "title": "Chapter 1",
-    "postDate": "2017-02-14 22:27:00"
+    "postDate": "2017-02-14 22:27:00",
+    "ignore": true
   },
   {
     "postId": 6116,
     "status": "publish",
     "title": "Chapter 2",
-    "postDate": "2017-02-14 22:27:00"
+    "postDate": "2017-02-14 22:27:00",
+    "ignore": true
   },
   {
     "postId": 6122,
     "status": "inherit",
     "title": "output_1487124994",
-    "postDate": "2017-02-14 22:21:19"
+    "postDate": "2017-02-14 22:21:19",
+    "ignore": true
   },
   {
     "postId": 6133,
@@ -5609,7 +5714,8 @@
     "postId": 6212,
     "status": "inherit",
     "title": "econ-856-leeson-syl",
-    "postDate": "2017-03-21 17:15:26"
+    "postDate": "2017-03-21 17:15:26",
+    "ignore": true
   },
   {
     "postId": 6147,
@@ -5663,7 +5769,8 @@
     "postId": 6181,
     "status": "inherit",
     "title": "#lyfgoalz",
-    "postDate": "2017-02-28 23:17:26"
+    "postDate": "2017-02-28 23:17:26",
+    "ignore": true
   },
   {
     "postId": 6186,
@@ -5717,19 +5824,22 @@
     "postId": 6238,
     "status": "inherit",
     "title": "categories",
-    "postDate": "2017-03-26 12:29:54"
+    "postDate": "2017-03-26 12:29:54",
+    "ignore": true
   },
   {
     "postId": 6239,
     "status": "inherit",
     "title": "categories-rules",
-    "postDate": "2017-03-26 12:39:19"
+    "postDate": "2017-03-26 12:39:19",
+    "ignore": true
   },
   {
     "postId": 6246,
     "status": "inherit",
     "title": "predictions-sex-paper",
-    "postDate": "2017-03-26 16:06:19"
+    "postDate": "2017-03-26 16:06:19",
+    "ignore": true
   },
   {
     "postId": 6282,
@@ -5771,7 +5881,8 @@
     "postId": 6277,
     "status": "inherit",
     "title": "semester-paper-strat-895-2016",
-    "postDate": "2017-03-31 22:34:50"
+    "postDate": "2017-03-31 22:34:50",
+    "ignore": true
   },
   {
     "postId": 6280,
@@ -5783,7 +5894,8 @@
     "postId": 6284,
     "status": "inherit",
     "title": "881-problems-in-micro-turned-in",
-    "postDate": "2017-04-02 15:51:28"
+    "postDate": "2017-04-02 15:51:28",
+    "ignore": true
   },
   {
     "postId": 6287,
@@ -5957,7 +6069,8 @@
     "postId": 6434,
     "status": "inherit",
     "title": "jerusalem-israel-palestine",
-    "postDate": "2017-12-09 19:58:23"
+    "postDate": "2017-12-09 19:58:23",
+    "ignore": true
   },
   {
     "postId": 6436,
@@ -5993,25 +6106,29 @@
     "postId": 6461,
     "status": "inherit",
     "title": "force-1",
-    "postDate": "2017-12-18 08:23:02"
+    "postDate": "2017-12-18 08:23:02",
+    "ignore": true
   },
   {
     "postId": 6462,
     "status": "inherit",
     "title": "force-2",
-    "postDate": "2017-12-18 08:23:03"
+    "postDate": "2017-12-18 08:23:03",
+    "ignore": true
   },
   {
     "postId": 6463,
     "status": "inherit",
     "title": "force-3",
-    "postDate": "2017-12-18 08:23:03"
+    "postDate": "2017-12-18 08:23:03",
+    "ignore": true
   },
   {
     "postId": 6464,
     "status": "inherit",
     "title": "force-4",
-    "postDate": "2017-12-18 08:23:05"
+    "postDate": "2017-12-18 08:23:05",
+    "ignore": true
   },
   {
     "postId": 6474,
@@ -6023,13 +6140,15 @@
     "postId": 6467,
     "status": "inherit",
     "title": "btc-dominance",
-    "postDate": "2017-12-19 12:29:03"
+    "postDate": "2017-12-19 12:29:03",
+    "ignore": true
   },
   {
     "postId": 6468,
     "status": "inherit",
     "title": "crashing-btc-12-20",
-    "postDate": "2017-12-20 10:47:39"
+    "postDate": "2017-12-20 10:47:39",
+    "ignore": true
   },
   {
     "postId": 6469,
@@ -6041,13 +6160,15 @@
     "postId": 6471,
     "status": "inherit",
     "title": "short-term-crash",
-    "postDate": "2017-12-20 23:46:10"
+    "postDate": "2017-12-20 23:46:10",
+    "ignore": true
   },
   {
     "postId": 6472,
     "status": "inherit",
     "title": "btc-to-alt",
-    "postDate": "2017-12-20 23:53:58"
+    "postDate": "2017-12-20 23:53:58",
+    "ignore": true
   },
   {
     "postId": 6537,
@@ -6058,7 +6179,7 @@
   {
     "postId": 6498,
     "status": "publish",
-    "title": "The Case for Angular, from a Hater",
+    "title": "The Case for Angular, from a Hater",
     "postDate": "2017-12-29 19:57:55"
   },
   {
@@ -6077,7 +6198,8 @@
     "postId": 6532,
     "status": "inherit",
     "title": "global-scope",
-    "postDate": "2018-02-11 19:46:57"
+    "postDate": "2018-02-11 19:46:57",
+    "ignore": true
   },
   {
     "postId": 6566,
@@ -6101,7 +6223,8 @@
     "postId": 6489,
     "status": "inherit",
     "title": "node-debugger-dev-tools",
-    "postDate": "2017-12-26 18:25:20"
+    "postDate": "2017-12-26 18:25:20",
+    "ignore": true
   },
   {
     "postId": 6495,
@@ -6227,13 +6350,15 @@
     "postId": 6583,
     "status": "inherit",
     "title": "called-eth-20118",
-    "postDate": "2018-04-15 10:34:42"
+    "postDate": "2018-04-15 10:34:42",
+    "ignore": true
   },
   {
     "postId": 6584,
     "status": "inherit",
     "title": "actual-eth-2018",
-    "postDate": "2018-04-15 10:37:10"
+    "postDate": "2018-04-15 10:37:10",
+    "ignore": true
   },
   {
     "postId": 6588,
@@ -6245,13 +6370,15 @@
     "postId": 6589,
     "status": "inherit",
     "title": "mb-mc-cute-trick",
-    "postDate": "2018-04-15 10:55:57"
+    "postDate": "2018-04-15 10:55:57",
+    "ignore": true
   },
   {
     "postId": 6597,
     "status": "inherit",
     "title": "factfulness-preview",
-    "postDate": "2018-04-15 13:43:43"
+    "postDate": "2018-04-15 13:43:43",
+    "ignore": true
   },
   {
     "postId": 6598,
@@ -6275,25 +6402,29 @@
     "postId": 6606,
     "status": "inherit",
     "title": "gdp-per-capita",
-    "postDate": "2018-04-22 13:21:03"
+    "postDate": "2018-04-22 13:21:03",
+    "ignore": true
   },
   {
     "postId": 6608,
     "status": "inherit",
     "title": "almost-capitalism",
-    "postDate": "2018-04-22 15:07:47"
+    "postDate": "2018-04-22 15:07:47",
+    "ignore": true
   },
   {
     "postId": 6611,
     "status": "publish",
     "title": "Default sign-up form",
-    "postDate": "2018-04-22 17:45:09"
+    "postDate": "2018-04-22 17:45:09",
+    "ignore": true
   },
   {
     "postId": 7451,
     "status": "inherit",
     "title": "Afterecon Community List",
-    "postDate": "2020-04-25 13:13:48"
+    "postDate": "2020-04-25 13:13:48",
+    "ignore": true
   },
   {
     "postId": 6623,
@@ -6311,7 +6442,8 @@
     "postId": 6634,
     "status": "inherit",
     "title": "peak-oil-lie",
-    "postDate": "2018-05-06 13:23:51"
+    "postDate": "2018-05-06 13:23:51",
+    "ignore": true
   },
   {
     "postId": 6657,
@@ -6431,13 +6563,15 @@
     "postId": 6706,
     "status": "inherit",
     "title": "territory-food",
-    "postDate": "2018-08-19 15:53:48"
+    "postDate": "2018-08-19 15:53:48",
+    "ignore": true
   },
   {
     "postId": 7954,
     "status": "inherit",
     "title": "image",
-    "postDate": "2022-02-05 22:55:06"
+    "postDate": "2022-02-05 22:55:06",
+    "ignore": true
   },
   {
     "postId": 6753,
@@ -6719,7 +6853,8 @@
     "postId": 7138,
     "status": "inherit",
     "title": "facts-dan",
-    "postDate": "2019-04-06 19:51:52"
+    "postDate": "2019-04-06 19:51:52",
+    "ignore": true
   },
   {
     "postId": 7144,
@@ -6809,13 +6944,15 @@
     "postId": 7246,
     "status": "inherit",
     "title": "park-city-coffee",
-    "postDate": "2019-09-12 12:46:56"
+    "postDate": "2019-09-12 12:46:56",
+    "ignore": true
   },
   {
     "postId": 7247,
     "status": "inherit",
     "title": "park-city-coffee-1",
-    "postDate": "2019-09-12 12:46:58"
+    "postDate": "2019-09-12 12:46:58",
+    "ignore": true
   },
   {
     "postId": 7253,
@@ -6941,7 +7078,8 @@
     "postId": 7398,
     "status": "inherit",
     "title": "covid-response",
-    "postDate": "2020-03-28 11:43:02"
+    "postDate": "2020-03-28 11:43:02",
+    "ignore": true
   },
   {
     "postId": 7369,
@@ -6977,13 +7115,15 @@
     "postId": 7469,
     "status": "inherit",
     "title": "new-ae-logo",
-    "postDate": "2020-04-25 15:13:08"
+    "postDate": "2020-04-25 15:13:08",
+    "ignore": true
   },
   {
     "postId": 7470,
     "status": "inherit",
     "title": "cropped-new-ae-logo.png",
-    "postDate": "2020-04-25 15:13:19"
+    "postDate": "2020-04-25 15:13:19",
+    "ignore": true
   },
   {
     "postId": 7465,
@@ -7013,7 +7153,8 @@
     "postId": 7464,
     "status": "publish",
     "title": "Topics",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 7463,
@@ -7025,19 +7166,22 @@
     "postId": 7472,
     "status": "inherit",
     "title": "new-ae-logo-trans-back",
-    "postDate": "2020-04-25 15:20:03"
+    "postDate": "2020-04-25 15:20:03",
+    "ignore": true
   },
   {
     "postId": 7475,
     "status": "inherit",
     "title": "new-ae-logo-galada-trans-back",
-    "postDate": "2020-04-26 06:57:10"
+    "postDate": "2020-04-26 06:57:10",
+    "ignore": true
   },
   {
     "postId": 7476,
     "status": "inherit",
     "title": "new-ae-logo-galada-trans-light-grey",
-    "postDate": "2020-04-26 07:16:10"
+    "postDate": "2020-04-26 07:16:10",
+    "ignore": true
   },
   {
     "postId": 8044,
@@ -7247,13 +7391,15 @@
     "postId": 7673,
     "status": "inherit",
     "title": "fsmall.z00",
-    "postDate": "2020-09-21 16:01:58"
+    "postDate": "2020-09-21 16:01:58",
+    "ignore": true
   },
   {
     "postId": 7695,
     "status": "inherit",
     "title": "booger",
-    "postDate": "2020-11-01 22:11:17"
+    "postDate": "2020-11-01 22:11:17",
+    "ignore": true
   },
   {
     "postId": 7700,
@@ -7271,7 +7417,8 @@
     "postId": 7709,
     "status": "inherit",
     "title": "dr",
-    "postDate": "2020-12-14 23:53:29"
+    "postDate": "2020-12-14 23:53:29",
+    "ignore": true
   },
   {
     "postId": 7823,
@@ -7301,7 +7448,8 @@
     "postId": 7834,
     "status": "inherit",
     "title": "image-2",
-    "postDate": "2021-05-16 12:15:49"
+    "postDate": "2021-05-16 12:15:49",
+    "ignore": true
   },
   {
     "postId": 7871,
@@ -7319,7 +7467,8 @@
     "postId": 7859,
     "status": "inherit",
     "title": "voe.tar",
-    "postDate": "2021-07-11 00:37:46"
+    "postDate": "2021-07-11 00:37:46",
+    "ignore": true
   },
   {
     "postId": 7718,
@@ -7433,7 +7582,8 @@
     "postId": 7858,
     "status": "inherit",
     "title": "rmc.tar",
-    "postDate": "2021-07-11 00:37:38"
+    "postDate": "2021-07-11 00:37:38",
+    "ignore": true
   },
   {
     "postId": 7907,
