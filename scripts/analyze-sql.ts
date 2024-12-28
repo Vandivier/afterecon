@@ -9,6 +9,7 @@ interface Post {
   postId: number;
   title: string;
   status: string;
+  postDate: string;
 }
 
 const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
@@ -17,7 +18,7 @@ const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
 const lines = chunk1.split("\n");
 
 const posts: Post[] = [];
-const seenTitles = new Set<string>();
+const titleToPost = new Map<string, Post>();
 
 lines.forEach(line => {
   // Extract post ID
@@ -36,19 +37,30 @@ lines.forEach(line => {
   const titleParts = beforeStatus.split("', '");
   const title = titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "");
 
-  // Skip if we've seen this title before
-  if (seenTitles.has(title)) return;
-  seenTitles.add(title);
+  // Extract post date (third element when splitting by comma)
+  const parts = line.split(",");
+  if (parts.length < 3) return;
+  const postDate = parts[2].trim().replace(/^'|'$/g, "");
 
-  posts.push({
+  const post = {
     postId,
     status: isPublished ? "publish" : "inherit",
-    title
-  });
+    title,
+    postDate
+  };
+
+  // Only keep most recent version of each title
+  const existingPost = titleToPost.get(title);
+  if (!existingPost || postDate > existingPost.postDate) {
+    titleToPost.set(title, post);
+  }
 });
+
+// Convert map to array
+const uniquePosts = Array.from(titleToPost.values());
 
 // Write to JSON file
 const outputPath = path.join(__dirname, "../articles-from-analyze-sql.json");
-fs.writeFileSync(outputPath, JSON.stringify(posts, null, 2));
+fs.writeFileSync(outputPath, JSON.stringify(uniquePosts, null, 2));
 
-console.log(`Wrote ${posts.length} unique posts to articles-from-analyze-sql.json`); 
+console.log(`Wrote ${uniquePosts.length} unique posts to articles-from-analyze-sql.json`); 
