@@ -3,7 +3,8 @@
     "postId": 2339,
     "status": "inherit",
     "title": "Political Campaign Aptitude Test",
-    "postDate": "2013-11-29 13:30:16"
+    "postDate": "2013-11-29 13:30:16",
+    "ignore": true
   },
   {
     "postId": 5326,
@@ -15,25 +16,29 @@
     "postId": 8124,
     "status": "inherit",
     "title": "Picture of John Vandivier",
-    "postDate": "2023-09-30 21:14:37"
+    "postDate": "2023-09-30 21:14:37",
+    "ignore": true
   },
   {
     "postId": 8131,
     "status": "inherit",
     "title": "John Vandivier",
-    "postDate": "2023-09-30 21:27:37"
+    "postDate": "2023-09-30 21:27:37",
+    "ignore": true
   },
   {
     "postId": 8141,
     "status": "inherit",
     "title": "About John Vandivier",
-    "postDate": "2023-10-01 15:26:30"
+    "postDate": "2023-10-01 15:26:30",
+    "ignore": true
   },
   {
     "postId": 8136,
     "status": "inherit",
     "title": "Media Curriculum Vitae",
-    "postDate": "2023-09-30 23:20:55"
+    "postDate": "2023-09-30 23:20:55",
+    "ignore": true
   },
   {
     "postId": 4226,
@@ -393,25 +398,29 @@
     "postId": 2282,
     "status": "inherit",
     "title": "Memes",
-    "postDate": "2013-11-16 21:48:02"
+    "postDate": "2013-11-16 21:48:02",
+    "ignore": true
   },
   {
     "postId": 5032,
     "status": "inherit",
     "title": "Other",
-    "postDate": "2015-05-26 23:30:39"
+    "postDate": "2015-05-26 23:30:39",
+    "ignore": true
   },
   {
     "postId": 2194,
     "status": "inherit",
     "title": "Happiness Mises",
-    "postDate": "2013-11-06 03:51:10"
+    "postDate": "2013-11-06 03:51:10",
+    "ignore": true
   },
   {
     "postId": 2197,
     "status": "inherit",
     "title": "Learning",
-    "postDate": "2013-11-06 03:59:37"
+    "postDate": "2013-11-06 03:59:37",
+    "ignore": true
   },
   {
     "postId": 6910,
@@ -429,7 +438,8 @@
     "postId": 6347,
     "status": "inherit",
     "title": "Religion",
-    "postDate": "2017-05-15 21:15:59"
+    "postDate": "2017-05-15 21:15:59",
+    "ignore": true
   },
   {
     "postId": 2255,
@@ -447,7 +457,8 @@
     "postId": 6636,
     "status": "inherit",
     "title": "Science",
-    "postDate": "2018-05-06 18:07:01"
+    "postDate": "2018-05-06 18:07:01",
+    "ignore": true
   },
   {
     "postId": 4778,
@@ -459,7 +470,8 @@
     "postId": 5179,
     "status": "inherit",
     "title": "Topical Study",
-    "postDate": "2015-08-02 18:14:04"
+    "postDate": "2015-08-02 18:14:04",
+    "ignore": true
   },
   {
     "postId": 5181,
@@ -495,7 +507,7 @@
     "postId": 4227,
     "status": "inherit",
     "title": "CAE Interpretive Proof - Traditional Marriage (2/2, Left-Handed Proof)",
-    "postDate": "2014-11-14 16:13:03"
+    "postDate": "2014-11-14 16:13:03"aaasddassa
   },
   {
     "postId": 4164,
@@ -638,7 +650,7 @@
   {
     "postId": 4136,
     "status": "inherit",
-    "title": "Obama’s Pro-Islam Ideology and Policy Stance",
+    "title": "Obama's Pro-Islam Ideology and Policy Stance",
     "postDate": "2014-11-14 16:07:39"
   },
   {
@@ -728,7 +740,7 @@
   {
     "postId": 4121,
     "status": "inherit",
-    "title": "National Review:Obamacare Call Center Will Not Offer Health-Care Benefits to Employees",
+    "title": "National Review: Obamacare Call Center Will Not Offer Health-Care Benefits to Employees",
     "postDate": "2014-11-14 16:06:42"
   },
   {
@@ -926,7 +938,7 @@
   {
     "postId": 4082,
     "status": "inherit",
-    "title": "Sean’s Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless",
+    "title": "Sean's Outpost Announces Satoshi Forest, Nine-Acre Sanctuary for the Homeless",
     "postDate": "2014-11-14 16:04:23"
   },
   {
@@ -1034,7 +1046,7 @@
   {
     "postId": 4064,
     "status": "inherit",
-    "title": "American Spectator: The Pope They’ve Been Waiting For",
+    "title": "American Spectator: The Pope They've Been Waiting For",
     "postDate": "2014-11-14 16:03:23"
   },
   {
@@ -1077,7 +1089,8 @@
     "postId": 5670,
     "status": "inherit",
     "title": "Philosophy",
-    "postDate": "2016-09-03 12:08:43"
+    "postDate": "2016-09-03 12:08:43",
+    "ignore": true
   },
   {
     "postId": 4056,
@@ -1107,37 +1120,43 @@
     "postId": 1868,
     "status": "inherit",
     "title": "cropped-After-Economics6.jpg",
-    "postDate": "2013-10-21 05:06:09"
+    "postDate": "2013-10-21 05:06:09",
+    "ignore": true
   },
   {
     "postId": 1864,
     "status": "inherit",
     "title": "cropped-After-Economics4small.jpg",
-    "postDate": "2013-10-21 04:32:00"
+    "postDate": "2013-10-21 04:32:00",
+    "ignore": true
   },
   {
     "postId": 1867,
     "status": "inherit",
     "title": "copy-cropped-After-Economics4small.jpg",
-    "postDate": "2013-10-21 04:34:47"
+    "postDate": "2013-10-21 04:34:47",
+    "ignore": true
   },
   {
     "postId": 1869,
     "status": "inherit",
     "title": "After-Economics6small.jpg",
-    "postDate": "2013-10-21 05:06:39"
+    "postDate": "2013-10-21 05:06:39",
+    "ignore": true
   },
   {
     "postId": 7457,
     "status": "inherit",
     "title": "Recent Articles",
-    "postDate": "2020-04-25 13:52:56"
+    "postDate": "2020-04-25 13:52:56",
+    "ignore": true
   },
   {
     "postId": 1872,
     "status": "inherit",
     "title": "cropped-Neutral.png",
-    "postDate": "2013-10-21 14:31:11"
+    "postDate": "2013-10-21 14:31:11",
+    "ignore": true
   },
   {
     "postId": 4051,
@@ -1149,31 +1168,36 @@
     "postId": 4977,
     "status": "inherit",
     "title": "Economics",
-    "postDate": "2015-05-16 03:03:55"
+    "postDate": "2015-05-16 03:03:55",
+    "ignore": true
   },
   {
     "postId": 1916,
     "status": "publish",
     "title": "Home",
-    "postDate": "2023-09-30 21:35:17"
+    "postDate": "2023-09-30 21:35:17",
+    "ignore": true
   },
   {
     "postId": 2553,
     "status": "publish",
     "title": "",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 6909,
     "status": "inherit",
     "title": "Politics",
-    "postDate": "2018-10-22 13:37:43"
+    "postDate": "2018-10-22 13:37:43",
+    "ignore": true
   },
   {
     "postId": 1934,
     "status": "publish",
     "title": "Other Topics",
-    "postDate": "2013-10-22 05:30:34"
+    "postDate": "2013-10-22 05:30:34",
+    "ignore": true
   },
   {
     "postId": 4039,
@@ -1197,13 +1221,15 @@
     "postId": 1952,
     "status": "publish",
     "title": "twitter",
-    "postDate": "2013-10-26 04:32:50"
+    "postDate": "2013-10-26 04:32:50",
+    "ignore": true
   },
   {
     "postId": 1953,
     "status": "publish",
     "title": "facebook",
-    "postDate": "2013-10-26 04:32:50"
+    "postDate": "2013-10-26 04:32:50",
+    "ignore": true
   },
   {
     "postId": 4048,
@@ -1227,31 +1253,36 @@
     "postId": 1969,
     "status": "inherit",
     "title": "aXbYWzz_460sa",
-    "postDate": "2013-10-27 01:15:53"
+    "postDate": "2013-10-27 01:15:53",
+    "ignore": true
   },
   {
     "postId": 1970,
     "status": "inherit",
     "title": "kMnJobs",
-    "postDate": "2013-10-27 01:15:56"
+    "postDate": "2013-10-27 01:15:56",
+    "ignore": true
   },
   {
     "postId": 1971,
     "status": "inherit",
     "title": "YdMhU",
-    "postDate": "2013-10-27 01:15:59"
+    "postDate": "2013-10-27 01:15:59",
+    "ignore": true
   },
   {
     "postId": 2070,
     "status": "inherit",
     "title": "Summary",
-    "postDate": "2013-10-31 06:40:23"
+    "postDate": "2013-10-31 06:40:23",
+    "ignore": true
   },
   {
     "postId": 2001,
     "status": "inherit",
     "title": "At Eammons",
-    "postDate": "2013-10-27 03:51:12"
+    "postDate": "2013-10-27 03:51:12",
+    "ignore": true
   },
   {
     "postId": 4047,
@@ -1287,7 +1318,8 @@
     "postId": 2030,
     "status": "inherit",
     "title": "DailyShow_W_Krauthammer_131028",
-    "postDate": "2013-10-28 22:48:30"
+    "postDate": "2013-10-28 22:48:30",
+    "ignore": true
   },
   {
     "postId": 4044,
@@ -1329,19 +1361,22 @@
     "postId": 2058,
     "status": "inherit",
     "title": "After Economics5",
-    "postDate": "2013-10-30 05:10:33"
+    "postDate": "2013-10-30 05:10:33",
+    "ignore": true
   },
   {
     "postId": 2068,
     "status": "inherit",
     "title": "summary 2",
-    "postDate": "2013-10-31 06:24:32"
+    "postDate": "2013-10-31 06:24:32",
+    "ignore": true
   },
   {
     "postId": 2083,
     "status": "publish",
     "title": "Subscription confirmation",
-    "postDate": "2013-10-31 07:36:20"
+    "postDate": "2013-10-31 07:36:20",
+    "ignore": true
   },
   {
     "postId": 2086,
@@ -1353,43 +1388,50 @@
     "postId": 2088,
     "status": "inherit",
     "title": "Bitcoin",
-    "postDate": "2013-10-31 17:37:41"
+    "postDate": "2013-10-31 17:37:41",
+    "ignore": true
   },
   {
     "postId": 2094,
     "status": "inherit",
     "title": "tools",
-    "postDate": "2013-10-31 18:31:07"
+    "postDate": "2013-10-31 18:31:07",
+    "ignore": true
   },
   {
     "postId": 2540,
     "status": "inherit",
     "title": "After Economics Tour",
-    "postDate": "2014-01-26 03:51:27"
+    "postDate": "2014-01-26 03:51:27",
+    "ignore": true
   },
   {
     "postId": 2099,
     "status": "inherit",
     "title": "3d man teacher and student, studying, isolated on white",
-    "postDate": "2013-10-31 20:58:40"
+    "postDate": "2013-10-31 20:58:40",
+    "ignore": true
   },
   {
     "postId": 2100,
     "status": "inherit",
     "title": "After Economics5b",
-    "postDate": "2013-10-31 23:45:52"
+    "postDate": "2013-10-31 23:45:52",
+    "ignore": true
   },
   {
     "postId": 2102,
     "status": "inherit",
     "title": "the tour2",
-    "postDate": "2013-11-01 00:46:32"
+    "postDate": "2013-11-01 00:46:32",
+    "ignore": true
   },
   {
     "postId": 2105,
     "status": "inherit",
     "title": "the tour2large",
-    "postDate": "2013-11-01 00:49:02"
+    "postDate": "2013-11-01 00:49:02",
+    "ignore": true
   },
   {
     "postId": 4038,
@@ -1401,19 +1443,22 @@
     "postId": 2128,
     "status": "inherit",
     "title": "woods1",
-    "postDate": "2013-11-02 02:34:36"
+    "postDate": "2013-11-02 02:34:36",
+    "ignore": true
   },
   {
     "postId": 2129,
     "status": "inherit",
     "title": "woods2",
-    "postDate": "2013-11-02 02:35:15"
+    "postDate": "2013-11-02 02:35:15",
+    "ignore": true
   },
   {
     "postId": 2130,
     "status": "inherit",
     "title": "i3Qve1b",
-    "postDate": "2013-11-02 02:35:57"
+    "postDate": "2013-11-02 02:35:57",
+    "ignore": true
   },
   {
     "postId": 4037,
@@ -1425,7 +1470,8 @@
     "postId": 2135,
     "status": "inherit",
     "title": "robert sarvis cuccinelli",
-    "postDate": "2013-11-02 15:13:12"
+    "postDate": "2013-11-02 15:13:12",
+    "ignore": true
   },
   {
     "postId": 2141,
@@ -1497,13 +1543,15 @@
     "postId": 2192,
     "status": "inherit",
     "title": "Anarchy1",
-    "postDate": "2013-11-06 03:51:07"
+    "postDate": "2013-11-06 03:51:07",
+    "ignore": true
   },
   {
     "postId": 2193,
     "status": "inherit",
     "title": "dont spy on me",
-    "postDate": "2013-11-06 03:51:09"
+    "postDate": "2013-11-06 03:51:09",
+    "ignore": true
   },
   {
     "postId": 2162,
@@ -1545,61 +1593,71 @@
     "postId": 2168,
     "status": "inherit",
     "title": "Global Warming",
-    "postDate": "2013-11-05 14:26:43"
+    "postDate": "2013-11-05 14:26:43",
+    "ignore": true
   },
   {
     "postId": 2169,
     "status": "inherit",
     "title": "Government Lying",
-    "postDate": "2013-11-05 14:26:45"
+    "postDate": "2013-11-05 14:26:45",
+    "ignore": true
   },
   {
     "postId": 2170,
     "status": "inherit",
     "title": "Gun Control",
-    "postDate": "2013-11-05 14:26:47"
+    "postDate": "2013-11-05 14:26:47",
+    "ignore": true
   },
   {
     "postId": 2171,
     "status": "inherit",
     "title": "Monopoly Reserve",
-    "postDate": "2013-11-05 14:26:49"
+    "postDate": "2013-11-05 14:26:49",
+    "ignore": true
   },
   {
     "postId": 2172,
     "status": "inherit",
     "title": "Nobel Sucks",
-    "postDate": "2013-11-05 14:26:51"
+    "postDate": "2013-11-05 14:26:51",
+    "ignore": true
   },
   {
     "postId": 2173,
     "status": "inherit",
     "title": "Parks Shutdown",
-    "postDate": "2013-11-05 14:26:53"
+    "postDate": "2013-11-05 14:26:53",
+    "ignore": true
   },
   {
     "postId": 2174,
     "status": "inherit",
     "title": "Reform",
-    "postDate": "2013-11-05 14:26:55"
+    "postDate": "2013-11-05 14:26:55",
+    "ignore": true
   },
   {
     "postId": 2175,
     "status": "inherit",
     "title": "Seatbelt",
-    "postDate": "2013-11-05 14:26:57"
+    "postDate": "2013-11-05 14:26:57",
+    "ignore": true
   },
   {
     "postId": 2176,
     "status": "inherit",
     "title": "Syria Mail",
-    "postDate": "2013-11-05 14:26:59"
+    "postDate": "2013-11-05 14:26:59",
+    "ignore": true
   },
   {
     "postId": 2202,
     "status": "inherit",
     "title": "100 Years of Income Tax",
-    "postDate": "2013-11-06 22:13:20"
+    "postDate": "2013-11-06 22:13:20",
+    "ignore": true
   },
   {
     "postId": 3439,
@@ -1617,7 +1675,8 @@
     "postId": 8111,
     "status": "inherit",
     "title": "Site Tour",
-    "postDate": "2023-09-30 20:27:12"
+    "postDate": "2023-09-30 20:27:12",
+    "ignore": true
   },
   {
     "postId": 2210,
@@ -1641,7 +1700,8 @@
     "postId": 2217,
     "status": "inherit",
     "title": "249d2fc9a6e58d4092ad5fbb5dfde53bd3a92494",
-    "postDate": "2013-11-07 02:10:00"
+    "postDate": "2013-11-07 02:10:00",
+    "ignore": true
   },
   {
     "postId": 3122,
@@ -1677,13 +1737,15 @@
     "postId": 2228,
     "status": "inherit",
     "title": "austin-powers-shock",
-    "postDate": "2013-11-07 21:35:11"
+    "postDate": "2013-11-07 21:35:11",
+    "ignore": true
   },
   {
     "postId": 2229,
     "status": "inherit",
     "title": "black-guy-laughing-on-boat-gif",
-    "postDate": "2013-11-07 21:35:14"
+    "postDate": "2013-11-07 21:35:14",
+    "ignore": true
   },
   {
     "postId": 2233,
@@ -1755,49 +1817,57 @@
     "postId": 2261,
     "status": "inherit",
     "title": "1",
-    "postDate": "2013-11-13 14:38:42"
+    "postDate": "2013-11-13 14:38:42",
+    "ignore": true
   },
   {
     "postId": 2262,
     "status": "inherit",
     "title": "2",
-    "postDate": "2013-11-13 14:39:14"
+    "postDate": "2013-11-13 14:39:14",
+    "ignore": true
   },
   {
     "postId": 2263,
     "status": "inherit",
     "title": "3",
-    "postDate": "2013-11-13 14:39:45"
+    "postDate": "2013-11-13 14:39:45",
+    "ignore": true
   },
   {
     "postId": 2264,
     "status": "inherit",
     "title": "4",
-    "postDate": "2013-11-13 14:40:14"
+    "postDate": "2013-11-13 14:40:14",
+    "ignore": true
   },
   {
     "postId": 2276,
     "status": "inherit",
     "title": "dont spy on me 2",
-    "postDate": "2013-11-15 02:44:58"
+    "postDate": "2013-11-15 02:44:58",
+    "ignore": true
   },
   {
     "postId": 2277,
     "status": "inherit",
     "title": "Simplistic Worldview",
-    "postDate": "2013-11-15 02:45:01"
+    "postDate": "2013-11-15 02:45:01",
+    "ignore": true
   },
   {
     "postId": 2278,
     "status": "inherit",
     "title": "Worships Government",
-    "postDate": "2013-11-15 02:45:03"
+    "postDate": "2013-11-15 02:45:03",
+    "ignore": true
   },
   {
     "postId": 2281,
     "status": "inherit",
     "title": "Education",
-    "postDate": "2013-11-16 21:47:48"
+    "postDate": "2013-11-16 21:47:48",
+    "ignore": true
   },
   {
     "postId": 2283,
@@ -1815,7 +1885,8 @@
     "postId": 7468,
     "status": "inherit",
     "title": "Topics Overview",
-    "postDate": "2020-04-25 14:51:41"
+    "postDate": "2020-04-25 14:51:41",
+    "ignore": true
   },
   {
     "postId": 2416,
@@ -1839,7 +1910,8 @@
     "postId": 3687,
     "status": "inherit",
     "title": "Infograms",
-    "postDate": "2014-08-28 13:30:37"
+    "postDate": "2014-08-28 13:30:37",
+    "ignore": true
   },
   {
     "postId": 2838,
@@ -1887,7 +1959,8 @@
     "postId": 8135,
     "status": "publish",
     "title": "Social Home",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 5537,
@@ -2013,13 +2086,15 @@
     "postId": 2666,
     "status": "publish",
     "title": "When you ask, you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.",
-    "postDate": "2014-02-10 03:33:20"
+    "postDate": "2014-02-10 03:33:20",
+    "ignore": "quote"
   },
   {
     "postId": 2667,
     "status": "publish",
     "title": "Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life residing in him.",
-    "postDate": "2014-02-10 05:03:47"
+    "postDate": "2014-02-10 05:03:47",
+    "ignore": "quote"
   },
   {
     "postId": 2420,
@@ -2079,7 +2154,8 @@
     "postId": 3204,
     "status": "inherit",
     "title": "Top Online Education Sites (MOOCs and SPOCs)",
-    "postDate": "2014-05-05 01:38:39"
+    "postDate": "2014-05-05 01:38:39",
+    "ignore": "obsolete"
   },
   {
     "postId": 2604,
@@ -2097,7 +2173,8 @@
     "postId": 2508,
     "status": "publish",
     "title": "Music",
-    "postDate": "2014-01-25 17:53:53"
+    "postDate": "2014-01-25 17:53:53",
+    "ignore": true
   },
   {
     "postId": 3520,
@@ -2127,7 +2204,8 @@
     "postId": 2662,
     "status": "publish",
     "title": "Concentrated power is not rendered harmless by the good intentions of those who create it.",
-    "postDate": "2014-02-09 17:07:15"
+    "postDate": "2014-02-09 17:07:15",
+    "ignore": "quote"
   },
   {
     "postId": 3400,
@@ -2163,37 +2241,43 @@
     "postId": 2543,
     "status": "publish",
     "title": "To consider the judges as the ultimate arbiters of all constitutional questions…would place us under the despotism of an oligarchy.",
-    "postDate": "2014-01-26 04:10:28"
+    "postDate": "2014-01-26 04:10:28",
+    "ignore": "quote"
   },
   {
     "postId": 2544,
     "status": "publish",
     "title": "What a misfortune it is that we should thus be compelled to let our boys’ schooling interfere with their education!",
-    "postDate": "2014-01-26 04:15:55"
+    "postDate": "2014-01-26 04:15:55",
+    "ignore": "quote"
   },
   {
     "postId": 2545,
     "status": "publish",
     "title": "I freed thousands of slaves. I could have freed thousands more, if they had known they were slaves.",
-    "postDate": "2014-01-26 04:17:01"
+    "postDate": "2014-01-26 04:17:01",
+    "ignore": "quote"
   },
   {
     "postId": 2546,
     "status": "publish",
     "title": "\\'Love the Lord your God with all your heart and with all your soul and with all your mind.\\' This is the first and greatest commandment.  And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.",
-    "postDate": "2014-01-26 04:33:41"
+    "postDate": "2014-01-26 04:33:41",
+    "ignore": "quote"
   },
   {
     "postId": 2547,
     "status": "publish",
     "title": "The chief penalty is to be governed by someone worse if a man will not himself hold office and rule.",
-    "postDate": "2014-01-26 04:36:25"
+    "postDate": "2014-01-26 04:36:25",
+    "ignore": "quote"
   },
   {
     "postId": 2548,
     "status": "publish",
     "title": "A society that puts equality before freedom will get neither. A society that puts freedom before equality will get a high degree of both.",
-    "postDate": "2014-01-26 04:39:06"
+    "postDate": "2014-01-26 04:39:06",
+    "ignore": "quote"
   },
   {
     "postId": 2626,
@@ -2205,7 +2289,8 @@
     "postId": 3226,
     "status": "publish",
     "title": "Search",
-    "postDate": "2023-09-30 21:35:18"
+    "postDate": "2023-09-30 21:35:18",
+    "ignore": true
   },
   {
     "postId": 2700,
@@ -2271,7 +2356,8 @@
     "postId": 2863,
     "status": "inherit",
     "title": "John_Vandivier_Referee_Report_Adv_Micro_140305",
-    "postDate": "2014-03-08 04:02:25"
+    "postDate": "2014-03-08 04:02:25",
+    "ignore": true
   },
   {
     "postId": 2864,
