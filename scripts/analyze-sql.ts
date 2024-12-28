@@ -33,7 +33,7 @@ lines.forEach(line => {
 
   // Extract title
   const beforeStatus = line.split(isPublished ? "', 'publish', '" : "', 'inherit', '")[0];
-  const titleParts = beforeStatus.split(",");
+  const titleParts = beforeStatus.split("', '");
   const title = titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "");
 
   // Skip if we've seen this title before
