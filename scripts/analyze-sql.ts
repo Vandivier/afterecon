@@ -12,6 +12,16 @@ interface Post {
   postDate: string;
 }
 
+interface LegacyPost {
+  title: string;
+  date: string;
+  author: string;
+  content: string;
+  status: string;
+  filename: string;
+  filepath: string;
+}
+
 const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
 
 // Split into all lines
@@ -63,4 +73,14 @@ const uniquePosts = Array.from(titleToPost.values());
 const outputPath = path.join(__dirname, "../articles-from-analyze-sql.json");
 fs.writeFileSync(outputPath, JSON.stringify(uniquePosts, null, 2));
 
-console.log(`Wrote ${uniquePosts.length} unique posts to articles-from-analyze-sql.json`); 
+// Compare with legacy articles.json
+const legacyPath = path.join(__dirname, "../articles.json");
+const legacyPosts: LegacyPost[] = JSON.parse(fs.readFileSync(legacyPath, "utf8"));
+
+const newTitles = new Set(uniquePosts.map(p => p.title));
+const missingTitles = legacyPosts.filter(p => !newTitles.has(p.title));
+
+console.log(`\nFound ${missingTitles.length} titles in legacy articles.json that are missing from new analysis:`);
+missingTitles.forEach(p => console.log(`- ${p.title}`));
+
+console.log(`\nWrote ${uniquePosts.length} unique posts to articles-from-analyze-sql.json`); 
