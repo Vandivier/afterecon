@@ -39,6 +39,22 @@ try {
   );
 }
 
+// Normalize titles in existing posts
+if (existingPosts.length > 0) {
+  console.log("\nNormalizing titles in existing posts...");
+  const normalizedPosts = existingPosts.map((post) => ({
+    ...post,
+    title: normalizeTitle(post.title),
+  }));
+
+  // Save normalized posts back to file
+  fs.writeFileSync(existingPath, JSON.stringify(normalizedPosts, null, 2));
+  console.log(`Normalized and saved ${normalizedPosts.length} titles`);
+
+  // Update existingPosts with normalized versions
+  existingPosts = normalizedPosts;
+}
+
 // Create map of existing posts by title for easy lookup
 const existingPostsByTitle = new Map<string, Post>();
 existingPosts.forEach((post) => {
