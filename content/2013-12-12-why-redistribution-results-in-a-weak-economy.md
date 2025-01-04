@@ -1,0 +1,9 @@
+---
+title: Why Redistribution Results in a Weak Economy
+date: 2013-12-12 14:26:04
+author: John Vandivier
+---
+
+
+
+The problem is incentives. I work hard and make an A in class. You are lazy and make a D+. The class average is a B. The professor says, \"To be fair, next test everyone will simply earn the average. It's equal that way.\"<br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[1]\" /><br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[2]\" />Now I expect to earn a B even if I work hard enough to make an A. Why should I work hard for nothing in return? I do well enough to earn a B. You don't have to do anything to earn a B so you work even less hard. The whole class reduces work incentive like this and as a consequence the average is now not a B it is a C.<br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[4]\" /><br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[5]\" />Sure, some people are better off, but on average everyone is now \"poor.\"<br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[7]\" /><br data-reactid=\".r[k7ky].[1][3][1]{replies10152023469387225_28430149}.[1][2]{comment10152023469387225_28449881}.[0].{right}.[0].{left}.[0].[0].[0][3].[0].[8]\" />Inequality = some poor, equality = everyone poor. Which is better?

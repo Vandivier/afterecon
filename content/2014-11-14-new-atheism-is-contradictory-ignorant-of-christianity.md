@@ -1,0 +1,27 @@
+---
+title: New Atheism Is Contradictory, Ignorant of Christianity
+date: 2014-11-14 16:08:22
+author: John Vandivier
+---
+
+
+
+<a href=\"http://news.yahoo.com/atheists-unveil-fla-monument-near-ten-commandments-195201537.html\">This recent article</a> detailed the fact that an atheist monument has recently been erected in <a class=\"zem_slink\" title=\"Florida\" href=\"http://maps.google.com/maps?ll=28.1,-81.6&amp;spn=3.0,3.0&amp;q=28.1,-81.6 (Florida)&amp;t=h\" target=\"_blank\" rel=\"geolocation\">Florida</a>, and it may be the first atheist monument allowed on government property in the US.
+
+I'm glad they erected the monument. My hope is that it represents a paradigm shift in the community where, rather than seeking to silence <a class=\"zem_slink\" title=\"Christianity\" href=\"http://en.wikipedia.org/wiki/Christianity\" target=\"_blank\" rel=\"wikipedia\">Christianity</a>, they have decided to embrace free speech and speak on their own beliefs and lack thereof. Furthermore the monument will provide an excellent preaching ground if many atheists are attracted to it.
+
+There are obviously concerning points to be made here as well. First of all, the erection of monuments is an extremely religious practice and runs contrary to the idea that atheism, New Atheism in particular, is not a religious movement. The organization of atheists into groups responsible for the monument and various ongoing legal battles is also religious. Finally, the idea that atheism is a lack of belief is also contradicted by the unity of belief presented in the monument itself. The monument did not have a lack of text. Atheists now have their beliefs written in stone and it stands as an excellent monument to their own contradiction.
+
+Another issue highlighted in the article is the fact that these atheists who claim they are opposed to Christianity are in fact, as far as shown inside the article anyway, opposed only to poor interpretations of Christianity. The atheist monument was erected as a counterpoint to a nearby monument containing the <a class=\"zem_slink\" title=\"Ten Commandments\" href=\"http://en.wikipedia.org/wiki/Ten_Commandments\" target=\"_blank\" rel=\"wikipedia\">Ten Commandments</a>.One atheist said that the Ten Commandments, \"...in context, says atheists should be killed.\" This is not Christianity at all! The <a class=\"zem_slink\" title=\"Old Testament\" href=\"http://en.wikipedia.org/wiki/Old_Testament\" target=\"_blank\" rel=\"wikipedia\">Old Testament</a> cannot be interpreted on its own and be called anything except Judaism.
+
+A clarifying question would be, \"Which context are you putting it in, the intended Christian context or not?\" If the answer is that the atheist is assuming the most offensive possible interpretation then not only does that show his own ignorance, it also places him on a team with the Christian! The Christian would agree that Judaism is not a preferable belief system. The atheist's statement about context is simply false if he is referring to the intended Christian context. The New Testament tells us <a href=\"http://www.biblegateway.com/passage/?search=1%20Corinthians%205:9-13&amp;version=NIV\">not to police the actions of unbelievers</a>, and inside the church we should <a href=\"http://www.biblegateway.com/passage/?search=matthew%205:17-22&amp;version=NIV\">not even hate each other let alone kill each other</a>.
+
+New Atheism is a recent pop-culture atheism movement led by Dawkins, Hitchens, Harris and Dennett who have been called the \"<a href=\"http://www.youtube.com/watch?v=vZ-xK_PEDgc\">four horsemen of new atheism</a>,\" as well as other less notable figures such as the Amazing Atheist. <a href=\"http://www.youtube.com/watch?v=13AjsFRR9Mk\">The movement</a> has taken place both online and in the popular media with online sources including in particular <a class=\"zem_slink\" title=\"YouTube\" href=\"http://www.youtube.com/\" target=\"_blank\" rel=\"homepage\">YouTube</a>, social media and online video games. As I conclude I will leave you with a video from One Minute Apologist where <a class=\"zem_slink\" title=\"William Lane Craig\" href=\"http://en.wikipedia.org/wiki/William_Lane_Craig\" target=\"_blank\" rel=\"wikipedia\">William Lane Craig</a> tries to sum up the origins of the New Atheism movement with which he has been thoroughly involved, as an adversary, for many years:
+
+[youtube=http://www.youtube.com/watch?v=w3lWXFoBrzM&amp;w=560&amp;h=315]
+<h6 class=\"zemanta-related-title\" style=\"font-size:1em;\">Related articles</h6>
+<ul class=\"zemanta-article-ul\">
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.msatheists.org/2013/06/first-public-monument-to-atheism.html\" target=\"_blank\">First Public Monument to Atheism Unveiled Today</a> (msatheists.org)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.rawstory.com/rs/2013/06/29/atheists-unveil-monument-in-florida-and-promise-to-build-50-more/\" target=\"_blank\">Atheists unveil monument in Florida and promise to build 50 more</a> (rawstory.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://myshieldmyrefuge.wordpress.com/2013/06/29/atheists-unveil-florida-monument-near-ten-commandments/\" target=\"_blank\">Atheists unveil Florida monument near Ten Commandments</a> (myshieldmyrefuge.wordpress.com)</li>
+</ul>

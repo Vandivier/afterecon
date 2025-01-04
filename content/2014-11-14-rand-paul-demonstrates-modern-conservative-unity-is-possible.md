@@ -1,0 +1,21 @@
+---
+title: Rand Paul Demonstrates Modern Conservative Unity is Possible
+date: 2014-11-14 16:06:53
+author: John Vandivier
+---
+
+
+
+Rand Paul <a href=\"http://personalliberty.com/2013/07/12/paul-introduces-bill-to-cut-off-billions-of-dollars-in-egyptian-aid/\">recently introduced a bill</a> to cut billions of dollars of foreign aid to Egypt. His actions are exemplary of what might be ideologically described as <a class=\"zem_slink\" title=\"Libertarian conservatism\" href=\"http://en.wikipedia.org/wiki/Libertarian_conservatism\" target=\"_blank\" rel=\"wikipedia\">libertarian conservatism</a> and what might be historically described as post-neoconservatism because they certainly represent where the Republican party and conservatives in general will start heading. The reason this kind of thinking will be successful is because it unifies the fractured base of the Republican party which consists primarily of <a class=\"zem_slink\" title=\"Social conservatism\" href=\"http://en.wikipedia.org/wiki/Social_conservatism\" target=\"_blank\" rel=\"wikipedia\">social conservatives</a>, <a class=\"zem_slink\" title=\"Fiscal conservatism\" href=\"http://en.wikipedia.org/wiki/Fiscal_conservatism\" target=\"_blank\" rel=\"wikipedia\">fiscal conservatives</a> and traditionalists.
+
+This will make fiscal and economic conservatives happy because it reduces government outlays. It will make social conservatives happy because Egypt is a primarily <a class=\"zem_slink\" title=\"Muslim\" href=\"http://en.wikipedia.org/wiki/Muslim\" target=\"_blank\" rel=\"wikipedia\">Muslim</a> populated and governed nation which hates America and Christians in particular. This will make traditionalists happy because it is an example of <a class=\"zem_slink\" title=\"Non-interventionism\" href=\"http://en.wikipedia.org/wiki/Non-interventionism\" target=\"_blank\" rel=\"wikipedia\">non-interventionism</a>.
+
+By the way, non-interventionism is far different from isolationism. Rand Paul is not an isolationist. He is pro-free markets and consequently embraces the technologies which have paralleled globalization. He is also a huge proponent of free trade. Unlike some of his pure libertarian brethren, however, Paul's <a href=\"http://hotair.com/archives/2013/03/19/rand-pauls-immigration-plan-border-security-before-probationary-legal-status/\">immigration </a>and <a href=\"http://hotair.com/archives/2013/03/20/rand-paul-im-pro-life-but-exceptions-should-be-handled-case-by-case/\">life </a>stances are surprisingly moderate, maybe even conservative. Maybe. Added benefits include that he is not <a class=\"zem_slink\" title=\"Rick Perry\" href=\"http://en.wikipedia.org/wiki/Rick_Perry\" target=\"_blank\" rel=\"wikipedia\">Rick Perry</a>, <a class=\"zem_slink\" title=\"Chris Christie\" href=\"http://en.wikipedia.org/wiki/Chris_Christie\" target=\"_blank\" rel=\"wikipedia\">Chris Christie</a>, <a class=\"zem_slink\" title=\"Marco Rubio\" href=\"http://en.wikipedia.org/wiki/Marco_Rubio\" target=\"_blank\" rel=\"wikipedia\">Marco Rubio</a> or Hillary Clinton.
+
+Rand 2016 anyone?
+<h6 class=\"zemanta-related-title\" style=\"font-size:1em;\">Related articles</h6>
+<ul class=\"zemanta-article-ul\">
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.dailykos.com/story/2013/07/25/1226470/-Rand-Paul-No-one-in-Congress-has-a-stronger-belief-in-minority-rights-than-I-do\" target=\"_blank\">Rand Paul: No one in Congress 'has a stronger belief in minority rights than I do'</a> (dailykos.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.dailypaul.com/293884/dangerous-rand-paul-fires-back-to-christie\" target=\"_blank\">'Dangerous' Rand Paul fires back to Christie</a> (dailypaul.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://r.zemanta.com/?u=http%3A//firstread.nbcnews.com/_news/2013/07/26/19697122-first-thoughts-christie-takes-on-rand-paul%3Flite&amp;a=188418250&amp;rid=00000331-1f08-000F-0000-0000000003b2&amp;e=4340e8f52a43e6dfb72608d835960bdc\" target=\"_blank\">Christie takes on Rand Paul</a> (firstread.nbcnews.com)</li>
+</ul>

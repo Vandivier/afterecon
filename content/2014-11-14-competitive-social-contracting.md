@@ -1,0 +1,24 @@
+---
+title: Competitive Social Contracting
+date: 2014-11-14 16:05:27
+author: John Vandivier
+---
+
+
+
+Competitive social contracting is another method of implementing <a class=\"zem_slink\" title=\"Anarchy\" href=\"http://en.wikipedia.org/wiki/Anarchy\" target=\"_blank\" rel=\"wikipedia\">anarchy</a>. Competitive governance is the general strategy behind both seasteading types and this type of implementation of anarchy. This strategy seeks to create a <a class=\"zem_slink\" title=\"Free market\" href=\"http://en.wikipedia.org/wiki/Free_market\" target=\"_blank\" rel=\"wikipedia\">free market</a> of governance. Such a market would rapidly evolve into anarchy. We presently have a market for governance but it is not a free market. The two main issues in the way of that transition are territorial sovereignty and <a class=\"zem_slink\" title=\"Barriers to entry\" href=\"http://en.wikipedia.org/wiki/Barriers_to_entry\" target=\"_blank\" rel=\"wikipedia\">barrier to entry</a>. Competitive social contracting is a method of reforming a territorial sovereign instead of seeking to subvert, evade or out-compete it. Competitive social contracting can occur in two ways.
+
+<a href=\"http://commons.wikipedia.org/wiki/File:VforVoluntary_dark.svg\" target=\"_blank\"><img class=\"zemanta-img-inserted alignleft\" title=\"VforVoluntary dark\" alt=\"VforVoluntary dark\" src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/VforVoluntary_dark.svg/300px-VforVoluntary_dark.svg.png\" width=\"270\" height=\"237\" /></a>
+
+The first method is widely called <a title=\"Public choice theory\" href=\"http://en.wikipedia.org/wiki/Public_choice_theory\" target=\"_blank\" rel=\"wikipedia\">public choice</a> and sometimes overlaps with <a title=\"Social choice theory\" href=\"http://en.wikipedia.org/wiki/Social_choice_theory\" target=\"_blank\" rel=\"wikipedia\">social choice</a>. In that model <a class=\"zem_slink\" title=\"Government\" href=\"http://en.wikipedia.org/wiki/Government\" target=\"_blank\" rel=\"wikipedia\">governments</a> introduce some sort of competition-driving mechanics into a policy area. Examples would include an opt-out for <a class=\"zem_slink\" title=\"Social security\" href=\"http://en.wikipedia.org/wiki/Social_security\" target=\"_blank\" rel=\"wikipedia\">social security</a>, vouchers in education, privatization and deregulation. If done right, the extreme version of this would be privatized everything, or anarchism. The problem is that any legislation or policy like this would be hard for a political system to pass.
+
+Rather than passing public choice everything, such a situation would arise naturally if government were to give up it's <a class=\"zem_slink\" title=\"Monopoly on violence\" href=\"http://en.wikipedia.org/wiki/Monopoly_on_violence\" target=\"_blank\" rel=\"wikipedia\">monopoly on the use of force</a>. The easiest way to get government to give up it's monopoly on the use of force, rather than asking it to simply disband the military and police, is through the use of security contracting. Getting government to rely on <a class=\"zem_slink\" title=\"Defense contractor\" href=\"http://en.wikipedia.org/wiki/Defense_contractor\" target=\"_blank\" rel=\"wikipedia\">defense contractors</a> and police-substituting contractors, while difficult, is much more expedient than trying to pass comprehensive public choice policy.
+
+Contracts like this exist already and the argument for further distribution is relatively easy, to a point. <a href=\"http://en.wikipedia.org/wiki/Cost-plus_contract\">Cost-plus contracts</a> are inefficient to a laughable point and would make a good political target. Shifting to more efficient models may allow us to reshape the way national defence is done. If we are careful we can create a precedent which we can later apply to substituting out the police. One key will be lowering the barrier to entry for government defence contracts.
+<h6 class=\"zemanta-related-title\" style=\"font-size:1em;\">Related articles</h6>
+<ul class=\"zemanta-article-ul\">
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://russellhwithers.wordpress.com/2013/08/14/on-spontaneous-orders/\" target=\"_blank\">On Spontaneous Orders</a> (russellhwithers.wordpress.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://c4ss.org/content/20959\" target=\"_blank\">Where Right-Libertarianism Goes Wrong</a> (c4ss.org)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://charleshughsmith.blogspot.com/2013/07/is-americas-social-contract-broken.html\" target=\"_blank\">Is America's Social Contract Broken?</a> (charleshughsmith.blogspot.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.project-syndicate.org/commentary/redefining-the-life-of-work-by-kemal-dervi-\" target=\"_blank\">The Next Social Contract</a> (project-syndicate.org)</li>
+</ul>

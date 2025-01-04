@@ -1,0 +1,9 @@
+---
+title: 5 Tenets of Christian Economics
+date: 2014-11-14 16:10:47
+author: John Vandivier
+---
+
+
+
+This will be an indefinite series wherein I compile various Christian ideas including scripture, doctrine and other ideas and relate them to economics. I posit that when the Christian scripture is accurately interpreted optimal outcomes will be created, including outcomes better than what we see as the \"free market\" today. This economic theory will be called Christian Economics and will be a form of post free-market economics, meaning I will start by assuming the validity of free-market economics and move away from it as my interpretation allows. Preferably this interpretation will eventually be validated or invalidated by experimentation. This theory will be a major tool to reconcile social and fiscal conservatism.<br /><br />In this post I would like to point out six tenets I propose with regard to Christian economics:<br /><br />1 - Profit motive is proper in Christian economics: Ecclesiastes 11:2, Parable of Talents (Luke 19, elsewhere.)<br />2 - People are essentially free (Maybe even should be free?) to do whatever they want, although not all things will benefit them...Christian Anarchism...(1 Cor 6:12, 1 Cor 10:23)...The universe has been fine-tuned to allow a competitive advantage to the Christian, while others will \"perish\" or die. (Prov 19:9, Romans 6:23) Nature as a Worldview Filter:<br /><br />[youtube http://www.youtube.com/watch?v=2iszhzLbV-s&amp;w=560&amp;h=315]<br /><br />3 - Saturation points exist, mainstream tenet of insatiable wants false: Phil 4:12<br />4 - Maximization of personal utility is not proper, rather, maximization of the utility of others: Phillipians 2:3-4<br />5 - Real utility is objective, although people may perceive it relatively (Objective morality, goodness)

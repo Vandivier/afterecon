@@ -100,26 +100,42 @@ lines.forEach((line) => {
   }
 });
 
-// Convert map to array
-const uniquePosts = Array.from(titleToPost.values());
-
-// Write to JSON file
-const outputPath = path.join(__dirname, "../articles-from-analyze-sql.json");
-fs.writeFileSync(outputPath, JSON.stringify(uniquePosts, null, 2));
-
 // Compare with legacy articles.json
 const legacyPath = path.join(__dirname, "../articles.json");
 const legacyPosts: LegacyPost[] = JSON.parse(
   fs.readFileSync(legacyPath, "utf8")
 );
 
-const newTitles = new Set(uniquePosts.map((p) => p.title));
+const newTitles = new Set(Array.from(titleToPost.values()).map((p) => p.title));
 const missingTitles = legacyPosts.filter((p) => !newTitles.has(p.title));
 
+// Merge missing legacy posts into uniquePosts
+missingTitles.forEach((legacyPost) => {
+  const post: Post = {
+    postId: 0, // No postId available from legacy posts
+    title: legacyPost.title,
+    status: legacyPost.status,
+    postDate: legacyPost.date,
+    content: legacyPost.content,
+    // Check if we have existing data for this title
+    ...(existingPostsByTitle.get(legacyPost.title)
+      ? {
+          originalPostDate: existingPostsByTitle.get(legacyPost.title)!
+            .originalPostDate,
+          ignore: existingPostsByTitle.get(legacyPost.title)!.ignore,
+        }
+      : {}),
+  };
+
+  titleToPost.set(legacyPost.title, post);
+});
+
 console.log(
-  `\nFound ${missingTitles.length} titles in legacy articles.json that are missing from new analysis:`
+  `\nFound ${missingTitles.length} titles in the alternately-parsed articles.json that were merged from legacy analysis:`
 );
 missingTitles.forEach((p) => console.log(`- ${p.title}`));
+
+console.log("\nMerging posts...");
 
 console.log("\nExtracting content for posts...");
 
@@ -187,7 +203,7 @@ const mergedPosts = Array.from(titleToPost.values()).map((post) => {
 });
 
 // Write merged posts back to original file
-fs.writeFileSync(outputPath, JSON.stringify(mergedPosts, null, 2));
+fs.writeFileSync(existingPath, JSON.stringify(mergedPosts, null, 2));
 
 console.log(
   `\nWrote ${mergedPosts.length} posts to articles-from-analyze-sql.json`

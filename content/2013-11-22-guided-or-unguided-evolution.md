@@ -1,0 +1,23 @@
+---
+title: Guided or Unguided Evolution
+date: 2013-11-22 15:20:55
+author: John Vandivier
+---
+
+
+
+This article will briefly discuss the fact that since the dawn of man at latest evolution, if it exists at all, has been guided evolution.
+
+In the evolution debate there are many sides. The sides we always hear about are the Intelligent Design side and the Evolution side, but even inside the evolution side not everyone is opposed to intelligence. Some supporters of evolution advocate guided evolution which is also sometimes mistakenly called theistic evolution. It is a mistake to call guided evolution theistic evolution because the guidance need not come from a religious source.
+
+Any intelligent source could be considered a guiding force. Guided evolution has two key differences from intelligent design in that intelligent design implies that intelligent design plays a causal role and after the causation may or may not continue to impact the process in an ongoing way. Guided evolution, on the other hand, does not claim that intelligence plays a causal role, but maintains that intelligence has impacted the process of evolution since after that initial period. Some guided evolutionists claim that intelligence also had a causal role, but that claim is not intrinsic to the idea of guided evolution.
+
+One illustration of these differences is that Intelligent Design is open to a God the Clockmaker. Be sure not to confuse this with God the Watchmaker or the watchmaker analogy which is altogether different. The idea of God the Clockmaker holds that God could have designed the universe and activated it, but then ceased to be actively involved in it. This is like a clockmaker who is intricately involved in the creation of the clock, but upon its completion he simply lets it run and no longer toys with it. Of course, Intelligent Design theorists would be quick to point out that the intelligent designer need not be God, but this gets the point across.
+
+Guided evolution, on the other hand, says nothing about the creation process. Guided evolution is open to a naturalistic or purely material beginning, but maintains that some sort of intelligence, perhaps God or some aliens or something, has impacted the actual evolutionary process of random variation and natural selection. Because of this, Guided evolution is not OK with a God the Clockmaker. It needs a guiding force such as intelligence which has impacted the regular operation of evolution regardless of the origination sequence. This manipulation of the evolutionary process could occur in either of two ways. If biological variation were nonrandom or if the selection process were not purely naturalistic, perhaps because it was impacted by a systematic intelligent bias, then you would have a case of guided evolution.
+
+One thing which gets under my skin is this idea of natural and naturalistic selection. I think intelligence and even God can be seen as perfectly natural, but in this case when we talk about natural selection we are using the scientific idea natural selection which does not include those things.
+
+Here's my point: Presumably since the dawn of man and arguably much earlier than that we have had intelligence in the selection process. Hunters and breeders selectively manipulate the genetic variety of animals all the time. Therefore, any evidence which has been collected in the last few million years at least is invalid in my book. Even the genetic experiments that many biologists run on algae, flees, GMO agriculture and other things are all examples of guided evolution, and arguably intelligent design, rather than blind unguided and naturalistic evolution. These experiments as well as the larger way most life has evolved since the dawn of man is not a case of random variation and natural selection but a case of nonrandom, sometimes outright selective, variation and artificial or intelligently influenced selection.
+
+Back to the misuse of the terms natural, naturalistic, supernatural and so on in the scientific community for one last comment. Think about this: Should the process of guided evolution which a breeder causes to happen with regard to sheep be considered unnatural or supernatural simply because it is intelligent? That is ridiculous. Breeding and intelligence are perfectly natural and frankly I think the use of terms similar to natural are entirely a red herring. Breeding of animals and crops is a great example of guided evolution and intelligent design. Without commenting on the origin of life, since the origin of human life and arguably earlier than that evolution has been a guided process involving some degree of intelligent design if it exists at all.
