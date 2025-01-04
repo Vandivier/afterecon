@@ -1,5 +1,5 @@
 ---
-title: "Bank of America\'s New Budget Tool is Cool"
+title: "Bank of America's New Budget Tool is Cool"
 date: 2017-02-10 15:00:28
 author: John Vandivier
 ---

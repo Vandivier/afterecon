@@ -1,5 +1,5 @@
 ---
-title: "Don\'t Give Your Property Manager Free Rent"
+title: "Don't Give Your Property Manager Free Rent"
 date: 2020-07-12 12:03:47
 author: John Vandivier
 ---

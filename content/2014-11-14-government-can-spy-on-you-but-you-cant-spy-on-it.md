@@ -1,5 +1,5 @@
 ---
-title: "Government Can Spy on You, but You Can\'t Spy on It"
+title: "Government Can Spy on You, but You Can't Spy on It"
 date: 2014-11-14 16:06:25
 author: John Vandivier
 ---

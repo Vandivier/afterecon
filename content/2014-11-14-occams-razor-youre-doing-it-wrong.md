@@ -1,5 +1,5 @@
 ---
-title: "Occam\'s Razor: You\'re Doing it Wrong"
+title: "Occam's Razor: You're Doing it Wrong"
 date: 2014-11-14 16:09:50
 author: John Vandivier
 ---

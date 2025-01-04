@@ -1,5 +1,5 @@
 ---
-title: "Isn\'t Snowden a Traitor?"
+title: "Isn't Snowden a Traitor?"
 date: 2015-04-02 14:39:41
 author: John Vandivier
 ---

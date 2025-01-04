@@ -1,5 +1,5 @@
 ---
-title: "Reza\'s Just Wrong"
+title: "Reza's Just Wrong"
 date: 2014-10-03 14:30:41
 author: John Vandivier
 ---

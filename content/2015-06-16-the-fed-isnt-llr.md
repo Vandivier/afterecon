@@ -1,5 +1,5 @@
 ---
-title: "The Fed isn\'t LLR"
+title: "The Fed isn't LLR"
 date: 2015-06-16 03:34:17
 author: John Vandivier
 ---

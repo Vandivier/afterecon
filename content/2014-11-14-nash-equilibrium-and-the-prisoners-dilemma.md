@@ -1,5 +1,5 @@
 ---
-title: "Nash Equilibrium and the Prisoners\' Dilemma"
+title: "Nash Equilibrium and the Prisoners' Dilemma"
 date: 2014-11-14 16:02:16
 author: John Vandivier
 ---

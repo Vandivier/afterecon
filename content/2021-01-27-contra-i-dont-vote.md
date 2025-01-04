@@ -1,5 +1,5 @@
 ---
-title: "Contra \"I Don\'t Vote\""
+title: "Contra \"I Don't Vote\""
 date: 2021-01-26 21:07:53
 author: John Vandivier
 ---

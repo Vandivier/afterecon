@@ -1,5 +1,5 @@
 ---
-title: "Occam\'s Informal Razor"
+title: "Occam's Informal Razor"
 date: 2014-04-19 22:10:07
 author: John Vandivier
 ---

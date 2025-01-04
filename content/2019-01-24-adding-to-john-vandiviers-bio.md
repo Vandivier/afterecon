@@ -1,5 +1,5 @@
 ---
-title: "Adding to John Vandivier\'s Bio"
+title: "Adding to John Vandivier's Bio"
 date: 2019-01-24 10:35:59
 author: John Vandivier
 ---

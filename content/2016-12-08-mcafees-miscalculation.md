@@ -1,5 +1,5 @@
 ---
-title: "McAfee\'s Miscalculation"
+title: "McAfee's Miscalculation"
 date: 2016-12-08 15:00:14
 author: John Vandivier
 ---

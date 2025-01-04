@@ -1,5 +1,5 @@
 ---
-title: "Larken\'s 5 Questions and John\'s 10"
+title: "Larken's 5 Questions and John's 10"
 date: 2015-05-16 05:15:32
 author: John Vandivier
 ---

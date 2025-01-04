@@ -1,5 +1,5 @@
 ---
-title: "Beat Big Brother, but Don\'t Fight Him"
+title: "Beat Big Brother, but Don't Fight Him"
 date: 2014-03-17 03:48:04
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A Conversation from Tom Woods\' Day 4 Morning Speech at Mises University"
+title: "A Conversation from Tom Woods' Day 4 Morning Speech at Mises University"
 date: 2014-07-28 00:06:03
 author: John Vandivier
 ---

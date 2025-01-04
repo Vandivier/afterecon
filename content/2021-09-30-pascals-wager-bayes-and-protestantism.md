@@ -1,5 +1,5 @@
 ---
-title: "Pascal\'s Wager, Bayes, and Protestantism"
+title: "Pascal's Wager, Bayes, and Protestantism"
 date: 2021-09-30 17:55:09
 author: John Vandivier
 ---

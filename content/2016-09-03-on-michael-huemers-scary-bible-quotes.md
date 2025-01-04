@@ -1,5 +1,5 @@
 ---
-title: "On Michael Huemer\'s Scary Bible Quotes"
+title: "On Michael Huemer's Scary Bible Quotes"
 date: 2016-09-03 16:18:37
 author: John Vandivier
 ---

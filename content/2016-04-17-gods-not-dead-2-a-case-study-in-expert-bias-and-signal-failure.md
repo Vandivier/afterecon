@@ -1,5 +1,5 @@
 ---
-title: "God\'s Not Dead 2: A Case Study in Expert Bias and Signal Failure"
+title: "God's Not Dead 2: A Case Study in Expert Bias and Signal Failure"
 date: 2016-04-16 23:57:04
 author: John Vandivier
 ---

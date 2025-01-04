@@ -1,5 +1,5 @@
 ---
-title: "Why It\'s Important to Capture Hours Worked, Even on Salary"
+title: "Why It's Important to Capture Hours Worked, Even on Salary"
 date: 2018-04-30 09:11:04
 author: John Vandivier
 ---

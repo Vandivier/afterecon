@@ -1,5 +1,5 @@
 ---
-title: "Snowden\'s Perspective"
+title: "Snowden's Perspective"
 date: 2014-11-14 16:06:35
 author: John Vandivier
 ---

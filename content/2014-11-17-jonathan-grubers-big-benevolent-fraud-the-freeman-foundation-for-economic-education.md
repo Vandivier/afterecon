@@ -1,5 +1,5 @@
 ---
-title: "Jonathan Gruber\'s Big, Benevolent Fraud : The Freeman : Foundation for Economic Education"
+title: "Jonathan Gruber's Big, Benevolent Fraud : The Freeman : Foundation for Economic Education"
 date: 2014-11-17 16:14:04
 author: John Vandivier
 ---

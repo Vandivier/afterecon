@@ -1,5 +1,5 @@
 ---
-title: "Learning to Code, Cont\'d"
+title: "Learning to Code, Cont'd"
 date: 2015-01-23 16:36:46
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MEGA\'s Next Move: Encrypted Email"
+title: "MEGA's Next Move: Encrypted Email"
 date: 2014-11-14 16:11:38
 author: John Vandivier
 ---

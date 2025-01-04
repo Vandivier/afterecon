@@ -1,5 +1,5 @@
 ---
-title: "Arguments for God and Occam\'s Razor"
+title: "Arguments for God and Occam's Razor"
 date: 2014-04-19 23:19:30
 author: John Vandivier
 ---

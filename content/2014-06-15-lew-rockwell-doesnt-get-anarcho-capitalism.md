@@ -1,5 +1,5 @@
 ---
-title: "Lew Rockwell Doesn\'t Get Anarcho-Capitalism"
+title: "Lew Rockwell Doesn't Get Anarcho-Capitalism"
 date: 2014-06-15 04:43:29
 author: John Vandivier
 ---

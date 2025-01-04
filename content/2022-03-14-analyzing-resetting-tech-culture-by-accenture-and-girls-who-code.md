@@ -1,5 +1,5 @@
 ---
-title: "Analyzing \'Resetting Tech Culture\' by Accenture and Girls Who Code"
+title: "Analyzing 'Resetting Tech Culture' by Accenture and Girls Who Code"
 date: 2022-03-14 12:29:34
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: "On David Friedman\'s 3rd AMA"
+title: "On David Friedman's 3rd AMA"
 date: 2015-03-10 00:39:38
 author: John Vandivier
 ---
