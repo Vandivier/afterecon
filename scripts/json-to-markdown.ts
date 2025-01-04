@@ -11,6 +11,8 @@ interface Post {
   content: string;
   status: string;
   filename?: string;
+  originalPostDate?: string;
+  ignore?: boolean | "quote" | "obsolete";
 }
 
 function createSlug(title: string): string {
@@ -24,9 +26,15 @@ function createSlug(title: string): string {
 function createMarkdownContent(post: Post): string {
   return `---
 title: ${post.title}
-date: ${post.postDate}
+date: ${post.originalPostDate || post.postDate}
 author: John Vandivier
 ---
+
+${
+  post.ignore === "obsolete"
+    ? "OBSOLETE NOTICE: This post is obsolete and provided only for historical and archival reasons."
+    : ""
+}
 
 ${post.content}`;
 }
@@ -40,15 +48,17 @@ articles.forEach((post) => {
   const markdownContent = createMarkdownContent(post);
   let filename = post.filename;
   if (!filename) {
-    const postDate = new Date(post.postDate);
+    const postDate = new Date(post.originalPostDate || post.postDate);
     const dateStr = postDate.toISOString().split("T")[0];
     const slug = createSlug(post.title);
     filename = `${dateStr}-${slug}.md`;
   }
 
   const outputPath = path.join(__dirname, "..", "content", filename);
-  fs.writeFileSync(outputPath, markdownContent);
-  console.log(`Created: ${filename}`);
+  if (!post.ignore || post.ignore === "obsolete") {
+    fs.writeFileSync(outputPath, markdownContent);
+    console.log(`Created: ${filename}`);
+  }
 });
 
 console.log(`\nTotal: ${articles.length} markdown files created`);
