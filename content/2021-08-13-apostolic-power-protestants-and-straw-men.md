@@ -1,5 +1,5 @@
 ---
-title: Apostolic Power, Protestants, and Straw Men
+title: "Apostolic Power, Protestants, and Straw Men"
 date: 2021-08-13 15:59:04
 author: John Vandivier
 ---

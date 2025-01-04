@@ -1,5 +1,5 @@
 ---
-title: 5 Research Questions for Degreed
+title: "5 Research Questions for Degreed"
 date: 2017-02-24 01:41:08
 author: John Vandivier
 ---

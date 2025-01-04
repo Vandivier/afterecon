@@ -1,5 +1,5 @@
 ---
-title: Spring 2017 Class Notes Through 2/8/17
+title: "Spring 2017 Class Notes Through 2/8/17"
 date: 2017-02-18 14:04:26
 author: John Vandivier
 ---

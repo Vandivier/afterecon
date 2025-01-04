@@ -1,5 +1,5 @@
 ---
-title: Forecasting and Austrian Economics
+title: "Forecasting and Austrian Economics"
 date: 2017-02-14 15:00:54
 author: John Vandivier
 ---

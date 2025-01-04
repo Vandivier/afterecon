@@ -1,5 +1,5 @@
 ---
-title: Creating a Personal Finance Plan from a Template
+title: "Creating a Personal Finance Plan from a Template"
 date: 2018-10-28 15:42:46
 author: John Vandivier
 ---

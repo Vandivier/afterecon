@@ -1,5 +1,5 @@
 ---
-title: Measuring Importance with Stack Exchange
+title: "Measuring Importance with Stack Exchange"
 date: 2018-01-21 14:32:40
 author: John Vandivier
 ---

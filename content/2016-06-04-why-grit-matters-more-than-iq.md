@@ -1,5 +1,5 @@
 ---
-title: Why Grit Matters More Than IQ
+title: "Why Grit Matters More Than IQ"
 date: 2016-06-04 01:29:47
 author: John Vandivier
 ---

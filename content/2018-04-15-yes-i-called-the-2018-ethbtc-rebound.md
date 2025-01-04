@@ -1,5 +1,5 @@
 ---
-title: Yes, I Called the 2018 eth/btc Rebound
+title: "Yes, I Called the 2018 eth/btc Rebound"
 date: 2018-04-15 10:51:47
 author: John Vandivier
 ---

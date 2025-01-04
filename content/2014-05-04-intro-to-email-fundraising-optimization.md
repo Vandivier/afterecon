@@ -1,5 +1,5 @@
 ---
-title: Intro to Email Fundraising Optimization
+title: "Intro to Email Fundraising Optimization"
 date: 2014-05-04 18:50:17
 author: John Vandivier
 ---

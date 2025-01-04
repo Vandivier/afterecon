@@ -1,5 +1,5 @@
 ---
-title: Business Consulting: Marginless Business Strategy
+title: "Business Consulting: Marginless Business Strategy"
 date: 2019-10-05 21:27:42
 author: John Vandivier
 ---

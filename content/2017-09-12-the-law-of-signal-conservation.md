@@ -1,5 +1,5 @@
 ---
-title: The Law of Signal Conservation
+title: "The Law of Signal Conservation"
 date: 2017-09-12 15:04:21
 author: John Vandivier
 ---

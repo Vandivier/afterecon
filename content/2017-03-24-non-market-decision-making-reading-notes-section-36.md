@@ -1,5 +1,5 @@
 ---
-title: Non-Market Decision Making Reading Notes Section 3.6
+title: "Non-Market Decision Making Reading Notes Section 3.6"
 date: 2017-03-23 20:13:04
 author: John Vandivier
 ---

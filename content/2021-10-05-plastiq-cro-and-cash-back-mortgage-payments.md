@@ -1,5 +1,5 @@
 ---
-title: Plastiq, CRO, and Cash Back Mortgage Payments
+title: "Plastiq, CRO, and Cash Back Mortgage Payments"
 date: 2021-10-05 11:09:50
 author: John Vandivier
 ---

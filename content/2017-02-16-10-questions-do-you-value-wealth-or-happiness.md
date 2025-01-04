@@ -1,5 +1,5 @@
 ---
-title: 10 Questions: Do You Value Wealth or Happiness?
+title: "10 Questions: Do You Value Wealth or Happiness?"
 date: 2017-02-15 23:26:03
 author: John Vandivier
 ---

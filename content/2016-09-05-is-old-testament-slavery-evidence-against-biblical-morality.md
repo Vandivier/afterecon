@@ -1,5 +1,5 @@
 ---
-title: Is Old Testament Slavery Evidence Against Biblical Morality?
+title: "Is Old Testament Slavery Evidence Against Biblical Morality?"
 date: 2016-09-05 10:00:29
 author: John Vandivier
 ---

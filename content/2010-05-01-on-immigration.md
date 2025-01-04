@@ -1,5 +1,5 @@
 ---
-title: On Immigration
+title: "On Immigration"
 date: 2010-05-01
 author: John Vandivier
 ---

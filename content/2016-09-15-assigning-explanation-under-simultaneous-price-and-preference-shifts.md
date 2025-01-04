@@ -1,5 +1,5 @@
 ---
-title: Assigning Explanation Under Simultaneous Price and Preference Shifts
+title: "Assigning Explanation Under Simultaneous Price and Preference Shifts"
 date: 2016-09-15 14:00:00
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Way I Explain the Trinity
+title: "The Way I Explain the Trinity"
 date: 2015-05-16 20:48:00
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Price Forecast Update, 11/21/18
+title: "Bitcoin Price Forecast Update, 11/21/18"
 date: 2018-11-21 11:02:48
 author: John Vandivier
 ---

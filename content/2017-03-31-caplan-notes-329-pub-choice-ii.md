@@ -1,5 +1,5 @@
 ---
-title: Caplan Notes 3/29, Pub Choice II
+title: "Caplan Notes 3/29, Pub Choice II"
 date: 2017-03-31 19:31:10
 author: John Vandivier
 ---

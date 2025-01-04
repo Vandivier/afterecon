@@ -1,5 +1,5 @@
 ---
-title: Learning to Build a Budget While an Undergrad
+title: "Learning to Build a Budget While an Undergrad"
 date: 2019-02-21 19:39:50
 author: John Vandivier
 ---

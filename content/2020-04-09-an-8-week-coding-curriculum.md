@@ -1,5 +1,5 @@
 ---
-title: An 8 Week Coding Curriculum
+title: "An 8 Week Coding Curriculum"
 date: 2020-04-08 23:05:10
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Future of Food is Litty McGee
+title: "The Future of Food is Litty McGee"
 date: 2017-08-03 15:00:52
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Announcing Ladderly, Patreon, and More!
+title: "Announcing Ladderly, Patreon, and More!"
 date: 2021-11-28 22:35:00
 author: John Vandivier
 ---

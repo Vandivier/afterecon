@@ -1,5 +1,5 @@
 ---
-title: What Does the Bible Say About Competition?
+title: "What Does the Bible Say About Competition?"
 date: 2014-11-14 16:06:56
 author: John Vandivier
 ---

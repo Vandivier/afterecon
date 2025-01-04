@@ -1,5 +1,5 @@
 ---
-title: John Vandivier Comments for 10/1 Readings
+title: "John Vandivier Comments for 10/1 Readings"
 date: 2014-10-01 14:26:24
 author: John Vandivier
 ---

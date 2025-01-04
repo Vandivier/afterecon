@@ -1,5 +1,5 @@
 ---
-title: Adrian Peterson is a Neocon
+title: "Adrian Peterson is a Neocon"
 date: 2015-05-12 04:03:53
 author: John Vandivier
 ---

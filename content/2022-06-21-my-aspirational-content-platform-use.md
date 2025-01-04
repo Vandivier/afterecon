@@ -1,5 +1,5 @@
 ---
-title: My Aspirational Content Platform Use
+title: "My Aspirational Content Platform Use"
 date: 2022-06-21 14:09:20
 author: John Vandivier
 ---

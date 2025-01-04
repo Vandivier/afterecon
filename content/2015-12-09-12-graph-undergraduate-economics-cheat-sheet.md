@@ -1,5 +1,5 @@
 ---
-title: 12 Graph Undergraduate Economics Cheat Sheet
+title: "12 Graph Undergraduate Economics Cheat Sheet"
 date: 2015-12-09 00:40:27
 author: John Vandivier
 ---

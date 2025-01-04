@@ -1,5 +1,5 @@
 ---
-title: James is Just Wrong
+title: "James is Just Wrong"
 date: 2015-05-15 00:59:51
 author: John Vandivier
 ---

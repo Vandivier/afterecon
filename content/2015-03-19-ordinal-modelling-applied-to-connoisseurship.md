@@ -1,5 +1,5 @@
 ---
-title: Ordinal Modelling Applied to Connoisseurship
+title: "Ordinal Modelling Applied to Connoisseurship"
 date: 2015-03-19 06:45:33
 author: John Vandivier
 ---

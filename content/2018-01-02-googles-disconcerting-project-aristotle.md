@@ -1,5 +1,5 @@
 ---
-title: Google\'s Disconcerting Project Aristotle
+title: "Google\'s Disconcerting Project Aristotle"
 date: 2018-01-01 21:10:02
 author: John Vandivier
 ---

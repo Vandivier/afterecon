@@ -1,5 +1,5 @@
 ---
-title: Defining a Biblical Miracle
+title: "Defining a Biblical Miracle"
 date: 2014-11-14 16:10:03
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Markets as Optimal Voting Systems
+title: "Markets as Optimal Voting Systems"
 date: 2016-12-09 15:00:04
 author: John Vandivier
 ---

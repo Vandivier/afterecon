@@ -1,5 +1,5 @@
 ---
-title: Unpacking the Vandivier-Coase Theorem
+title: "Unpacking the Vandivier-Coase Theorem"
 date: 2015-12-04 02:31:33
 author: John Vandivier
 ---

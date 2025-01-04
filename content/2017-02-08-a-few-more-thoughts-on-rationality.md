@@ -1,5 +1,5 @@
 ---
-title: A Few More Thoughts on Rationality
+title: "A Few More Thoughts on Rationality"
 date: 2017-02-08 18:05:24
 author: John Vandivier
 ---

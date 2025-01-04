@@ -1,5 +1,5 @@
 ---
-title: Why Tax Cuts are Great Even if They Don\'t Improve X
+title: "Why Tax Cuts are Great Even if They Don\'t Improve X"
 date: 2018-04-22 23:53:51
 author: John Vandivier
 ---

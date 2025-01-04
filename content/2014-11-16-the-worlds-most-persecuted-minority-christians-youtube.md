@@ -1,5 +1,5 @@
 ---
-title: The World\'s Most Persecuted Minority: Christians - YouTube
+title: "The World\'s Most Persecuted Minority: Christians - YouTube"
 date: 2014-11-16 18:30:39
 author: John Vandivier
 ---

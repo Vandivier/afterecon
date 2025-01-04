@@ -1,5 +1,5 @@
 ---
-title: Yet Another Pro-Life Article (What About Rape?)
+title: "Yet Another Pro-Life Article (What About Rape?)"
 date: 2017-04-19 03:30:21
 author: John Vandivier
 ---

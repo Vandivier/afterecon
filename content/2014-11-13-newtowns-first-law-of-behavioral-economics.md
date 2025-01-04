@@ -1,5 +1,5 @@
 ---
-title: Newtown\'s First Law of Behavioral Economics
+title: "Newtown\'s First Law of Behavioral Economics"
 date: 2014-11-13 02:57:14
 author: John Vandivier
 ---

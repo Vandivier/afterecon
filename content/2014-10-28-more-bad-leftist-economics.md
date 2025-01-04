@@ -1,5 +1,5 @@
 ---
-title: More Bad, Leftist Economics
+title: "More Bad, Leftist Economics"
 date: 2014-10-28 01:24:34
 author: John Vandivier
 ---

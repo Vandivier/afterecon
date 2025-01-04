@@ -1,5 +1,5 @@
 ---
-title: Predicting 2014 Senate Elections Way Early
+title: "Predicting 2014 Senate Elections Way Early"
 date: 2017-03-05 14:31:24
 author: John Vandivier
 ---

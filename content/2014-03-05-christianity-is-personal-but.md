@@ -1,5 +1,5 @@
 ---
-title: Christianity is Personal, BUT
+title: "Christianity is Personal, BUT"
 date: 2014-03-05 04:45:37
 author: John Vandivier
 ---

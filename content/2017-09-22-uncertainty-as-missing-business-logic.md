@@ -1,5 +1,5 @@
 ---
-title: Uncertainty as Missing Business Logic
+title: "Uncertainty as Missing Business Logic"
 date: 2017-09-22 19:42:42
 author: John Vandivier
 ---

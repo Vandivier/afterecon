@@ -1,5 +1,5 @@
 ---
-title: 5 Ways to Save Money Through Logistical Cost Reduction
+title: "5 Ways to Save Money Through Logistical Cost Reduction"
 date: 2014-11-14 16:12:25
 author: John Vandivier
 ---

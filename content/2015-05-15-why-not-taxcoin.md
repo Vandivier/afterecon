@@ -1,5 +1,5 @@
 ---
-title: Why Not Taxcoin?
+title: "Why Not Taxcoin?"
 date: 2015-05-14 23:58:29
 author: John Vandivier
 ---

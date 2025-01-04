@@ -1,5 +1,5 @@
 ---
-title: Rush Limbaugh, Others Say Hillary Clinton, Democrats Use Racism, Voter Fraud
+title: "Rush Limbaugh, Others Say Hillary Clinton, Democrats Use Racism, Voter Fraud"
 date: 2014-11-14 16:05:48
 author: John Vandivier
 ---

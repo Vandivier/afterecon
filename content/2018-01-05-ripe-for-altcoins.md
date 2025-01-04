@@ -1,5 +1,5 @@
 ---
-title: Ripe For Altcoins
+title: "Ripe For Altcoins"
 date: 2018-01-05 01:25:10
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Anonymization and Other Updates
+title: "Bitcoin Anonymization and Other Updates"
 date: 2015-03-08 17:06:51
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Economics of Original Intent
+title: "The Economics of Original Intent"
 date: 2016-10-11 17:00:56
 author: John Vandivier
 ---

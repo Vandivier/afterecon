@@ -1,5 +1,5 @@
 ---
-title: Bentham Utility, Happiness, and Economic Modelling
+title: "Bentham Utility, Happiness, and Economic Modelling"
 date: 2015-08-22 12:24:23
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Should gender be distinguished from sex in science?
+title: "Should gender be distinguished from sex in science?"
 date: 2020-07-12 19:26:36
 author: John Vandivier
 ---

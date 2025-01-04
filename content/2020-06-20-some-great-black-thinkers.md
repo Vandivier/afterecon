@@ -1,5 +1,5 @@
 ---
-title: Some Great Black Thinkers
+title: "Some Great Black Thinkers"
 date: 2020-06-19 21:38:12
 author: John Vandivier
 ---

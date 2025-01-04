@@ -1,5 +1,5 @@
 ---
-title: How to RDP: Linux to Windows 10
+title: "How to RDP: Linux to Windows 10"
 date: 2017-02-13 15:00:12
 author: John Vandivier
 ---

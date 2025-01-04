@@ -1,5 +1,5 @@
 ---
-title: Why You Should Reference Wikipedia
+title: "Why You Should Reference Wikipedia"
 date: 2014-11-14 16:02:43
 author: John Vandivier
 ---

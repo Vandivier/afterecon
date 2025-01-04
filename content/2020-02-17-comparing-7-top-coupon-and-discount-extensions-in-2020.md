@@ -1,5 +1,5 @@
 ---
-title: Comparing 7 Top Coupon and Discount Extensions in 2020
+title: "Comparing 7 Top Coupon and Discount Extensions in 2020"
 date: 2020-02-17 14:40:39
 author: John Vandivier
 ---

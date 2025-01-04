@@ -1,5 +1,5 @@
 ---
-title: Immoral or Incompetent?
+title: "Immoral or Incompetent?"
 date: 2014-11-20 14:48:46
 author: John Vandivier
 ---

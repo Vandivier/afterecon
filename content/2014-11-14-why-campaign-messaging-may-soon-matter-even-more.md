@@ -1,5 +1,5 @@
 ---
-title: Why Campaign Messaging May Soon Matter Even More
+title: "Why Campaign Messaging May Soon Matter Even More"
 date: 2014-11-14 16:02:06
 author: John Vandivier
 ---

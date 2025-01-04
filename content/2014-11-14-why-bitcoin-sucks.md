@@ -1,5 +1,5 @@
 ---
-title: Why Bitcoin Sucks
+title: "Why Bitcoin Sucks"
 date: 2014-11-14 16:09:57
 author: John Vandivier
 ---

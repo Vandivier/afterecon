@@ -1,5 +1,5 @@
 ---
-title: The Core Problem in Programming
+title: "The Core Problem in Programming"
 date: 2015-12-31 22:50:30
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Scientists Still Have No Clue About Anything (1/2)
+title: "Scientists Still Have No Clue About Anything (1/2)"
 date: 2014-11-14 16:11:34
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Americans Trust Government Less and Less Because We Know More and More About How It Operates - Hit & Run : Reason.com
+title: "Americans Trust Government Less and Less Because We Know More and More About How It Operates - Hit & Run : Reason.com"
 date: 2014-11-16 18:00:51
 author: John Vandivier
 ---

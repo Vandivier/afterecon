@@ -1,5 +1,5 @@
 ---
-title: Apologetic and Evangelical Technique: All Roads Lead to God
+title: "Apologetic and Evangelical Technique: All Roads Lead to God"
 date: 2015-01-20 15:32:34
 author: John Vandivier
 ---

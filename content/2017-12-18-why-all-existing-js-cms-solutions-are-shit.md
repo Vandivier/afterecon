@@ -1,5 +1,5 @@
 ---
-title: Why All Existing JS CMS Solutions are Shit
+title: "Why All Existing JS CMS Solutions are Shit"
 date: 2017-12-18 15:00:34
 author: John Vandivier
 ---

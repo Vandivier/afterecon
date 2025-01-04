@@ -1,5 +1,5 @@
 ---
-title: Social Costs = Market Costs
+title: "Social Costs = Market Costs"
 date: 2014-09-18 13:14:37
 author: John Vandivier
 ---

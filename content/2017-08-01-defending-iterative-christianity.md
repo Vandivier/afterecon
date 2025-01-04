@@ -1,5 +1,5 @@
 ---
-title: Defending Iterative Christianity
+title: "Defending Iterative Christianity"
 date: 2017-08-01 15:00:02
 author: John Vandivier
 ---

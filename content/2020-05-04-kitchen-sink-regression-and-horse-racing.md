@@ -1,5 +1,5 @@
 ---
-title: Kitchen Sink Regression and Horse Racing
+title: "Kitchen Sink Regression and Horse Racing"
 date: 2020-05-04 12:52:59
 author: John Vandivier
 ---

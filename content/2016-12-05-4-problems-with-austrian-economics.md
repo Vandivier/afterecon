@@ -1,5 +1,5 @@
 ---
-title: 4 Problems with Austrian Economics
+title: "4 Problems with Austrian Economics"
 date: 2016-12-05 15:00:13
 author: John Vandivier
 ---

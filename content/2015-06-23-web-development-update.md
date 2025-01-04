@@ -1,5 +1,5 @@
 ---
-title: Web Development Update
+title: "Web Development Update"
 date: 2015-06-23 01:12:19
 author: John Vandivier
 ---

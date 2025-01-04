@@ -1,5 +1,5 @@
 ---
-title: Comparing 5 Top Coupon Extensions in 2020
+title: "Comparing 5 Top Coupon Extensions in 2020"
 date: 2020-02-17 11:11:41
 author: John Vandivier
 ---

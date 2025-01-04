@@ -1,5 +1,5 @@
 ---
-title: Three Problems with Panpsychism
+title: "Three Problems with Panpsychism"
 date: 2019-11-01 10:00:25
 author: John Vandivier
 ---

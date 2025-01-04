@@ -1,5 +1,5 @@
 ---
-title: Research, Structural Models and Publishing
+title: "Research, Structural Models and Publishing"
 date: 2014-02-18 05:16:11
 author: John Vandivier
 ---

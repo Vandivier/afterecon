@@ -1,5 +1,5 @@
 ---
-title: Societal Evolution From a Free Market Perspective
+title: "Societal Evolution From a Free Market Perspective"
 date: 2014-11-14 16:12:04
 author: John Vandivier
 ---

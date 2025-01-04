@@ -1,5 +1,5 @@
 ---
-title: Kahneman and Efficient Bias
+title: "Kahneman and Efficient Bias"
 date: 2015-04-23 19:38:46
 author: John Vandivier
 ---

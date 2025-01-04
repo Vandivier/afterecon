@@ -1,5 +1,5 @@
 ---
-title: Log Growth Rates: Stop Doing That
+title: "Log Growth Rates: Stop Doing That"
 date: 2015-10-14 01:51:47
 author: John Vandivier
 ---

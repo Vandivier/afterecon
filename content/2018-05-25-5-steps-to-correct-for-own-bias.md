@@ -1,5 +1,5 @@
 ---
-title: 5 Steps to Correct for Own Bias
+title: "5 Steps to Correct for Own Bias"
 date: 2018-05-25 17:50:59
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Deflationary Theory of Bias
+title: "Deflationary Theory of Bias"
 date: 2015-06-13 16:57:58
 author: John Vandivier
 ---

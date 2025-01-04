@@ -1,5 +1,5 @@
 ---
-title: The Genesis 1:1 Apology and Mathematical Trust
+title: "The Genesis 1:1 Apology and Mathematical Trust"
 date: 2014-11-14 16:10:29
 author: John Vandivier
 ---

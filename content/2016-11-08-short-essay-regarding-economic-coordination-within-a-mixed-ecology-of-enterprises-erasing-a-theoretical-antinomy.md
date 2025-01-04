@@ -1,5 +1,5 @@
 ---
-title: Short Essay Regarding \"Economic Coordination within a Mixed Ecology of Enterprises: Erasing a Theoretical Antinomy\"
+title: "Short Essay Regarding \"Economic Coordination within a Mixed Ecology of Enterprises: Erasing a Theoretical Antinomy\""
 date: 2016-11-08 15:00:15
 author: John Vandivier
 ---

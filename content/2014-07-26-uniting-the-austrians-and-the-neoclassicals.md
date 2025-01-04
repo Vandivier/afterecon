@@ -1,5 +1,5 @@
 ---
-title: Uniting the Austrians and the Neoclassicals
+title: "Uniting the Austrians and the Neoclassicals"
 date: 2014-07-26 18:04:28
 author: John Vandivier
 ---

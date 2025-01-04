@@ -1,5 +1,5 @@
 ---
-title: Bruggencate VS Lewis, P1
+title: "Bruggencate VS Lewis, P1"
 date: 2016-12-06 19:17:22
 author: John Vandivier
 ---

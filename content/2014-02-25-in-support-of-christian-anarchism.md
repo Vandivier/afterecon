@@ -1,5 +1,5 @@
 ---
-title: In Support of Christian Anarchism
+title: "In Support of Christian Anarchism"
 date: 2014-02-25 05:39:10
 author: John Vandivier
 ---

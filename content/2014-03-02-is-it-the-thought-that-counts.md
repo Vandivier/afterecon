@@ -1,5 +1,5 @@
 ---
-title: Is It the Thought That Counts?
+title: "Is It the Thought That Counts?"
 date: 2014-03-01 20:07:45
 author: John Vandivier
 ---

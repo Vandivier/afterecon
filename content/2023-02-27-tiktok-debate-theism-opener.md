@@ -1,5 +1,5 @@
 ---
-title: TikTok Debate Theism Opener
+title: "TikTok Debate Theism Opener"
 date: 2023-02-27 00:17:57
 author: John Vandivier
 ---

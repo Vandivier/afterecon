@@ -1,5 +1,5 @@
 ---
-title: Data Driven or Go Home
+title: "Data Driven or Go Home"
 date: 2017-12-10 15:00:12
 author: John Vandivier
 ---

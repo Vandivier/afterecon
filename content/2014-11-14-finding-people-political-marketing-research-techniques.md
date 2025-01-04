@@ -1,5 +1,5 @@
 ---
-title: Finding People - Political Marketing Research Techniques
+title: "Finding People - Political Marketing Research Techniques"
 date: 2014-11-14 16:07:18
 author: John Vandivier
 ---

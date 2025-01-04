@@ -1,5 +1,5 @@
 ---
-title: Summing Budget Lines Does Not Derive the Demand Curve
+title: "Summing Budget Lines Does Not Derive the Demand Curve"
 date: 2016-09-22 07:59:32
 author: John Vandivier
 ---

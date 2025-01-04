@@ -1,5 +1,5 @@
 ---
-title: Affluenza, Preference Ratcheting, and Social Spoiling
+title: "Affluenza, Preference Ratcheting, and Social Spoiling"
 date: 2020-06-09 09:27:59
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Anon, Censorship, and Grey Pills
+title: "Anon, Censorship, and Grey Pills"
 date: 2021-01-10 18:19:58
 author: John Vandivier
 ---

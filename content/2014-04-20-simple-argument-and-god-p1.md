@@ -1,5 +1,5 @@
 ---
-title: Simple Argument and God, P1
+title: "Simple Argument and God, P1"
 date: 2014-04-19 21:02:30
 author: John Vandivier
 ---

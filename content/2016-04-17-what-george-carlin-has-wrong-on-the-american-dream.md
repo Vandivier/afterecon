@@ -1,5 +1,5 @@
 ---
-title: What George Carlin Has Wrong On The American Dream
+title: "What George Carlin Has Wrong On The American Dream"
 date: 2016-04-17 12:01:22
 author: John Vandivier
 ---

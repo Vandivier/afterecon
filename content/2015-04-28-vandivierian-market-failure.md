@@ -1,5 +1,5 @@
 ---
-title: Vandivierian Market Failure
+title: "Vandivierian Market Failure"
 date: 2015-04-28 19:29:28
 author: John Vandivier
 ---

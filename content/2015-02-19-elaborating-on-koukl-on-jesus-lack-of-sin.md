@@ -1,5 +1,5 @@
 ---
-title: Elaborating on Koukl on Jesus Lack of Sin
+title: "Elaborating on Koukl on Jesus Lack of Sin"
 date: 2015-02-19 18:11:23
 author: John Vandivier
 ---

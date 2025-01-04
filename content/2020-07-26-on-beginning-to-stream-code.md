@@ -1,5 +1,5 @@
 ---
-title: On Beginning to Stream Code
+title: "On Beginning to Stream Code"
 date: 2020-07-26 14:06:47
 author: John Vandivier
 ---

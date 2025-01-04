@@ -1,5 +1,5 @@
 ---
-title: More on De Facto Rights
+title: "More on De Facto Rights"
 date: 2019-03-04 10:41:00
 author: John Vandivier
 ---

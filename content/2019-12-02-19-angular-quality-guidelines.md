@@ -1,5 +1,5 @@
 ---
-title: 19 Angular Quality Guidelines
+title: "19 Angular Quality Guidelines"
 date: 2019-12-01 23:27:19
 author: John Vandivier
 ---

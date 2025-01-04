@@ -1,5 +1,5 @@
 ---
-title: Preparing to Submit My First Academic Paper
+title: "Preparing to Submit My First Academic Paper"
 date: 2019-11-03 18:57:51
 author: John Vandivier
 ---

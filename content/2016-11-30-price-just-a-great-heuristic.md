@@ -1,5 +1,5 @@
 ---
-title: Price: Just a Great Heuristic
+title: "Price: Just a Great Heuristic"
 date: 2016-11-30 03:13:47
 author: John Vandivier
 ---

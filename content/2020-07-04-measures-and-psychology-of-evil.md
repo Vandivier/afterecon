@@ -1,5 +1,5 @@
 ---
-title: Measures and Psychology of Evil
+title: "Measures and Psychology of Evil"
 date: 2020-07-04 11:44:56
 author: John Vandivier
 ---

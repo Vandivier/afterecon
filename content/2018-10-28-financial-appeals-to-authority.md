@@ -1,5 +1,5 @@
 ---
-title: Financial Appeals to Authority
+title: "Financial Appeals to Authority"
 date: 2018-10-28 12:05:18
 author: John Vandivier
 ---

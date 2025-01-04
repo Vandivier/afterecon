@@ -1,5 +1,5 @@
 ---
-title: Ed Stringham and the Information Puzzle
+title: "Ed Stringham and the Information Puzzle"
 date: 2016-09-21 15:00:11
 author: John Vandivier
 ---

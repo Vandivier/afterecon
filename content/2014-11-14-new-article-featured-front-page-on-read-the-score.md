@@ -1,5 +1,5 @@
 ---
-title: New Article Featured Front Page on Read The Score!
+title: "New Article Featured Front Page on Read The Score!"
 date: 2014-11-14 16:08:39
 author: John Vandivier
 ---

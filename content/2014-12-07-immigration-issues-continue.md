@@ -1,5 +1,5 @@
 ---
-title: Immigration Issues Continue
+title: "Immigration Issues Continue"
 date: 2014-12-07 01:01:10
 author: John Vandivier
 ---

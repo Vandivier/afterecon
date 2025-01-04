@@ -1,5 +1,5 @@
 ---
-title: 5 Arguments Against The Gun Control C.R.A.P.S.
+title: "5 Arguments Against The Gun Control C.R.A.P.S."
 date: 2014-11-14 16:11:58
 author: John Vandivier
 ---

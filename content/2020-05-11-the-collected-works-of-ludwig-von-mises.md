@@ -1,5 +1,5 @@
 ---
-title: The Collected Works of Ludwig von Mises
+title: "The Collected Works of Ludwig von Mises"
 date: 2020-05-11 15:14:11
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: For and Against the Multiverse
+title: "For and Against the Multiverse"
 date: 2020-03-31 22:50:14
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Principal of Charitable Interpretation
+title: "The Principal of Charitable Interpretation"
 date: 2014-08-09 20:19:29
 author: John Vandivier
 ---

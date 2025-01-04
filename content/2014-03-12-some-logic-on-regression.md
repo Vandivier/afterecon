@@ -1,5 +1,5 @@
 ---
-title: Some Logic on Regression
+title: "Some Logic on Regression"
 date: 2014-03-12 14:18:11
 author: John Vandivier
 ---

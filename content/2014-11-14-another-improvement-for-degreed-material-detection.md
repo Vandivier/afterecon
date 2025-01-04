@@ -1,5 +1,5 @@
 ---
-title: Another Improvement for Degreed: Material Detection
+title: "Another Improvement for Degreed: Material Detection"
 date: 2014-11-14 16:04:00
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 4 Factors of Question Quality
+title: "4 Factors of Question Quality"
 date: 2016-08-26 20:37:24
 author: John Vandivier
 ---

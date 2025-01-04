@@ -1,5 +1,5 @@
 ---
-title: Quick Exegesis on Judgment
+title: "Quick Exegesis on Judgment"
 date: 2014-05-07 16:04:07
 author: John Vandivier
 ---

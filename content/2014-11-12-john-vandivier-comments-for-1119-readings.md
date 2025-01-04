@@ -1,5 +1,5 @@
 ---
-title: John Vandivier Comments for 11/19 Readings
+title: "John Vandivier Comments for 11/19 Readings"
 date: 2014-11-12 16:33:52
 author: John Vandivier
 ---

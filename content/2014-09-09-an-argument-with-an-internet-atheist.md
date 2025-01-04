@@ -1,5 +1,5 @@
 ---
-title: An Argument With an Internet Atheist
+title: "An Argument With an Internet Atheist"
 date: 2014-09-09 13:40:50
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Explanations from Rapid Change in Science
+title: "Explanations from Rapid Change in Science"
 date: 2021-07-29 11:00:35
 author: John Vandivier
 ---

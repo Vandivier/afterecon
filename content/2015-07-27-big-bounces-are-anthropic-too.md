@@ -1,5 +1,5 @@
 ---
-title: Big Bounces are Anthropic Too
+title: "Big Bounces are Anthropic Too"
 date: 2015-07-26 23:57:42
 author: John Vandivier
 ---

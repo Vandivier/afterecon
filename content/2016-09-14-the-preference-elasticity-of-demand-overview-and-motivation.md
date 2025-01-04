@@ -1,5 +1,5 @@
 ---
-title: The Preference Elasticity of Demand: Overview and Motivation
+title: "The Preference Elasticity of Demand: Overview and Motivation"
 date: 2016-09-14 10:00:08
 author: John Vandivier
 ---

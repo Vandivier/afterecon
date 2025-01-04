@@ -1,5 +1,5 @@
 ---
-title: Reason on a Roll Lately, and Millenial Polling
+title: "Reason on a Roll Lately, and Millenial Polling"
 date: 2014-07-11 17:53:39
 author: John Vandivier
 ---

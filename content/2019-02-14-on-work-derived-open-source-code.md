@@ -1,5 +1,5 @@
 ---
-title: On Work-Derived Open Source Code
+title: "On Work-Derived Open Source Code"
 date: 2019-02-14 13:19:40
 author: John Vandivier
 ---

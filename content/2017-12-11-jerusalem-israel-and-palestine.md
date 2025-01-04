@@ -1,5 +1,5 @@
 ---
-title: Jerusalem, Israel, and Palestine
+title: "Jerusalem, Israel, and Palestine"
 date: 2017-12-11 15:00:00
 author: John Vandivier
 ---

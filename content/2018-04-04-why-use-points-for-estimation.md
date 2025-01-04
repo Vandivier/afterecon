@@ -1,5 +1,5 @@
 ---
-title: Why Use Points for Estimation?
+title: "Why Use Points for Estimation?"
 date: 2018-04-04 11:04:57
 author: John Vandivier
 ---

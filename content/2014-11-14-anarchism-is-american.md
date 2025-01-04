@@ -1,5 +1,5 @@
 ---
-title: Anarchism is American
+title: "Anarchism is American"
 date: 2014-11-14 16:06:49
 author: John Vandivier
 ---

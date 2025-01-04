@@ -1,5 +1,5 @@
 ---
-title: Re: U.S. Military Trains for War on 2nd Amendment
+title: "Re: U.S. Military Trains for War on 2nd Amendment"
 date: 2014-02-20 06:13:13
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Process Artifacts Coming Soon
+title: "Process Artifacts Coming Soon"
 date: 2018-05-16 08:26:01
 author: John Vandivier
 ---

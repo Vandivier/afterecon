@@ -1,5 +1,5 @@
 ---
-title: Guided or Unguided Evolution
+title: "Guided or Unguided Evolution"
 date: 2013-11-22 15:20:55
 author: John Vandivier
 ---

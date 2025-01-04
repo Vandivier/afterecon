@@ -1,5 +1,5 @@
 ---
-title: On Abortion and Life
+title: "On Abortion and Life"
 date: 2013-11-10 20:26:50
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Two Things We can All Agree On
+title: "Two Things We can All Agree On"
 date: 2020-06-17 14:53:31
 author: John Vandivier
 ---

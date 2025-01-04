@@ -1,5 +1,5 @@
 ---
-title: Sexual Military Reform a Problem
+title: "Sexual Military Reform a Problem"
 date: 2013-11-12 15:02:19
 author: John Vandivier
 ---

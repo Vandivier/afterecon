@@ -1,5 +1,5 @@
 ---
-title: Signs You are Not an Economist
+title: "Signs You are Not an Economist"
 date: 2014-04-30 15:26:03
 author: John Vandivier
 ---

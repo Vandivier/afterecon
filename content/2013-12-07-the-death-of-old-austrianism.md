@@ -1,5 +1,5 @@
 ---
-title: The Death of Old Austrianism
+title: "The Death of Old Austrianism"
 date: 2013-12-07 01:37:56
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Semantics of Higher Education Appropriations
+title: "Semantics of Higher Education Appropriations"
 date: 2017-11-19 20:08:22
 author: John Vandivier
 ---

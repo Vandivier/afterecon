@@ -1,5 +1,5 @@
 ---
-title: A Few Thoughts on the Economy of God
+title: "A Few Thoughts on the Economy of God"
 date: 2021-09-11 10:47:54
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Methodology for Bitcoin Valuation as a Fiat Hedge
+title: "Methodology for Bitcoin Valuation as a Fiat Hedge"
 date: 2014-11-14 16:10:10
 author: John Vandivier
 ---

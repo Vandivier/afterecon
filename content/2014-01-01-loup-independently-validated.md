@@ -1,5 +1,5 @@
 ---
-title: LoUP Independently Validated
+title: "LoUP Independently Validated"
 date: 2014-01-01 01:35:42
 author: John Vandivier
 ---

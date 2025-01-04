@@ -1,5 +1,5 @@
 ---
-title: Time to Go Electric?
+title: "Time to Go Electric?"
 date: 2015-01-16 15:06:55
 author: John Vandivier
 ---

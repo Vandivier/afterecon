@@ -1,5 +1,5 @@
 ---
-title: Is Umpqua Community College a Gun Free Zone?
+title: "Is Umpqua Community College a Gun Free Zone?"
 date: 2015-10-03 18:48:08
 author: John Vandivier
 ---

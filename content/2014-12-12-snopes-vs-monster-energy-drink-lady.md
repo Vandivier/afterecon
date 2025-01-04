@@ -1,5 +1,5 @@
 ---
-title: Snopes vs Monster Energy Drink Lady
+title: "Snopes vs Monster Energy Drink Lady"
 date: 2014-12-12 17:06:53
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 4 Ways the Principle of Charity is Efficient
+title: "4 Ways the Principle of Charity is Efficient"
 date: 2015-06-17 11:40:33
 author: John Vandivier
 ---

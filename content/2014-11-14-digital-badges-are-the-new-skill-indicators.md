@@ -1,5 +1,5 @@
 ---
-title: Digital Badges are the New Skill Indicators
+title: "Digital Badges are the New Skill Indicators"
 date: 2014-11-14 16:09:17
 author: John Vandivier
 ---

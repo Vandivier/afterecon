@@ -1,5 +1,5 @@
 ---
-title: Another Argument for Anarchism
+title: "Another Argument for Anarchism"
 date: 2014-02-25 05:44:43
 author: John Vandivier
 ---

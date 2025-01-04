@@ -1,5 +1,5 @@
 ---
-title: The Odds of Evolution
+title: "The Odds of Evolution"
 date: 2014-11-14 16:10:00
 author: John Vandivier
 ---

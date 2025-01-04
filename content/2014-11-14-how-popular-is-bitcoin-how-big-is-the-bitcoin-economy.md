@@ -1,5 +1,5 @@
 ---
-title: How Popular is Bitcoin? How Big is the Bitcoin Economy?
+title: "How Popular is Bitcoin? How Big is the Bitcoin Economy?"
 date: 2014-11-14 16:11:41
 author: John Vandivier
 ---

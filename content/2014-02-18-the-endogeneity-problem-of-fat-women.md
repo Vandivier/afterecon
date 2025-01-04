@@ -1,5 +1,5 @@
 ---
-title: The Endogeneity Problem of Fat Women
+title: "The Endogeneity Problem of Fat Women"
 date: 2014-02-18 15:58:47
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: \"Economic Experts\" Still Have No Clue About Bitcoin
+title: "\"Economic Experts\" Still Have No Clue About Bitcoin"
 date: 2014-11-14 16:10:36
 author: John Vandivier
 ---

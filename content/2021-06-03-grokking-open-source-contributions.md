@@ -1,5 +1,5 @@
 ---
-title: Grokking Open Source Contributions
+title: "Grokking Open Source Contributions"
 date: 2021-06-02 21:48:10
 author: John Vandivier
 ---

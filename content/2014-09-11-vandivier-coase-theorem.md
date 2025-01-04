@@ -1,5 +1,5 @@
 ---
-title: Vandivier-Coase Theorem
+title: "Vandivier-Coase Theorem"
 date: 2014-09-11 00:02:27
 author: John Vandivier
 ---

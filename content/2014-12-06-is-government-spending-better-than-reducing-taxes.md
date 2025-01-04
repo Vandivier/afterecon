@@ -1,5 +1,5 @@
 ---
-title: Is Government Spending Better Than Reducing Taxes?
+title: "Is Government Spending Better Than Reducing Taxes?"
 date: 2014-12-06 04:45:40
 author: John Vandivier
 ---

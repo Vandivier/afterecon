@@ -1,5 +1,5 @@
 ---
-title: How to Name a CSS Class
+title: "How to Name a CSS Class"
 date: 2016-01-01 00:18:37
 author: John Vandivier
 ---

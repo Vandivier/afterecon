@@ -1,5 +1,5 @@
 ---
-title: Facebook is Bad
+title: "Facebook is Bad"
 date: 2020-05-26 10:31:05
 author: John Vandivier
 ---

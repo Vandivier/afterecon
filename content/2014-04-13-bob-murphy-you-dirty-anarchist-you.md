@@ -1,5 +1,5 @@
 ---
-title: Bob Murphy, You Dirty Anarchist You!
+title: "Bob Murphy, You Dirty Anarchist You!"
 date: 2014-04-13 02:53:21
 author: John Vandivier
 ---

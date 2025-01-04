@@ -1,5 +1,5 @@
 ---
-title: Maybe They Were Just Fucking Busy?
+title: "Maybe They Were Just Fucking Busy?"
 date: 2023-03-01 16:53:26
 author: John Vandivier
 ---

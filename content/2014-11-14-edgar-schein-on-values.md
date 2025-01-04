@@ -1,5 +1,5 @@
 ---
-title: Edgar Schein on Values
+title: "Edgar Schein on Values"
 date: 2014-11-14 16:02:09
 author: John Vandivier
 ---

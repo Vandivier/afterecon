@@ -1,5 +1,5 @@
 ---
-title: Historical Bitcoin Price and Prediction
+title: "Historical Bitcoin Price and Prediction"
 date: 2014-11-14 16:01:52
 author: John Vandivier
 ---

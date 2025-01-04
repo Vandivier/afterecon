@@ -1,5 +1,5 @@
 ---
-title: How To Self-Publish a Book With WordPress
+title: "How To Self-Publish a Book With WordPress"
 date: 2017-02-21 15:00:14
 author: John Vandivier
 ---

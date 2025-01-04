@@ -1,5 +1,5 @@
 ---
-title: Economics is Politics is Sociology
+title: "Economics is Politics is Sociology"
 date: 2016-12-01 15:00:52
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Some Economic History of Beer in the US
+title: "Some Economic History of Beer in the US"
 date: 2016-09-10 13:19:44
 author: John Vandivier
 ---

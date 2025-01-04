@@ -1,5 +1,5 @@
 ---
-title: Why Cuccinelli Can Win Virginia
+title: "Why Cuccinelli Can Win Virginia"
 date: 2014-11-14 16:01:45
 author: John Vandivier
 ---

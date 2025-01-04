@@ -1,5 +1,5 @@
 ---
-title: The Lock-In Effect
+title: "The Lock-In Effect"
 date: 2018-04-15 11:03:49
 author: John Vandivier
 ---

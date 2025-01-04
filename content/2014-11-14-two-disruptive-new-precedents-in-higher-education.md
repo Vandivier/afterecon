@@ -1,5 +1,5 @@
 ---
-title: Two Disruptive New Precedents in Higher Education
+title: "Two Disruptive New Precedents in Higher Education"
 date: 2014-11-14 16:02:30
 author: John Vandivier
 ---

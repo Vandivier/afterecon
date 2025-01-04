@@ -1,5 +1,5 @@
 ---
-title: Dogecoin: Three Bucks in Three Years
+title: "Dogecoin: Three Bucks in Three Years"
 date: 2021-05-07 21:32:40
 author: John Vandivier
 ---

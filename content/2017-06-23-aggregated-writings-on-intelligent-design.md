@@ -1,5 +1,5 @@
 ---
-title: Aggregated Writings on Intelligent Design
+title: "Aggregated Writings on Intelligent Design"
 date: 2017-06-22 20:44:39
 author: John Vandivier
 ---

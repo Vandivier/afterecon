@@ -1,5 +1,5 @@
 ---
-title: Unenforced Borders are not Open Borders
+title: "Unenforced Borders are not Open Borders"
 date: 2021-07-18 20:54:10
 author: John Vandivier
 ---

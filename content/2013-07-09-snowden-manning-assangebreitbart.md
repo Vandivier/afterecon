@@ -1,5 +1,5 @@
 ---
-title: Snowden, Manning, Assange...Breitbart?
+title: "Snowden, Manning, Assange...Breitbart?"
 date: 2013-07-09 16:07:24
 author: John Vandivier
 ---

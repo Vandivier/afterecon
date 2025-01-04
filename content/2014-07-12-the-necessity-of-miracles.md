@@ -1,5 +1,5 @@
 ---
-title: The Necessity of Miracles
+title: "The Necessity of Miracles"
 date: 2014-07-12 03:28:33
 author: John Vandivier
 ---

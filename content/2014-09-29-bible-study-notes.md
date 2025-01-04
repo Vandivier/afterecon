@@ -1,5 +1,5 @@
 ---
-title: Bible Study Notes
+title: "Bible Study Notes"
 date: 2014-09-29 01:15:19
 author: John Vandivier
 ---

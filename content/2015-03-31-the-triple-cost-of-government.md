@@ -1,5 +1,5 @@
 ---
-title: The Triple Cost of Government
+title: "The Triple Cost of Government"
 date: 2015-03-31 15:41:09
 author: John Vandivier
 ---

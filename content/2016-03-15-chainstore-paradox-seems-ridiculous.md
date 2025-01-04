@@ -1,5 +1,5 @@
 ---
-title: Chainstore Paradox Seems Ridiculous
+title: "Chainstore Paradox Seems Ridiculous"
 date: 2016-03-15 00:14:06
 author: John Vandivier
 ---

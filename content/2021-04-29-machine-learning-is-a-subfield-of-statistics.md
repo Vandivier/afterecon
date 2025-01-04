@@ -1,5 +1,5 @@
 ---
-title: Machine Learning is a Subfield of Statistics
+title: "Machine Learning is a Subfield of Statistics"
 date: 2021-04-29 09:58:27
 author: John Vandivier
 ---

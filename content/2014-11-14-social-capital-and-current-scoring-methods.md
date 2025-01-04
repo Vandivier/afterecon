@@ -1,5 +1,5 @@
 ---
-title: Social Capital and Current Scoring Methods
+title: "Social Capital and Current Scoring Methods"
 date: 2014-11-14 16:12:14
 author: John Vandivier
 ---

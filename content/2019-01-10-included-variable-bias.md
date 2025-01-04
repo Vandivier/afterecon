@@ -1,5 +1,5 @@
 ---
-title: Included Variable Bias
+title: "Included Variable Bias"
 date: 2019-01-10 09:09:04
 author: John Vandivier
 ---

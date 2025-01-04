@@ -1,5 +1,5 @@
 ---
-title: A Short Discussion on Economics of Organization
+title: "A Short Discussion on Economics of Organization"
 date: 2014-11-14 16:02:00
 author: John Vandivier
 ---

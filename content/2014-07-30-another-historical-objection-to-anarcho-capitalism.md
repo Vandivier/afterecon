@@ -1,5 +1,5 @@
 ---
-title: Another Historical Objection to Anarcho-Capitalism
+title: "Another Historical Objection to Anarcho-Capitalism"
 date: 2014-07-29 22:23:41
 author: John Vandivier
 ---

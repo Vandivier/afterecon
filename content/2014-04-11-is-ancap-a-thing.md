@@ -1,5 +1,5 @@
 ---
-title: Is AnCap a Thing?
+title: "Is AnCap a Thing?"
 date: 2014-04-10 21:38:27
 author: John Vandivier
 ---

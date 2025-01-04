@@ -1,5 +1,5 @@
 ---
-title: Reconciling Moral Legislation and Market Freedom
+title: "Reconciling Moral Legislation and Market Freedom"
 date: 2015-03-17 14:44:34
 author: John Vandivier
 ---

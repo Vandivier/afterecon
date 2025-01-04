@@ -1,5 +1,5 @@
 ---
-title: Lower House Prices
+title: "Lower House Prices"
 date: 2018-06-04 00:02:02
 author: John Vandivier
 ---

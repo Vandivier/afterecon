@@ -1,5 +1,5 @@
 ---
-title: Gays Say They Are Born That Way
+title: "Gays Say They Are Born That Way"
 date: 2015-04-30 20:56:52
 author: John Vandivier
 ---

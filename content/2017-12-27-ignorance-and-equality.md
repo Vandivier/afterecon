@@ -1,5 +1,5 @@
 ---
-title: Ignorance and Equality
+title: "Ignorance and Equality"
 date: 2017-12-27 14:42:19
 author: John Vandivier
 ---

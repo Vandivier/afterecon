@@ -1,5 +1,5 @@
 ---
-title: We Need Education Reform
+title: "We Need Education Reform"
 date: 2015-05-30 03:15:23
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Simple and Overlapping Explanation
+title: "Simple and Overlapping Explanation"
 date: 2014-07-11 22:55:12
 author: John Vandivier
 ---

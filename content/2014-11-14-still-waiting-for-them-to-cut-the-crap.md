@@ -1,5 +1,5 @@
 ---
-title: Still Waiting for Them to Cut the Crap
+title: "Still Waiting for Them to Cut the Crap"
 date: 2014-11-14 16:03:53
 author: John Vandivier
 ---

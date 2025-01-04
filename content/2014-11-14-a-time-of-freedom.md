@@ -1,5 +1,5 @@
 ---
-title: A Time of Freedom
+title: "A Time of Freedom"
 date: 2014-11-14 16:06:39
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 5 Cool Websites
+title: "5 Cool Websites"
 date: 2014-04-27 21:05:30
 author: John Vandivier
 ---

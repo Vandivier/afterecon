@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Technical Analysis P1
+title: "Bitcoin Technical Analysis P1"
 date: 2014-11-14 16:12:08
 author: John Vandivier
 ---

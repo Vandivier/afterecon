@@ -1,5 +1,5 @@
 ---
-title: Selective GOTV Tactics
+title: "Selective GOTV Tactics"
 date: 2015-02-08 05:47:10
 author: John Vandivier
 ---

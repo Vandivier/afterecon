@@ -1,5 +1,5 @@
 ---
-title: The Coup of Sam Houston: A Triumph of Racist Democrats
+title: "The Coup of Sam Houston: A Triumph of Racist Democrats"
 date: 2015-08-12 02:56:09
 author: John Vandivier
 ---

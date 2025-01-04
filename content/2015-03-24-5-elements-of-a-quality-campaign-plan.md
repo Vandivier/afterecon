@@ -1,5 +1,5 @@
 ---
-title: 5 Elements of a Quality Campaign Plan
+title: "5 Elements of a Quality Campaign Plan"
 date: 2015-03-23 20:22:33
 author: John Vandivier
 ---

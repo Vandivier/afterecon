@@ -1,5 +1,5 @@
 ---
-title: Futureproof Christianity
+title: "Futureproof Christianity"
 date: 2017-09-17 11:16:29
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Holistic but Western
+title: "Holistic but Western"
 date: 2014-08-31 19:26:07
 author: John Vandivier
 ---

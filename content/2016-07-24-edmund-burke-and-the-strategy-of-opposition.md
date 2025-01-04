@@ -1,5 +1,5 @@
 ---
-title: Edmund Burke and the Strategy of Opposition
+title: "Edmund Burke and the Strategy of Opposition"
 date: 2016-07-24 18:58:08
 author: John Vandivier
 ---

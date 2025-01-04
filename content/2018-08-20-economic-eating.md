@@ -1,5 +1,5 @@
 ---
-title: Economic Eating
+title: "Economic Eating"
 date: 2018-08-19 22:44:18
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Panpsychism, Theism, and Many Worlds
+title: "Panpsychism, Theism, and Many Worlds"
 date: 2023-10-14 17:43:24
 author: John Vandivier
 ---

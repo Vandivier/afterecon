@@ -1,5 +1,5 @@
 ---
-title: The Case for Continued Social Optimism
+title: "The Case for Continued Social Optimism"
 date: 2018-04-15 13:44:03
 author: John Vandivier
 ---

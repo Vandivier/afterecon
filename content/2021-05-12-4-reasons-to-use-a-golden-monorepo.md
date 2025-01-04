@@ -1,5 +1,5 @@
 ---
-title: 4 Reasons to Use a Golden Monorepo
+title: "4 Reasons to Use a Golden Monorepo"
 date: 2021-05-11 23:53:01
 author: John Vandivier
 ---

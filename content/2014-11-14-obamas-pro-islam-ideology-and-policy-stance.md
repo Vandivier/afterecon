@@ -1,5 +1,5 @@
 ---
-title: Obama's Pro-Islam Ideology and Policy Stance
+title: "Obama's Pro-Islam Ideology and Policy Stance"
 date: 2014-11-14 16:07:39
 author: John Vandivier
 ---

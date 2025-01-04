@@ -1,5 +1,5 @@
 ---
-title: 1 Big Reason Why Bitcoin Will Succeed
+title: "1 Big Reason Why Bitcoin Will Succeed"
 date: 2014-11-14 16:10:53
 author: John Vandivier
 ---

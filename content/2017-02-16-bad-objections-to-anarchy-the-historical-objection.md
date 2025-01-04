@@ -1,5 +1,5 @@
 ---
-title: Bad Objections to Anarchy: The Historical Objection
+title: "Bad Objections to Anarchy: The Historical Objection"
 date: 2017-02-16 18:14:34
 author: John Vandivier
 ---

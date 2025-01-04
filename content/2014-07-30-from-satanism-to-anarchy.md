@@ -1,5 +1,5 @@
 ---
-title: From Satanism to Anarchy
+title: "From Satanism to Anarchy"
 date: 2014-07-30 13:03:40
 author: John Vandivier
 ---

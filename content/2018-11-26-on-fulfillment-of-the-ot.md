@@ -1,5 +1,5 @@
 ---
-title: On Fulfillment of the OT
+title: "On Fulfillment of the OT"
 date: 2018-11-25 23:13:36
 author: John Vandivier
 ---

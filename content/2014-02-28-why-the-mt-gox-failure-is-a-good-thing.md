@@ -1,5 +1,5 @@
 ---
-title: Why The Mt Gox Failure is a Good Thing
+title: "Why The Mt Gox Failure is a Good Thing"
 date: 2014-02-28 04:24:55
 author: John Vandivier
 ---

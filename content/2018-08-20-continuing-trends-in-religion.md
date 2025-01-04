@@ -1,5 +1,5 @@
 ---
-title: Continuing Trends in Religion
+title: "Continuing Trends in Religion"
 date: 2018-08-20 01:20:31
 author: John Vandivier
 ---

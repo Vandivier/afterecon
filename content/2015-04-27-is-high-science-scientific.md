@@ -1,5 +1,5 @@
 ---
-title: Is High Science Scientific?
+title: "Is High Science Scientific?"
 date: 2015-04-26 21:03:01
 author: John Vandivier
 ---

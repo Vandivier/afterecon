@@ -1,5 +1,5 @@
 ---
-title: Alternative Paths to Traditional Education
+title: "Alternative Paths to Traditional Education"
 date: 2018-02-25 16:54:46
 author: John Vandivier
 ---

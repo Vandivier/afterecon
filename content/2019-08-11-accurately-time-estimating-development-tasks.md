@@ -1,5 +1,5 @@
 ---
-title: Accurately Time-Estimating Development Tasks
+title: "Accurately Time-Estimating Development Tasks"
 date: 2019-08-11 19:47:35
 author: John Vandivier
 ---

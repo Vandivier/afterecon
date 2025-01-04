@@ -1,5 +1,5 @@
 ---
-title: Atheists are Close-Minded, Christians are Open-Minded
+title: "Atheists are Close-Minded, Christians are Open-Minded"
 date: 2018-09-30 20:01:58
 author: John Vandivier
 ---

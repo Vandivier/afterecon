@@ -1,5 +1,5 @@
 ---
-title: Why Should You Try Game-Based Learning?
+title: "Why Should You Try Game-Based Learning?"
 date: 2014-11-14 16:06:14
 author: John Vandivier
 ---

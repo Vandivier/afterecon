@@ -1,5 +1,5 @@
 ---
-title: Some Research on Media Bias in the US
+title: "Some Research on Media Bias in the US"
 date: 2014-03-03 01:30:44
 author: John Vandivier
 ---

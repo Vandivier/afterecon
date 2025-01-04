@@ -1,5 +1,5 @@
 ---
-title: A Quick Note on the COVID Death Rate in the US
+title: "A Quick Note on the COVID Death Rate in the US"
 date: 2020-03-29 10:45:18
 author: John Vandivier
 ---

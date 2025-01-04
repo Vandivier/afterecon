@@ -1,5 +1,5 @@
 ---
-title: 5 Eschatological Points to Consider
+title: "5 Eschatological Points to Consider"
 date: 2014-11-14 16:04:32
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Pro Strict Interpretation, Contra Islam
+title: "Pro Strict Interpretation, Contra Islam"
 date: 2015-01-13 17:48:40
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Real Decentralization Includes Full Denationalization
+title: "Real Decentralization Includes Full Denationalization"
 date: 2013-11-03 05:26:35
 author: John Vandivier
 ---

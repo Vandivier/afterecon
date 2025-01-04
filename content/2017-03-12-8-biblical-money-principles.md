@@ -1,5 +1,5 @@
 ---
-title: 8 Biblical Money Principles
+title: "8 Biblical Money Principles"
 date: 2017-03-12 18:34:30
 author: John Vandivier
 ---

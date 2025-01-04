@@ -1,5 +1,5 @@
 ---
-title: The Left-Science Complex Continues
+title: "The Left-Science Complex Continues"
 date: 2013-11-09 18:04:36
 author: John Vandivier
 ---

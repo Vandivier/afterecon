@@ -1,5 +1,5 @@
 ---
-title: Featured Content
+title: "Featured Content"
 date: 2023-09-30 20:39:15
 author: John Vandivier
 ---

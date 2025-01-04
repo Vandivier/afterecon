@@ -1,5 +1,5 @@
 ---
-title: 5 Objections to Anarchism
+title: "5 Objections to Anarchism"
 date: 2014-11-14 16:05:16
 author: John Vandivier
 ---

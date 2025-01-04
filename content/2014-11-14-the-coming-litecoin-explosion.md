@@ -1,5 +1,5 @@
 ---
-title: The Coming Litecoin Explosion
+title: "The Coming Litecoin Explosion"
 date: 2014-11-14 16:10:24
 author: John Vandivier
 ---

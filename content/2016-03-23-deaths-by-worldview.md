@@ -1,5 +1,5 @@
 ---
-title: Deaths By Worldview
+title: "Deaths By Worldview"
 date: 2016-03-23 06:36:34
 author: John Vandivier
 ---

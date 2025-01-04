@@ -1,5 +1,5 @@
 ---
-title: Founding Fathers as Proto-Anarchists
+title: "Founding Fathers as Proto-Anarchists"
 date: 2014-12-12 17:06:18
 author: John Vandivier
 ---

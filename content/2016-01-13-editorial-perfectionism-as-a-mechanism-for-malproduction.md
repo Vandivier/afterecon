@@ -1,5 +1,5 @@
 ---
-title: Editorial Perfectionism as a Mechanism for Malproduction
+title: "Editorial Perfectionism as a Mechanism for Malproduction"
 date: 2016-01-12 20:30:00
 author: John Vandivier
 ---

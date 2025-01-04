@@ -1,5 +1,5 @@
 ---
-title: US Military Publicly Saying No To War With Syria
+title: "US Military Publicly Saying No To War With Syria"
 date: 2014-11-14 16:05:03
 author: John Vandivier
 ---

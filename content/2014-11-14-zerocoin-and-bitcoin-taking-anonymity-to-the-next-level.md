@@ -1,5 +1,5 @@
 ---
-title: Zerocoin and Bitcoin: Taking Anonymity to the Next Level
+title: "Zerocoin and Bitcoin: Taking Anonymity to the Next Level"
 date: 2014-11-14 16:09:24
 author: John Vandivier
 ---

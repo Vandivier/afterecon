@@ -1,5 +1,5 @@
 ---
-title: This is Where Ben Carson Spent Prospecting Money
+title: "This is Where Ben Carson Spent Prospecting Money"
 date: 2014-11-13 13:26:37
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Another On the Gay Thing
+title: "Another On the Gay Thing"
 date: 2014-04-06 21:33:45
 author: John Vandivier
 ---

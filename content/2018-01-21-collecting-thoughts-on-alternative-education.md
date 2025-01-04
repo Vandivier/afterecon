@@ -1,5 +1,5 @@
 ---
-title: Collecting Thoughts on Alternative Education
+title: "Collecting Thoughts on Alternative Education"
 date: 2018-01-21 17:15:47
 author: John Vandivier
 ---

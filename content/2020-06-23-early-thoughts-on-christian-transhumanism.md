@@ -1,5 +1,5 @@
 ---
-title: Early Thoughts on Christian Transhumanism
+title: "Early Thoughts on Christian Transhumanism"
 date: 2020-06-23 11:13:49
 author: John Vandivier
 ---

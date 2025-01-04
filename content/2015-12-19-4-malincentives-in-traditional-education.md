@@ -1,5 +1,5 @@
 ---
-title: 4 Malincentives in Traditional Education
+title: "4 Malincentives in Traditional Education"
 date: 2015-12-19 03:43:35
 author: John Vandivier
 ---

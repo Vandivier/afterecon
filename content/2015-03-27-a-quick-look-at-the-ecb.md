@@ -1,5 +1,5 @@
 ---
-title: A Quick Look at the ECB
+title: "A Quick Look at the ECB"
 date: 2015-03-27 01:58:44
 author: John Vandivier
 ---

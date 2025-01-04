@@ -1,5 +1,5 @@
 ---
-title: Was the Government Shutdown Good for the Job Market?
+title: "Was the Government Shutdown Good for the Job Market?"
 date: 2013-11-10 18:02:33
 author: John Vandivier
 ---

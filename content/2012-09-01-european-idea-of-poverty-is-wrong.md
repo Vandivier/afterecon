@@ -1,5 +1,5 @@
 ---
-title: European Idea of Poverty is Wrong
+title: "European Idea of Poverty is Wrong"
 date: 2012-09-01
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Top 13 Points on New Year\'s Resolutions
+title: "Top 13 Points on New Year\'s Resolutions"
 date: 2013-12-31 19:19:26
 author: John Vandivier
 ---

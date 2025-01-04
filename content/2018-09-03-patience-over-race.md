@@ -1,5 +1,5 @@
 ---
-title: Patience Over Race
+title: "Patience Over Race"
 date: 2018-09-03 10:55:26
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Many Gods Problem
+title: "The Many Gods Problem"
 date: 2017-05-23 15:00:46
 author: John Vandivier
 ---

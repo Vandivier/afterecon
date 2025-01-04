@@ -1,5 +1,5 @@
 ---
-title: France 24: French lawmakers on both sides unite to spear Amazon
+title: "France 24: French lawmakers on both sides unite to spear Amazon"
 date: 2014-11-14 16:03:26
 author: John Vandivier
 ---

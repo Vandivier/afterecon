@@ -1,5 +1,5 @@
 ---
-title: Sentiment and Opinion Research - Marketing or Political
+title: "Sentiment and Opinion Research - Marketing or Political"
 date: 2014-09-13 16:51:16
 author: John Vandivier
 ---

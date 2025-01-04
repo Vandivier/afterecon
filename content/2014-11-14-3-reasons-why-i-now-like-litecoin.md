@@ -1,5 +1,5 @@
 ---
-title: 3 Reasons Why I Now Like Litecoin
+title: "3 Reasons Why I Now Like Litecoin"
 date: 2014-11-14 16:10:57
 author: John Vandivier
 ---

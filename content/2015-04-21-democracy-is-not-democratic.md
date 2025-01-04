@@ -1,5 +1,5 @@
 ---
-title: Democracy is Not Democratic
+title: "Democracy is Not Democratic"
 date: 2015-04-21 01:14:39
 author: John Vandivier
 ---

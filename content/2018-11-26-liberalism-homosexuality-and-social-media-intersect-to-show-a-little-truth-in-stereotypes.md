@@ -1,5 +1,5 @@
 ---
-title: Liberalism, Homosexuality, and Social Media Intersect to Show a Little Truth in Stereotypes
+title: "Liberalism, Homosexuality, and Social Media Intersect to Show a Little Truth in Stereotypes"
 date: 2018-11-25 20:00:12
 author: John Vandivier
 ---

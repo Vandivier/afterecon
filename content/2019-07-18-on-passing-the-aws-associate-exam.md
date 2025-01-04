@@ -1,5 +1,5 @@
 ---
-title: On Passing the AWS Associate Exam
+title: "On Passing the AWS Associate Exam"
 date: 2019-07-18 16:34:05
 author: John Vandivier
 ---

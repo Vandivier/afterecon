@@ -1,5 +1,5 @@
 ---
-title: Am I Cherry Picking or is This a Decent Definition of Faith?
+title: "Am I Cherry Picking or is This a Decent Definition of Faith?"
 date: 2016-09-04 16:04:33
 author: John Vandivier
 ---

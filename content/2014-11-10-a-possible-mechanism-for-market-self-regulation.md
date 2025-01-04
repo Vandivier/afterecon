@@ -1,5 +1,5 @@
 ---
-title: A Possible Mechanism for Market Self-Regulation
+title: "A Possible Mechanism for Market Self-Regulation"
 date: 2014-11-10 03:01:37
 author: John Vandivier
 ---

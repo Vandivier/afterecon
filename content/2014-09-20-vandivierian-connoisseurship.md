@@ -1,5 +1,5 @@
 ---
-title: Vandivierian Connoisseurship
+title: "Vandivierian Connoisseurship"
 date: 2014-09-20 16:01:26
 author: John Vandivier
 ---

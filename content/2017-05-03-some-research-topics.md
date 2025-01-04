@@ -1,5 +1,5 @@
 ---
-title: Some Research Topics
+title: "Some Research Topics"
 date: 2017-05-03 15:39:20
 author: John Vandivier
 ---

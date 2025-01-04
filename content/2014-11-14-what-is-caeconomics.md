@@ -1,5 +1,5 @@
 ---
-title: What is Caeconomics?
+title: "What is Caeconomics?"
 date: 2014-11-14 16:03:06
 author: John Vandivier
 ---

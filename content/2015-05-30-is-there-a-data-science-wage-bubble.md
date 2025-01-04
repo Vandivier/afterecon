@@ -1,5 +1,5 @@
 ---
-title: Is There a Data Science Wage Bubble?
+title: "Is There a Data Science Wage Bubble?"
 date: 2015-05-29 22:34:17
 author: John Vandivier
 ---

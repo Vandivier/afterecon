@@ -1,5 +1,5 @@
 ---
-title: Price-Based vs Event-Based BTC Forecasting
+title: "Price-Based vs Event-Based BTC Forecasting"
 date: 2019-02-04 09:18:16
 author: John Vandivier
 ---

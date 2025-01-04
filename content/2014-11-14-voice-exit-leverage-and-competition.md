@@ -1,5 +1,5 @@
 ---
-title: Voice, Exit, Leverage and Competition
+title: "Voice, Exit, Leverage and Competition"
 date: 2014-11-14 16:01:49
 author: John Vandivier
 ---

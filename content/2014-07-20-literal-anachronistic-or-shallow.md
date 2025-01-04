@@ -1,5 +1,5 @@
 ---
-title: Literal, Anachronistic, or Shallow?
+title: "Literal, Anachronistic, or Shallow?"
 date: 2014-07-19 21:15:31
 author: John Vandivier
 ---

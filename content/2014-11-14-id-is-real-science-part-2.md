@@ -1,5 +1,5 @@
 ---
-title: ID Is Real Science! (Part 2)
+title: "ID Is Real Science! (Part 2)"
 date: 2014-11-14 16:12:35
 author: John Vandivier
 ---

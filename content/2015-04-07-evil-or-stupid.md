@@ -1,5 +1,5 @@
 ---
-title: Evil or Stupid?
+title: "Evil or Stupid?"
 date: 2015-04-07 14:58:10
 author: John Vandivier
 ---

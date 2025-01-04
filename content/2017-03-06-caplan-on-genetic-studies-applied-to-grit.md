@@ -1,5 +1,5 @@
 ---
-title: Caplan on Genetic Studies Applied to Grit
+title: "Caplan on Genetic Studies Applied to Grit"
 date: 2017-03-06 15:00:20
 author: John Vandivier
 ---

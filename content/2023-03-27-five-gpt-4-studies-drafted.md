@@ -1,5 +1,5 @@
 ---
-title: Five GPT-4 Studies Drafted
+title: "Five GPT-4 Studies Drafted"
 date: 2023-03-27 00:58:09
 author: John Vandivier
 ---

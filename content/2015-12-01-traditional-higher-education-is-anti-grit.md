@@ -1,5 +1,5 @@
 ---
-title: Traditional Higher Education is Anti-Grit
+title: "Traditional Higher Education is Anti-Grit"
 date: 2015-12-01 16:41:50
 author: John Vandivier
 ---

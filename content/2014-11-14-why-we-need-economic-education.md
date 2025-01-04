@@ -1,5 +1,5 @@
 ---
-title: Why We Need Economic Education
+title: "Why We Need Economic Education"
 date: 2014-11-14 16:03:36
 author: John Vandivier
 ---

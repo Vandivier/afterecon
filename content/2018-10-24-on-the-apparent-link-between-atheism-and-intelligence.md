@@ -1,5 +1,5 @@
 ---
-title: On the Apparent Link Between Atheism and Intelligence
+title: "On the Apparent Link Between Atheism and Intelligence"
 date: 2018-10-23 23:40:28
 author: John Vandivier
 ---

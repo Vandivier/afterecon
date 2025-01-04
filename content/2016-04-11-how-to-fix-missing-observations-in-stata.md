@@ -1,5 +1,5 @@
 ---
-title: How to Fix Missing Observations in STATA
+title: "How to Fix Missing Observations in STATA"
 date: 2016-04-11 10:00:22
 author: John Vandivier
 ---

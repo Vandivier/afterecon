@@ -1,5 +1,5 @@
 ---
-title: Minimum Wage Arguments
+title: "Minimum Wage Arguments"
 date: 2014-02-08 19:52:17
 author: John Vandivier
 ---

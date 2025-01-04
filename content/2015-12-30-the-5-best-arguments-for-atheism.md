@@ -1,5 +1,5 @@
 ---
-title: The 5 Best Arguments for Atheism
+title: "The 5 Best Arguments for Atheism"
 date: 2015-12-30 00:26:23
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Advancing Human Capital Evaluation
+title: "Advancing Human Capital Evaluation"
 date: 2014-10-24 17:54:06
 author: John Vandivier
 ---

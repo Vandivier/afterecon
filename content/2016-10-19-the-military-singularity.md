@@ -1,5 +1,5 @@
 ---
-title: The Military Singularity
+title: "The Military Singularity"
 date: 2016-10-19 15:00:10
 author: John Vandivier
 ---

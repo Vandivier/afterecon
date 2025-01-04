@@ -1,5 +1,5 @@
 ---
-title: Obama Back-Stabs the Left (Again)
+title: "Obama Back-Stabs the Left (Again)"
 date: 2014-02-01 20:27:07
 author: John Vandivier
 ---

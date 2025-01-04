@@ -1,5 +1,5 @@
 ---
-title: Categorical Certainty: Contra Radical Uncertainty
+title: "Categorical Certainty: Contra Radical Uncertainty"
 date: 2017-02-16 00:00:02
 author: John Vandivier
 ---

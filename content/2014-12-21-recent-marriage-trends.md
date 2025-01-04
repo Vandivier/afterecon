@@ -1,5 +1,5 @@
 ---
-title: Recent Marriage Trends
+title: "Recent Marriage Trends"
 date: 2014-12-21 16:08:48
 author: John Vandivier
 ---

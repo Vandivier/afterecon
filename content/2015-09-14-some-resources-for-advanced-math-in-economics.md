@@ -1,5 +1,5 @@
 ---
-title: Some Resources for Advanced Math in Economics
+title: "Some Resources for Advanced Math in Economics"
 date: 2015-09-14 03:46:06
 author: John Vandivier
 ---

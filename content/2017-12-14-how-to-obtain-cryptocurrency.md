@@ -1,5 +1,5 @@
 ---
-title: How to Obtain Cryptocurrency
+title: "How to Obtain Cryptocurrency"
 date: 2017-12-14 13:41:09
 author: John Vandivier
 ---

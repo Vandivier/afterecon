@@ -1,5 +1,5 @@
 ---
-title: Short Essay Regarding \"Dispute Resolution when Rationalities Conflict: Cost and Choice in a Mixed Economy\"
+title: "Short Essay Regarding \"Dispute Resolution when Rationalities Conflict: Cost and Choice in a Mixed Economy\""
 date: 2016-10-24 15:00:14
 author: John Vandivier
 ---

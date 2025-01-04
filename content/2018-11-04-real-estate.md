@@ -1,5 +1,5 @@
 ---
-title: Real Estate
+title: "Real Estate"
 date: 2018-11-03 22:11:30
 author: John Vandivier
 ---

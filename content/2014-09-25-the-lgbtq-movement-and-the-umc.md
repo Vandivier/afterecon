@@ -1,5 +1,5 @@
 ---
-title: The LGBTQ Movement and the UMC
+title: "The LGBTQ Movement and the UMC"
 date: 2014-09-25 03:13:28
 author: John Vandivier
 ---

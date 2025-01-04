@@ -1,5 +1,5 @@
 ---
-title: Journals Receptive to a Tuition Assistance Paper
+title: "Journals Receptive to a Tuition Assistance Paper"
 date: 2020-05-10 18:16:55
 author: John Vandivier
 ---

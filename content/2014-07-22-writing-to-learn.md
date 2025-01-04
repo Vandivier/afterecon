@@ -1,5 +1,5 @@
 ---
-title: Writing to Learn
+title: "Writing to Learn"
 date: 2014-07-22 13:17:08
 author: John Vandivier
 ---

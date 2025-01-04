@@ -1,5 +1,5 @@
 ---
-title: On Science and Religion
+title: "On Science and Religion"
 date: 2018-10-05 15:24:25
 author: John Vandivier
 ---

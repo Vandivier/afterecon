@@ -1,5 +1,5 @@
 ---
-title: 6 Logical Principles
+title: "6 Logical Principles"
 date: 2014-01-01 07:02:17
 author: John Vandivier
 ---

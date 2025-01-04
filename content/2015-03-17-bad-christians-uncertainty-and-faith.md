@@ -1,5 +1,5 @@
 ---
-title: Bad Christians, Uncertainty, and Faith
+title: "Bad Christians, Uncertainty, and Faith"
 date: 2015-03-17 15:12:00
 author: John Vandivier
 ---

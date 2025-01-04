@@ -1,5 +1,5 @@
 ---
-title: Video Trailer and Introduction to Article Series on Taliban Peace Talks with Ted Shoebat
+title: "Video Trailer and Introduction to Article Series on Taliban Peace Talks with Ted Shoebat"
 date: 2014-11-14 16:08:14
 author: John Vandivier
 ---

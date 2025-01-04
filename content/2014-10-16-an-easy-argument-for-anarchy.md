@@ -1,5 +1,5 @@
 ---
-title: An Easy Argument for Anarchy
+title: "An Easy Argument for Anarchy"
 date: 2014-10-16 15:31:39
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Three Exceptions in Systematic Model Derivation
+title: "Three Exceptions in Systematic Model Derivation"
 date: 2020-06-07 18:27:39
 author: John Vandivier
 ---

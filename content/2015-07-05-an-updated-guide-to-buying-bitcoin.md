@@ -1,5 +1,5 @@
 ---
-title: An Updated Guide to Buying Bitcoin
+title: "An Updated Guide to Buying Bitcoin"
 date: 2015-07-05 16:12:04
 author: John Vandivier
 ---

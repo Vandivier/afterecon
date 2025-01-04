@@ -1,5 +1,5 @@
 ---
-title: Are Economic Agents Really Selfish?
+title: "Are Economic Agents Really Selfish?"
 date: 2016-05-01 22:16:45
 author: John Vandivier
 ---

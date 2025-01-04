@@ -1,5 +1,5 @@
 ---
-title: Rubio Nails it On Big Government
+title: "Rubio Nails it On Big Government"
 date: 2014-11-14 16:03:43
 author: John Vandivier
 ---

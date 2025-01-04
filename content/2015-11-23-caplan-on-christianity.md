@@ -1,5 +1,5 @@
 ---
-title: Caplan on Christianity
+title: "Caplan on Christianity"
 date: 2015-11-23 05:06:37
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: When To Re-Do Your Budget
+title: "When To Re-Do Your Budget"
 date: 2016-02-14 20:40:28
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Is It Just Me, or Is Breitbart Wrong About the CW?
+title: "Is It Just Me, or Is Breitbart Wrong About the CW?"
 date: 2014-07-18 13:48:32
 author: John Vandivier
 ---

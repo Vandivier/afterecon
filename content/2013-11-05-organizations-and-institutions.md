@@ -1,5 +1,5 @@
 ---
-title: Organizations and Institutions
+title: "Organizations and Institutions"
 date: 2013-11-05 02:03:56
 author: John Vandivier
 ---

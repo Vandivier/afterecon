@@ -1,5 +1,5 @@
 ---
-title: Tragedy of the Bitcoin Commons
+title: "Tragedy of the Bitcoin Commons"
 date: 2015-05-12 22:04:50
 author: John Vandivier
 ---

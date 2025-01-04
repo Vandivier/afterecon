@@ -1,5 +1,5 @@
 ---
-title: The Odd Bitcoin Crash
+title: "The Odd Bitcoin Crash"
 date: 2017-12-21 00:07:23
 author: John Vandivier
 ---

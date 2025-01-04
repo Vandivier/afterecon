@@ -1,5 +1,5 @@
 ---
-title: The Evil God Argument Doesn\'t Work
+title: "The Evil God Argument Doesn\'t Work"
 date: 2017-04-01 22:15:56
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Starbucks Equilibrium
+title: "Starbucks Equilibrium"
 date: 2015-11-10 13:50:18
 author: John Vandivier
 ---

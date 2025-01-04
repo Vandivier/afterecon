@@ -1,5 +1,5 @@
 ---
-title: Real Estate Portfolio Lending
+title: "Real Estate Portfolio Lending"
 date: 2018-11-03 22:12:20
 author: John Vandivier
 ---

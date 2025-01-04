@@ -1,5 +1,5 @@
 ---
-title: Another Improvement to Degreed: Retainment
+title: "Another Improvement to Degreed: Retainment"
 date: 2014-11-14 16:04:03
 author: John Vandivier
 ---

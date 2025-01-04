@@ -1,5 +1,5 @@
 ---
-title: Economic Calculation is Possible Without Prices
+title: "Economic Calculation is Possible Without Prices"
 date: 2016-12-02 15:00:55
 author: John Vandivier
 ---

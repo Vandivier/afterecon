@@ -1,5 +1,5 @@
 ---
-title: 4 Elements of a Basic Campaign Plan
+title: "4 Elements of a Basic Campaign Plan"
 date: 2015-03-24 03:58:21
 author: John Vandivier
 ---

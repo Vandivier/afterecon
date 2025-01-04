@@ -1,5 +1,5 @@
 ---
-title: Some Cool AEA Papers
+title: "Some Cool AEA Papers"
 date: 2014-02-16 21:21:46
 author: John Vandivier
 ---

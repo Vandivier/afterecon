@@ -1,5 +1,5 @@
 ---
-title: How long should it take to find a job after learning to program?
+title: "How long should it take to find a job after learning to program?"
 date: 2020-07-05 11:26:31
 author: John Vandivier
 ---

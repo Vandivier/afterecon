@@ -1,5 +1,5 @@
 ---
-title: Peace Talk Predictions and Conclusion
+title: "Peace Talk Predictions and Conclusion"
 date: 2014-11-14 16:07:36
 author: John Vandivier
 ---

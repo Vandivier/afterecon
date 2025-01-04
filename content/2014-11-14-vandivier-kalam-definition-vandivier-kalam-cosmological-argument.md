@@ -1,5 +1,5 @@
 ---
-title: Vandivier-Kalam Definition, Vandivier-Kalam Cosmological Argument
+title: "Vandivier-Kalam Definition, Vandivier-Kalam Cosmological Argument"
 date: 2014-11-14 16:05:36
 author: John Vandivier
 ---

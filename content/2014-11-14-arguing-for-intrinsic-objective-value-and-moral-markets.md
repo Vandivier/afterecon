@@ -1,5 +1,5 @@
 ---
-title: Arguing for Intrinsic, Objective Value and Moral Markets
+title: "Arguing for Intrinsic, Objective Value and Moral Markets"
 date: 2014-11-14 16:06:46
 author: John Vandivier
 ---

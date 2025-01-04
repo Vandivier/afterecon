@@ -1,5 +1,5 @@
 ---
-title: Conservative v Libertarian Marriage Argument
+title: "Conservative v Libertarian Marriage Argument"
 date: 2015-01-19 03:50:06
 author: John Vandivier
 ---

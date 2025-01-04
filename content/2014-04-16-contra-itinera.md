@@ -1,5 +1,5 @@
 ---
-title: Contra Itinera
+title: "Contra Itinera"
 date: 2014-04-16 16:56:34
 author: John Vandivier
 ---

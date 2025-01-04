@@ -1,5 +1,5 @@
 ---
-title: Truth and Dollar Power
+title: "Truth and Dollar Power"
 date: 2015-02-20 15:27:03
 author: John Vandivier
 ---

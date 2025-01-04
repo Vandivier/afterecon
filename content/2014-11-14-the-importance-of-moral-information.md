@@ -1,5 +1,5 @@
 ---
-title: The Importance of Moral Information
+title: "The Importance of Moral Information"
 date: 2014-11-14 16:02:19
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Price Discrimination is Efficient
+title: "Price Discrimination is Efficient"
 date: 2015-04-21 01:54:53
 author: John Vandivier
 ---

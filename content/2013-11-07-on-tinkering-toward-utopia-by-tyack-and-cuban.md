@@ -1,5 +1,5 @@
 ---
-title: On \"Tinkering Toward Utopia\" by Tyack and Cuban
+title: "On \"Tinkering Toward Utopia\" by Tyack and Cuban"
 date: 2013-11-07 04:48:45
 author: John Vandivier
 ---

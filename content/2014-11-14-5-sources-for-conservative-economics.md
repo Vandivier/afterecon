@@ -1,5 +1,5 @@
 ---
-title: 5 Sources for Conservative Economics
+title: "5 Sources for Conservative Economics"
 date: 2014-11-14 16:03:03
 author: John Vandivier
 ---

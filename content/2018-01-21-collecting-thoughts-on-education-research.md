@@ -1,5 +1,5 @@
 ---
-title: Collecting Thoughts on Education Research
+title: "Collecting Thoughts on Education Research"
 date: 2018-01-21 17:50:57
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Case for Angular, from a Hater
+title: "The Case for Angular, from a Hater"
 date: 2017-12-29 19:57:55
 author: John Vandivier
 ---

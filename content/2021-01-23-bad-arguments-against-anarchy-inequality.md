@@ -1,5 +1,5 @@
 ---
-title: Bad Arguments Against Anarchy: Inequality
+title: "Bad Arguments Against Anarchy: Inequality"
 date: 2021-01-23 00:11:17
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Empirical Research May Back Prayer and Laying on Hands
+title: "Empirical Research May Back Prayer and Laying on Hands"
 date: 2018-10-03 21:29:35
 author: John Vandivier
 ---

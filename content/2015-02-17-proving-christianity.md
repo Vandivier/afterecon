@@ -1,5 +1,5 @@
 ---
-title: Proving Christianity
+title: "Proving Christianity"
 date: 2015-02-16 22:37:43
 author: John Vandivier
 ---

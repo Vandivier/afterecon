@@ -1,5 +1,5 @@
 ---
-title: David Friedman, Poker, and World Peace
+title: "David Friedman, Poker, and World Peace"
 date: 2015-02-07 22:52:11
 author: John Vandivier
 ---

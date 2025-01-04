@@ -1,5 +1,5 @@
 ---
-title: Degreed Continues the Evolution of Education
+title: "Degreed Continues the Evolution of Education"
 date: 2014-11-14 16:04:45
 author: John Vandivier
 ---

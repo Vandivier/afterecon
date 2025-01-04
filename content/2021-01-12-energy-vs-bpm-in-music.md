@@ -1,5 +1,5 @@
 ---
-title: Energy vs BPM in Music
+title: "Energy vs BPM in Music"
 date: 2021-01-12 09:58:30
 author: John Vandivier
 ---

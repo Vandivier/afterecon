@@ -1,5 +1,5 @@
 ---
-title: \"Do It Yourself\" Libertarianism
+title: "\"Do It Yourself\" Libertarianism"
 date: 2014-11-14 16:06:01
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Destroying a Weak Attack on the Modal Ontological Argument
+title: "Destroying a Weak Attack on the Modal Ontological Argument"
 date: 2014-11-14 16:09:14
 author: John Vandivier
 ---

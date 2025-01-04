@@ -1,5 +1,5 @@
 ---
-title: MB = MC as Weak Analysis
+title: "MB = MC as Weak Analysis"
 date: 2018-04-15 10:59:32
 author: John Vandivier
 ---

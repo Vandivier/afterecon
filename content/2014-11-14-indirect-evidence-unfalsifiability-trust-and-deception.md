@@ -1,5 +1,5 @@
 ---
-title: Indirect Evidence, Unfalsifiability, Trust and Deception
+title: "Indirect Evidence, Unfalsifiability, Trust and Deception"
 date: 2014-11-14 16:10:40
 author: John Vandivier
 ---

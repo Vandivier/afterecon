@@ -1,5 +1,5 @@
 ---
-title: Repost: How William Lane Craig thrashed Sam Harris like a naughty puppy
+title: "Repost: How William Lane Craig thrashed Sam Harris like a naughty puppy"
 date: 2018-02-18 18:58:34
 author: John Vandivier
 ---

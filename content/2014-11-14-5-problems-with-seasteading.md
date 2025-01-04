@@ -1,5 +1,5 @@
 ---
-title: 5 Problems With Seasteading
+title: "5 Problems With Seasteading"
 date: 2014-11-14 16:05:40
 author: John Vandivier
 ---

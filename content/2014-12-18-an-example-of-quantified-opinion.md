@@ -1,5 +1,5 @@
 ---
-title: An Example of Quantified Opinion
+title: "An Example of Quantified Opinion"
 date: 2014-12-18 15:01:52
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Intelligent Design Skeptics Like Bill Nye and Their Objections
+title: "Intelligent Design Skeptics Like Bill Nye and Their Objections"
 date: 2012-09-06
 author: John Vandivier
 ---

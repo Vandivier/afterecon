@@ -1,5 +1,5 @@
 ---
-title: Elasticity and Efficiency
+title: "Elasticity and Efficiency"
 date: 2020-06-17 10:16:53
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Lower Priced Houses, Part 3
+title: "Lower Priced Houses, Part 3"
 date: 2018-07-05 21:28:43
 author: John Vandivier
 ---

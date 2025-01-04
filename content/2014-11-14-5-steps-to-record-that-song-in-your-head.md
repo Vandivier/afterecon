@@ -1,5 +1,5 @@
 ---
-title: 5 Steps to Record That Song in Your Head
+title: "5 Steps to Record That Song in Your Head"
 date: 2014-11-14 16:10:50
 author: John Vandivier
 ---

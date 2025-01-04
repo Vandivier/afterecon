@@ -1,5 +1,5 @@
 ---
-title: Preparing to Submit a Policy Analysis Paper
+title: "Preparing to Submit a Policy Analysis Paper"
 date: 2020-02-25 01:06:46
 author: John Vandivier
 ---

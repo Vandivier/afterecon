@@ -1,5 +1,5 @@
 ---
-title: Degreed Update - DLM Beta and More!
+title: "Degreed Update - DLM Beta and More!"
 date: 2014-04-11 04:37:49
 author: John Vandivier
 ---

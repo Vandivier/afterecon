@@ -1,5 +1,5 @@
 ---
-title: Inflation Estimation Problems
+title: "Inflation Estimation Problems"
 date: 2014-09-16 00:24:04
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Write Your Own jQuery Slider
+title: "Write Your Own jQuery Slider"
 date: 2015-07-04 20:55:20
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Political Effect of Splitting TX, CA
+title: "The Political Effect of Splitting TX, CA"
 date: 2014-07-20 18:00:36
 author: John Vandivier
 ---

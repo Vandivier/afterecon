@@ -1,5 +1,5 @@
 ---
-title: Agile Estimation: To Repoint or Not to Repoint?
+title: "Agile Estimation: To Repoint or Not to Repoint?"
 date: 2018-03-27 11:42:09
 author: John Vandivier
 ---

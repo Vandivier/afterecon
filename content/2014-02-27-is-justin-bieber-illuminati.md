@@ -1,5 +1,5 @@
 ---
-title: Is Justin Bieber Illuminati?
+title: "Is Justin Bieber Illuminati?"
 date: 2014-02-27 14:45:44
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Doubling Down on Altcoins
+title: "Doubling Down on Altcoins"
 date: 2017-12-21 15:51:17
 author: John Vandivier
 ---

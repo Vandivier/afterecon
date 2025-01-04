@@ -1,5 +1,5 @@
 ---
-title: More on Miracles
+title: "More on Miracles"
 date: 2017-05-07 12:13:55
 author: John Vandivier
 ---

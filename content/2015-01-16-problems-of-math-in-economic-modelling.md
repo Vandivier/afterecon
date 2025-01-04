@@ -1,5 +1,5 @@
 ---
-title: Problems of Math in Economic Modelling
+title: "Problems of Math in Economic Modelling"
 date: 2015-01-16 04:04:48
 author: John Vandivier
 ---

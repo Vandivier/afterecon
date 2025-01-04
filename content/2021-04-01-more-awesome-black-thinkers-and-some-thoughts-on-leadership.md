@@ -1,5 +1,5 @@
 ---
-title: More Awesome Black Thinkers and Some Thoughts on Leadership
+title: "More Awesome Black Thinkers and Some Thoughts on Leadership"
 date: 2021-03-31 21:34:32
 author: John Vandivier
 ---

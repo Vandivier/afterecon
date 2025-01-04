@@ -1,5 +1,5 @@
 ---
-title: The Government Calculation Problem
+title: "The Government Calculation Problem"
 date: 2014-09-24 15:02:21
 author: John Vandivier
 ---

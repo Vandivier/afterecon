@@ -1,5 +1,5 @@
 ---
-title: What Should People Do After Learning Economics?
+title: "What Should People Do After Learning Economics?"
 date: 2016-09-13 14:18:33
 author: John Vandivier
 ---

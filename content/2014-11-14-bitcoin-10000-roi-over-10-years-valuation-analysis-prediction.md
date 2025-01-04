@@ -1,5 +1,5 @@
 ---
-title: Bitcoin: 10,000% ROI Over 10 Years?! Valuation, Analysis, Prediction.
+title: "Bitcoin: 10,000% ROI Over 10 Years?! Valuation, Analysis, Prediction."
 date: 2014-11-14 16:11:21
 author: John Vandivier
 ---

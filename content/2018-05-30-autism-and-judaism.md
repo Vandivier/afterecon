@@ -1,5 +1,5 @@
 ---
-title: Autism and Judaism
+title: "Autism and Judaism"
 date: 2018-05-29 23:06:22
 author: John Vandivier
 ---

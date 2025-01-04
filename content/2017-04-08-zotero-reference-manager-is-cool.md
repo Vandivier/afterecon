@@ -1,5 +1,5 @@
 ---
-title: Zotero Reference Manager is Cool
+title: "Zotero Reference Manager is Cool"
 date: 2017-04-08 11:42:24
 author: John Vandivier
 ---

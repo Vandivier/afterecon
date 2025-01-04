@@ -1,5 +1,5 @@
 ---
-title: Economies of Scope in Personal Life
+title: "Economies of Scope in Personal Life"
 date: 2016-01-07 16:30:25
 author: John Vandivier
 ---

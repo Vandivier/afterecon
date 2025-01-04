@@ -1,5 +1,5 @@
 ---
-title: Diversity and Competition
+title: "Diversity and Competition"
 date: 2014-01-21 15:47:33
 author: John Vandivier
 ---

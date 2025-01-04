@@ -1,5 +1,5 @@
 ---
-title: Negative Effects of Homosexuality as Evidence for the Bible
+title: "Negative Effects of Homosexuality as Evidence for the Bible"
 date: 2014-11-14 16:10:44
 author: John Vandivier
 ---

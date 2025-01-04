@@ -1,5 +1,5 @@
 ---
-title: My Tax Year as a Landlord
+title: "My Tax Year as a Landlord"
 date: 2020-03-04 00:20:44
 author: John Vandivier
 ---

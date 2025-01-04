@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on 10X Management Structures
+title: "Some Thoughts on 10X Management Structures"
 date: 2018-01-01 20:53:14
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: BTCJam Arbitration Enforcement With Worldwide
+title: "BTCJam Arbitration Enforcement With Worldwide"
 date: 2016-02-06 16:47:25
 author: John Vandivier
 ---

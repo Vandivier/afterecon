@@ -1,5 +1,5 @@
 ---
-title: Seasteading Barrier to Entry Cost Analysis
+title: "Seasteading Barrier to Entry Cost Analysis"
 date: 2014-11-14 16:05:07
 author: John Vandivier
 ---

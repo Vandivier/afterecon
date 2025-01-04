@@ -1,5 +1,5 @@
 ---
-title: Value of Information
+title: "Value of Information"
 date: 2015-02-24 02:25:53
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Two Notes on the Book of Amos
+title: "Two Notes on the Book of Amos"
 date: 2023-02-21 11:28:40
 author: John Vandivier
 ---

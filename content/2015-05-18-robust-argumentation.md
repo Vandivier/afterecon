@@ -1,5 +1,5 @@
 ---
-title: Robust Argumentation
+title: "Robust Argumentation"
 date: 2015-05-18 17:18:54
 author: John Vandivier
 ---

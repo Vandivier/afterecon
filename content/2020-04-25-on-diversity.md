@@ -1,5 +1,5 @@
 ---
-title: On Diversity
+title: "On Diversity"
 date: 2020-04-25 14:29:16
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Project Oxygen and Cost Mitigation Value
+title: "Project Oxygen and Cost Mitigation Value"
 date: 2018-04-10 20:27:02
 author: John Vandivier
 ---

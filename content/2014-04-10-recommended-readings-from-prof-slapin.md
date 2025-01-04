@@ -1,5 +1,5 @@
 ---
-title: Recommended Readings from Prof. Slapin
+title: "Recommended Readings from Prof. Slapin"
 date: 2014-04-10 02:41:38
 author: John Vandivier
 ---

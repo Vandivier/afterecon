@@ -1,5 +1,5 @@
 ---
-title: Contra Iannaccone\'s \"Sacrifice and Stigma...\"
+title: "Contra Iannaccone\'s \"Sacrifice and Stigma...\""
 date: 2017-02-16 15:00:36
 author: John Vandivier
 ---

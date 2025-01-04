@@ -1,5 +1,5 @@
 ---
-title: Should Google Run a City? : The Freeman : Foundation for Economic Education
+title: "Should Google Run a City? : The Freeman : Foundation for Economic Education"
 date: 2014-11-16 18:03:45
 author: John Vandivier
 ---

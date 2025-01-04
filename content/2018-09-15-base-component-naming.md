@@ -1,5 +1,5 @@
 ---
-title: Base Component Naming
+title: "Base Component Naming"
 date: 2018-09-15 08:54:34
 author: John Vandivier
 ---

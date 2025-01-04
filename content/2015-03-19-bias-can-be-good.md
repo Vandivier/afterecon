@@ -1,5 +1,5 @@
 ---
-title: Bias Can Be Good
+title: "Bias Can Be Good"
 date: 2015-03-19 04:57:56
 author: John Vandivier
 ---

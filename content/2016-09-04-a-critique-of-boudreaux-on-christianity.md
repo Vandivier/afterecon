@@ -1,5 +1,5 @@
 ---
-title: A Critique of Boudreaux on Christianity
+title: "A Critique of Boudreaux on Christianity"
 date: 2016-09-04 17:01:19
 author: John Vandivier
 ---

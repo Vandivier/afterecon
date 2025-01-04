@@ -1,5 +1,5 @@
 ---
-title: Which Polls Fared Best (and Worst) in the 2012 Presidential Race - NYTimes.com
+title: "Which Polls Fared Best (and Worst) in the 2012 Presidential Race - NYTimes.com"
 date: 2014-12-19 03:32:12
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Writing a Multiple OLS in Python
+title: "Writing a Multiple OLS in Python"
 date: 2019-09-16 12:03:05
 author: John Vandivier
 ---

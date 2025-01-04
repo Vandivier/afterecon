@@ -1,5 +1,5 @@
 ---
-title: USA Today: SEC moves toward allowing crowdfunding stock offerings
+title: "USA Today: SEC moves toward allowing crowdfunding stock offerings"
 date: 2014-11-14 16:02:26
 author: John Vandivier
 ---

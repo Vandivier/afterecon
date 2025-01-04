@@ -1,5 +1,5 @@
 ---
-title: Buy Bitcoin in 5 Easy Steps
+title: "Buy Bitcoin in 5 Easy Steps"
 date: 2014-11-14 16:11:07
 author: John Vandivier
 ---

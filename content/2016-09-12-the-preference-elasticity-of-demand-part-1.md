@@ -1,5 +1,5 @@
 ---
-title: The Preference Elasticity of Demand, Part 1
+title: "The Preference Elasticity of Demand, Part 1"
 date: 2016-09-12 00:13:22
 author: John Vandivier
 ---

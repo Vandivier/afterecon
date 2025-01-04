@@ -1,5 +1,5 @@
 ---
-title: \"Chillax, Bro\" and Nitpicky Bible Criticism
+title: "\"Chillax, Bro\" and Nitpicky Bible Criticism"
 date: 2014-07-11 19:35:20
 author: John Vandivier
 ---

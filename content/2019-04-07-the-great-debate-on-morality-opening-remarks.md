@@ -1,5 +1,5 @@
 ---
-title: The Great Debate On Morality, Opening Remarks
+title: "The Great Debate On Morality, Opening Remarks"
 date: 2019-04-06 20:36:18
 author: John Vandivier
 ---

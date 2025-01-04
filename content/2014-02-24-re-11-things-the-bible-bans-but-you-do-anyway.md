@@ -1,5 +1,5 @@
 ---
-title: Re: 11 Things The Bible Bans, But You Do Anyway
+title: "Re: 11 Things The Bible Bans, But You Do Anyway"
 date: 2014-02-24 00:23:11
 author: John Vandivier
 ---

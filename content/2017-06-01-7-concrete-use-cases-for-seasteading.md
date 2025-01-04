@@ -1,5 +1,5 @@
 ---
-title: 7 Concrete Use Cases for Seasteading
+title: "7 Concrete Use Cases for Seasteading"
 date: 2017-06-01 15:00:07
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: How Will the Futures Market Affect BTC Price?
+title: "How Will the Futures Market Affect BTC Price?"
 date: 2017-12-09 15:46:36
 author: John Vandivier
 ---

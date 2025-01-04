@@ -1,5 +1,5 @@
 ---
-title: Shades of Unschooling
+title: "Shades of Unschooling"
 date: 2018-10-03 14:52:53
 author: John Vandivier
 ---

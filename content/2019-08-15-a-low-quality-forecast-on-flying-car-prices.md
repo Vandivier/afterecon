@@ -1,5 +1,5 @@
 ---
-title: A Low Quality Forecast on Flying Car Prices
+title: "A Low Quality Forecast on Flying Car Prices"
 date: 2019-08-15 14:30:25
 author: John Vandivier
 ---

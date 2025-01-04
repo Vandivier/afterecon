@@ -1,5 +1,5 @@
 ---
-title: Technical Efficiency is So Underrated
+title: "Technical Efficiency is So Underrated"
 date: 2016-08-28 13:00:50
 author: John Vandivier
 ---

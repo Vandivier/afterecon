@@ -1,5 +1,5 @@
 ---
-title: Christian Population Growth
+title: "Christian Population Growth"
 date: 2015-11-23 04:01:32
 author: John Vandivier
 ---

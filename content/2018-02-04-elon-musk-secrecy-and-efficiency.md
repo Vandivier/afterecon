@@ -1,5 +1,5 @@
 ---
-title: Elon Musk, Secrecy, and Efficiency
+title: "Elon Musk, Secrecy, and Efficiency"
 date: 2018-02-04 15:00:02
 author: John Vandivier
 ---

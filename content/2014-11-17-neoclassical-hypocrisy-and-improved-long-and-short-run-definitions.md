@@ -1,5 +1,5 @@
 ---
-title: Neoclassical Hypocrisy and Improved Long and Short Run Definitions
+title: "Neoclassical Hypocrisy and Improved Long and Short Run Definitions"
 date: 2014-11-16 20:06:14
 author: John Vandivier
 ---

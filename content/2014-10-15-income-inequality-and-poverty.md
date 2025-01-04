@@ -1,5 +1,5 @@
 ---
-title: Income Inequality and Poverty
+title: "Income Inequality and Poverty"
 date: 2014-10-15 14:23:07
 author: John Vandivier
 ---

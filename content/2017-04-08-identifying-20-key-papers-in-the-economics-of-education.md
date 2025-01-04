@@ -1,5 +1,5 @@
 ---
-title: Identifying 20 Key Papers in the Economics of Education
+title: "Identifying 20 Key Papers in the Economics of Education"
 date: 2017-04-08 09:02:25
 author: John Vandivier
 ---

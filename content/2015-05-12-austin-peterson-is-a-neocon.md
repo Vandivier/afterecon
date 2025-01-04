@@ -1,5 +1,5 @@
 ---
-title: Austin Peterson is a Neocon
+title: "Austin Peterson is a Neocon"
 date: 2015-05-12 05:40:07
 author: John Vandivier
 ---

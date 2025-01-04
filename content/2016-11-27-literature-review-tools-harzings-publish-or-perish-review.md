@@ -1,5 +1,5 @@
 ---
-title: Literature Review Tools: Harzing\'s Publish or Perish Review
+title: "Literature Review Tools: Harzing\'s Publish or Perish Review"
 date: 2016-11-27 17:45:19
 author: John Vandivier
 ---

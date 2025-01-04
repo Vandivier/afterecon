@@ -1,5 +1,5 @@
 ---
-title: Following Academics
+title: "Following Academics"
 date: 2019-10-05 18:56:34
 author: John Vandivier
 ---

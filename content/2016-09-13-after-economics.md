@@ -1,5 +1,5 @@
 ---
-title: After Economics
+title: "After Economics"
 date: 2016-09-13 14:29:06
 author: John Vandivier
 ---

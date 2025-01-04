@@ -1,5 +1,5 @@
 ---
-title: Re: Wikipedia,
+title: "Re: Wikipedia,"
 date: 2014-02-20 16:32:12
 author: John Vandivier
 ---

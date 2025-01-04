@@ -1,5 +1,5 @@
 ---
-title: New Guest Article by John V on JTHMishMash!
+title: "New Guest Article by John V on JTHMishMash!"
 date: 2014-11-14 16:08:43
 author: John Vandivier
 ---

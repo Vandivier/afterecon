@@ -1,5 +1,5 @@
 ---
-title: Battleground God is Whack
+title: "Battleground God is Whack"
 date: 2018-09-29 23:29:40
 author: John Vandivier
 ---

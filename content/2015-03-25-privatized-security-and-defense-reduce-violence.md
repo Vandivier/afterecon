@@ -1,5 +1,5 @@
 ---
-title: Privatized Security and Defense Reduce Violence
+title: "Privatized Security and Defense Reduce Violence"
 date: 2015-03-25 00:15:30
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Further Contra Uncertainty
+title: "Further Contra Uncertainty"
 date: 2017-03-13 15:00:55
 author: John Vandivier
 ---

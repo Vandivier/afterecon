@@ -1,5 +1,5 @@
 ---
-title: Empowering Women in Tech in 2023
+title: "Empowering Women in Tech in 2023"
 date: 2023-06-14 18:24:04
 author: John Vandivier
 ---

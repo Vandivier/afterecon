@@ -1,5 +1,5 @@
 ---
-title: Statistical Reasoning with Uncertainty
+title: "Statistical Reasoning with Uncertainty"
 date: 2015-03-05 00:01:26
 author: John Vandivier
 ---

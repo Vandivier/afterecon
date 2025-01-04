@@ -1,5 +1,5 @@
 ---
-title: Code, Humility, and Passion
+title: "Code, Humility, and Passion"
 date: 2019-10-19 13:42:51
 author: John Vandivier
 ---

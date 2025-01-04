@@ -1,5 +1,5 @@
 ---
-title: Technology v Poverty, and Keynesian Multiplier Problems
+title: "Technology v Poverty, and Keynesian Multiplier Problems"
 date: 2014-12-07 17:16:58
 author: John Vandivier
 ---

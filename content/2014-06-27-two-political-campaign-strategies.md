@@ -1,5 +1,5 @@
 ---
-title: Two Political Campaign Strategies
+title: "Two Political Campaign Strategies"
 date: 2014-06-27 14:13:12
 author: John Vandivier
 ---

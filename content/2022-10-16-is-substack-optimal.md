@@ -1,5 +1,5 @@
 ---
-title: Is Substack Optimal?
+title: "Is Substack Optimal?"
 date: 2022-10-16 12:52:56
 author: John Vandivier
 ---

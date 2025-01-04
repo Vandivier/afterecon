@@ -1,5 +1,5 @@
 ---
-title: Conservatism in Media and Pop Culture
+title: "Conservatism in Media and Pop Culture"
 date: 2014-11-14 16:02:40
 author: John Vandivier
 ---

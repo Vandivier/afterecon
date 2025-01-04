@@ -1,5 +1,5 @@
 ---
-title: Kosovo as a Case Study for Culture Shock Conflict
+title: "Kosovo as a Case Study for Culture Shock Conflict"
 date: 2014-12-12 17:07:28
 author: John Vandivier
 ---

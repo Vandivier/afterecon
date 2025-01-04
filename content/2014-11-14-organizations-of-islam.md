@@ -1,5 +1,5 @@
 ---
-title: Organizations of Islam
+title: "Organizations of Islam"
 date: 2014-11-14 16:07:53
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Cambrian Explosion? NBD
+title: "Cambrian Explosion? NBD"
 date: 2015-06-13 00:53:23
 author: John Vandivier
 ---

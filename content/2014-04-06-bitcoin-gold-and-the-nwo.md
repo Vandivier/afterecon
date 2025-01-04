@@ -1,5 +1,5 @@
 ---
-title: Bitcoin, Gold and the NWO
+title: "Bitcoin, Gold and the NWO"
 date: 2014-04-06 19:55:00
 author: John Vandivier
 ---

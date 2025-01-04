@@ -1,5 +1,5 @@
 ---
-title: To Buchanan: Six Windows in Economics
+title: "To Buchanan: Six Windows in Economics"
 date: 2016-10-22 15:10:41
 author: John Vandivier
 ---

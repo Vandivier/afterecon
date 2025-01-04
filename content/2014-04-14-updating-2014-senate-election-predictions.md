@@ -1,5 +1,5 @@
 ---
-title: Updating 2014 Senate Election Predictions
+title: "Updating 2014 Senate Election Predictions"
 date: 2014-04-14 05:22:26
 author: John Vandivier
 ---

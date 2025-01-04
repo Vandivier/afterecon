@@ -1,5 +1,5 @@
 ---
-title: US Senate: Chairman Carper statement on the unveiling of the so-called “Silk Road 2.0” website
+title: "US Senate: Chairman Carper statement on the unveiling of the so-called “Silk Road 2.0” website"
 date: 2013-11-07 00:00:49
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: On Gruber, Free Riders, and Political Economy
+title: "On Gruber, Free Riders, and Political Economy"
 date: 2014-09-17 13:01:50
 author: John Vandivier
 ---

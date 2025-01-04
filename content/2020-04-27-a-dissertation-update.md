@@ -1,5 +1,5 @@
 ---
-title: A Dissertation Update
+title: "A Dissertation Update"
 date: 2020-04-27 16:02:53
 author: John Vandivier
 ---

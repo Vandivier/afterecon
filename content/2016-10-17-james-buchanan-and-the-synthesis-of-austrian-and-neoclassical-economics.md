@@ -1,5 +1,5 @@
 ---
-title: James Buchanan and the Synthesis of Austrian and Neoclassical Economics
+title: "James Buchanan and the Synthesis of Austrian and Neoclassical Economics"
 date: 2016-10-17 15:00:53
 author: John Vandivier
 ---

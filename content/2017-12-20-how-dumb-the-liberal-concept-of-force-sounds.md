@@ -1,5 +1,5 @@
 ---
-title: How Dumb The Liberal Concept of Force Sounds
+title: "How Dumb The Liberal Concept of Force Sounds"
 date: 2017-12-20 15:22:55
 author: John Vandivier
 ---

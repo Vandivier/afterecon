@@ -1,5 +1,5 @@
 ---
-title: CBMW Theology as Testable Hypothesis
+title: "CBMW Theology as Testable Hypothesis"
 date: 2015-03-01 05:33:04
 author: John Vandivier
 ---

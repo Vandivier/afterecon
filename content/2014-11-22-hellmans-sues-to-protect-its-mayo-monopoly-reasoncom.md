@@ -1,5 +1,5 @@
 ---
-title: Hellman\'s Sues to Protect Its Mayo-Monopoly - Reason.com
+title: "Hellman\'s Sues to Protect Its Mayo-Monopoly - Reason.com"
 date: 2014-11-22 18:07:34
 author: John Vandivier
 ---

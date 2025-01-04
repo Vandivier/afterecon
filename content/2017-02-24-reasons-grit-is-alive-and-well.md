@@ -1,5 +1,5 @@
 ---
-title: Reasons Grit is Alive and Well
+title: "Reasons Grit is Alive and Well"
 date: 2017-02-23 22:44:33
 author: John Vandivier
 ---

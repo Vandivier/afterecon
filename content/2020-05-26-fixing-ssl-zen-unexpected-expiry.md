@@ -1,5 +1,5 @@
 ---
-title: Fixing SSL Zen Unexpected Expiry
+title: "Fixing SSL Zen Unexpected Expiry"
 date: 2020-05-26 00:24:36
 author: John Vandivier
 ---

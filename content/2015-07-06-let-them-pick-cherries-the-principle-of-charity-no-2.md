@@ -1,5 +1,5 @@
 ---
-title: Let Them Pick Cherries: The Principle of Charity No. 2
+title: "Let Them Pick Cherries: The Principle of Charity No. 2"
 date: 2015-07-06 04:14:46
 author: John Vandivier
 ---

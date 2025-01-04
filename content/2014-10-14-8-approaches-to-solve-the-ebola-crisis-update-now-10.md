@@ -1,5 +1,5 @@
 ---
-title: 8 Approaches to Solve the Ebola Crisis (Update: Now 10)
+title: "8 Approaches to Solve the Ebola Crisis (Update: Now 10)"
 date: 2014-10-14 13:13:49
 author: John Vandivier
 ---

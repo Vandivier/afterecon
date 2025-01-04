@@ -1,5 +1,5 @@
 ---
-title: The Relationship Between Economics and Religion
+title: "The Relationship Between Economics and Religion"
 date: 2014-07-19 17:27:21
 author: John Vandivier
 ---

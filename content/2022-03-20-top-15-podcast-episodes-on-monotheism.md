@@ -1,5 +1,5 @@
 ---
-title: Top 15 Podcast Episodes on Monotheism
+title: "Top 15 Podcast Episodes on Monotheism"
 date: 2022-03-20 16:03:54
 author: John Vandivier
 ---

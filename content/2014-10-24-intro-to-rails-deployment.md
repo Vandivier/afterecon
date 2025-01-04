@@ -1,5 +1,5 @@
 ---
-title: Intro to Rails Deployment
+title: "Intro to Rails Deployment"
 date: 2014-10-24 00:39:38
 author: John Vandivier
 ---

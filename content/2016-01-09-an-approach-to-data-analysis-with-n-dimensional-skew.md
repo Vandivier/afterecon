@@ -1,5 +1,5 @@
 ---
-title: An Approach to Data Analysis with N-Dimensional Skew
+title: "An Approach to Data Analysis with N-Dimensional Skew"
 date: 2016-01-09 16:30:53
 author: John Vandivier
 ---

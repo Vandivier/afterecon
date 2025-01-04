@@ -1,5 +1,5 @@
 ---
-title: Past and Present Alternatives to Bitcoin
+title: "Past and Present Alternatives to Bitcoin"
 date: 2014-11-14 16:11:44
 author: John Vandivier
 ---

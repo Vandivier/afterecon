@@ -1,5 +1,5 @@
 ---
-title: On Managing Web Links
+title: "On Managing Web Links"
 date: 2015-06-04 01:58:57
 author: John Vandivier
 ---

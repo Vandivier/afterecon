@@ -1,5 +1,5 @@
 ---
-title: Another Link Re Education and Irreligion
+title: "Another Link Re Education and Irreligion"
 date: 2017-09-12 15:19:32
 author: John Vandivier
 ---

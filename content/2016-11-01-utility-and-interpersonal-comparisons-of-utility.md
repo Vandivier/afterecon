@@ -1,5 +1,5 @@
 ---
-title: Utility and Interpersonal Comparisons of Utility
+title: "Utility and Interpersonal Comparisons of Utility"
 date: 2016-10-31 21:11:01
 author: John Vandivier
 ---

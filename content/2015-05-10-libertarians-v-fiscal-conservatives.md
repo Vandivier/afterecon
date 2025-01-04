@@ -1,5 +1,5 @@
 ---
-title: Libertarians v Fiscal Conservatives
+title: "Libertarians v Fiscal Conservatives"
 date: 2015-05-09 20:22:34
 author: John Vandivier
 ---

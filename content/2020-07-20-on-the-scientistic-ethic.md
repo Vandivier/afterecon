@@ -1,5 +1,5 @@
 ---
-title: On the Scientistic Ethic
+title: "On the Scientistic Ethic"
 date: 2020-07-20 17:22:10
 author: John Vandivier
 ---

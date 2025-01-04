@@ -1,5 +1,5 @@
 ---
-title: 60+ Places to Transact with Litecoin, Adam Kokesh on Litecoin
+title: "60+ Places to Transact with Litecoin, Adam Kokesh on Litecoin"
 date: 2014-11-14 16:10:17
 author: John Vandivier
 ---

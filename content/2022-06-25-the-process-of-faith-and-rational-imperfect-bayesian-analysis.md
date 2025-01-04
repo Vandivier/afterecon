@@ -1,5 +1,5 @@
 ---
-title: The Process of Faith and Rational Imperfect Bayesian Analysis
+title: "The Process of Faith and Rational Imperfect Bayesian Analysis"
 date: 2022-06-25 13:12:46
 author: John Vandivier
 ---

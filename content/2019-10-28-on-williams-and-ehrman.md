@@ -1,5 +1,5 @@
 ---
-title: On Williams and Ehrman
+title: "On Williams and Ehrman"
 date: 2019-10-27 21:12:42
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Government Inefficiency, Modeled
+title: "Government Inefficiency, Modeled"
 date: 2014-09-30 15:08:56
 author: John Vandivier
 ---

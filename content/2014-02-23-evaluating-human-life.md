@@ -1,5 +1,5 @@
 ---
-title: Evaluating Human Life
+title: "Evaluating Human Life"
 date: 2014-02-23 05:47:26
 author: John Vandivier
 ---

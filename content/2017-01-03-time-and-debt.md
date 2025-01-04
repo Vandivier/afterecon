@@ -1,5 +1,5 @@
 ---
-title: Time and Debt
+title: "Time and Debt"
 date: 2017-01-03 15:00:16
 author: John Vandivier
 ---

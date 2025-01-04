@@ -1,5 +1,5 @@
 ---
-title: The Relationship Between Vote Costs and Favorability
+title: "The Relationship Between Vote Costs and Favorability"
 date: 2014-06-18 17:49:11
 author: John Vandivier
 ---

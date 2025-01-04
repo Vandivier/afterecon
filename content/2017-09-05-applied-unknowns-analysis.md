@@ -1,5 +1,5 @@
 ---
-title: Applied Unknowns Analysis
+title: "Applied Unknowns Analysis"
 date: 2017-09-05 15:36:55
 author: John Vandivier
 ---

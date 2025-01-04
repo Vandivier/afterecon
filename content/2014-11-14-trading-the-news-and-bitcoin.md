@@ -1,5 +1,5 @@
 ---
-title: Trading the News and Bitcoin
+title: "Trading the News and Bitcoin"
 date: 2014-11-14 16:12:20
 author: John Vandivier
 ---

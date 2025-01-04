@@ -1,5 +1,5 @@
 ---
-title: The Definition of Money
+title: "The Definition of Money"
 date: 2014-04-16 18:28:02
 author: John Vandivier
 ---

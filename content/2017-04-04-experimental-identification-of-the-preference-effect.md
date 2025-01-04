@@ -1,5 +1,5 @@
 ---
-title: Experimental Identification of the Preference Effect
+title: "Experimental Identification of the Preference Effect"
 date: 2017-04-04 15:00:05
 author: John Vandivier
 ---

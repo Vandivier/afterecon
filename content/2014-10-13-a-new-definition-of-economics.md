@@ -1,5 +1,5 @@
 ---
-title: A New Definition of Economics
+title: "A New Definition of Economics"
 date: 2014-10-13 13:48:38
 author: John Vandivier
 ---

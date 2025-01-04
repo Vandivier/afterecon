@@ -1,5 +1,5 @@
 ---
-title: Macroeconomic Policies and Heterogeneity Problems
+title: "Macroeconomic Policies and Heterogeneity Problems"
 date: 2014-12-09 01:31:28
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 1 Thing That Will Explode Bitcoin Adoption
+title: "1 Thing That Will Explode Bitcoin Adoption"
 date: 2014-11-14 16:05:54
 author: John Vandivier
 ---

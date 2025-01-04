@@ -1,5 +1,5 @@
 ---
-title: Would Companies Voluntarily Go Green?
+title: "Would Companies Voluntarily Go Green?"
 date: 2016-08-30 21:17:46
 author: John Vandivier
 ---

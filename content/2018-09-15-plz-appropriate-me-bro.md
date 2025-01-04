@@ -1,5 +1,5 @@
 ---
-title: Plz Appropriate Me Bro
+title: "Plz Appropriate Me Bro"
 date: 2018-09-15 09:00:51
 author: John Vandivier
 ---

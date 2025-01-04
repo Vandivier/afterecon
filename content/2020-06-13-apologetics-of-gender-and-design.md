@@ -1,5 +1,5 @@
 ---
-title: Apologetics of Gender and Design
+title: "Apologetics of Gender and Design"
 date: 2020-06-12 22:27:33
 author: John Vandivier
 ---

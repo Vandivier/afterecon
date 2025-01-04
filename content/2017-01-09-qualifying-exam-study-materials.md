@@ -1,5 +1,5 @@
 ---
-title: Qualifying Exam Study Materials
+title: "Qualifying Exam Study Materials"
 date: 2017-01-08 20:11:32
 author: John Vandivier
 ---

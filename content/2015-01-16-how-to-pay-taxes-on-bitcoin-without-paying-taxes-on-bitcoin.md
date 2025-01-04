@@ -1,5 +1,5 @@
 ---
-title: How to Pay Taxes on Bitcoin Without Paying Taxes on Bitcoin
+title: "How to Pay Taxes on Bitcoin Without Paying Taxes on Bitcoin"
 date: 2015-01-16 01:41:04
 author: John Vandivier
 ---

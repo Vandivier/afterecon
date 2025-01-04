@@ -1,5 +1,5 @@
 ---
-title: Non-Becker Rationality and Kahneman Irrationality
+title: "Non-Becker Rationality and Kahneman Irrationality"
 date: 2017-01-27 15:00:35
 author: John Vandivier
 ---

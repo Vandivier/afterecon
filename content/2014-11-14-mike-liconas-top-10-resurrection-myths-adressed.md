@@ -1,5 +1,5 @@
 ---
-title: Mike Licona\'s Top 10 Resurrection Myths Adressed
+title: "Mike Licona\'s Top 10 Resurrection Myths Adressed"
 date: 2014-11-14 16:10:32
 author: John Vandivier
 ---

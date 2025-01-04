@@ -1,5 +1,5 @@
 ---
-title: J Warner Wallace Talk, \"Cold Case Christianity\" 4/09/13
+title: "J Warner Wallace Talk, \"Cold Case Christianity\" 4/09/13"
 date: 2013-04-10
 author: John Vandivier
 ---

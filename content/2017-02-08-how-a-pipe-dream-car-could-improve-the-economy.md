@@ -1,5 +1,5 @@
 ---
-title: How a Pipe Dream Car Could Improve the Economy
+title: "How a Pipe Dream Car Could Improve the Economy"
 date: 2017-02-08 09:25:41
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: A Priori Probability: Larger Values
+title: "A Priori Probability: Larger Values"
 date: 2015-01-30 15:27:49
 author: John Vandivier
 ---

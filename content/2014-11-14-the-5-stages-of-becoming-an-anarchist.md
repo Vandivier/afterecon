@@ -1,5 +1,5 @@
 ---
-title: The 5 stages of becoming an anarchist
+title: "The 5 stages of becoming an anarchist"
 date: 2014-11-14 16:05:23
 author: John Vandivier
 ---

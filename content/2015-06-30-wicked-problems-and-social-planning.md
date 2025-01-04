@@ -1,5 +1,5 @@
 ---
-title: Wicked Problems and Social Planning
+title: "Wicked Problems and Social Planning"
 date: 2015-06-30 17:10:43
 author: John Vandivier
 ---

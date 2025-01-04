@@ -1,5 +1,5 @@
 ---
-title: The Preference Revelation Problem
+title: "The Preference Revelation Problem"
 date: 2014-10-06 02:39:30
 author: John Vandivier
 ---

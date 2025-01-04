@@ -1,5 +1,5 @@
 ---
-title: Top 5 Reasons to Choose Christianity
+title: "Top 5 Reasons to Choose Christianity"
 date: 2018-09-29 00:23:45
 author: John Vandivier
 ---

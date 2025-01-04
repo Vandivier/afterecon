@@ -1,5 +1,5 @@
 ---
-title: David Friedman Isn\'t a True Anarcho-Capitalist
+title: "David Friedman Isn\'t a True Anarcho-Capitalist"
 date: 2016-11-04 15:00:21
 author: John Vandivier
 ---

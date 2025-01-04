@@ -1,5 +1,5 @@
 ---
-title: WordPress Plugin Review: YOP Poll
+title: "WordPress Plugin Review: YOP Poll"
 date: 2016-10-11 22:46:15
 author: John Vandivier
 ---

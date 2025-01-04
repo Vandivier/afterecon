@@ -1,5 +1,5 @@
 ---
-title: Selecting Model Papers
+title: "Selecting Model Papers"
 date: 2019-11-03 19:45:00
 author: John Vandivier
 ---

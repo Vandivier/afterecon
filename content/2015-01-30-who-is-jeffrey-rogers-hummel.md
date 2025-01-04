@@ -1,5 +1,5 @@
 ---
-title: Who is Jeffrey Rogers Hummel?
+title: "Who is Jeffrey Rogers Hummel?"
 date: 2015-01-30 15:54:28
 author: John Vandivier
 ---

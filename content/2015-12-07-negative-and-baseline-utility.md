@@ -1,5 +1,5 @@
 ---
-title: Negative and Baseline Utility
+title: "Negative and Baseline Utility"
 date: 2015-12-07 04:06:41
 author: John Vandivier
 ---

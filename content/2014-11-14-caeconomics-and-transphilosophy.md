@@ -1,5 +1,5 @@
 ---
-title: Caeconomics and Transphilosophy
+title: "Caeconomics and Transphilosophy"
 date: 2014-11-14 16:05:33
 author: John Vandivier
 ---

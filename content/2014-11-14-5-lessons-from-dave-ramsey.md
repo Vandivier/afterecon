@@ -1,5 +1,5 @@
 ---
-title: 5 Lessons From Dave Ramsey
+title: "5 Lessons From Dave Ramsey"
 date: 2014-11-14 16:12:28
 author: John Vandivier
 ---

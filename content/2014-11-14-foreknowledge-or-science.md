@@ -1,5 +1,5 @@
 ---
-title: Foreknowledge or Science?
+title: "Foreknowledge or Science?"
 date: 2014-11-14 16:10:07
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Religion is Not Just a Placebo
+title: "Religion is Not Just a Placebo"
 date: 2018-10-04 11:02:20
 author: John Vandivier
 ---

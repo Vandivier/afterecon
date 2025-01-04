@@ -1,5 +1,5 @@
 ---
-title: Gun Hypocrisy
+title: "Gun Hypocrisy"
 date: 2014-11-14 16:12:11
 author: John Vandivier
 ---

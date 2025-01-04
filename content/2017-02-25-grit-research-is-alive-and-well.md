@@ -1,5 +1,5 @@
 ---
-title: Grit Research is Alive and Well
+title: "Grit Research is Alive and Well"
 date: 2017-02-24 22:55:53
 author: John Vandivier
 ---

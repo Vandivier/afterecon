@@ -1,5 +1,5 @@
 ---
-title: This One Thing Happened, So Give Government Money
+title: "This One Thing Happened, So Give Government Money"
 date: 2015-05-17 00:59:08
 author: John Vandivier
 ---

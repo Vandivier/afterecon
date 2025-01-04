@@ -1,5 +1,5 @@
 ---
-title: My Top 7 Decision Making Tools
+title: "My Top 7 Decision Making Tools"
 date: 2014-11-14 16:11:00
 author: John Vandivier
 ---

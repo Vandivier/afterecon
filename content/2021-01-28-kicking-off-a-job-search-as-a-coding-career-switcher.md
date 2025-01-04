@@ -1,5 +1,5 @@
 ---
-title: Kicking off a job search as a coding career switcher
+title: "Kicking off a job search as a coding career switcher"
 date: 2021-01-27 23:36:57
 author: John Vandivier
 ---

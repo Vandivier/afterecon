@@ -1,5 +1,5 @@
 ---
-title: Business Attire as Conformity Signaling
+title: "Business Attire as Conformity Signaling"
 date: 2017-09-25 15:00:16
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: On the Plausibility of the Resurrection
+title: "On the Plausibility of the Resurrection"
 date: 2018-12-26 16:59:05
 author: John Vandivier
 ---

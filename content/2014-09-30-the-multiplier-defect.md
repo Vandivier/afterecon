@@ -1,5 +1,5 @@
 ---
-title: The Multiplier Defect
+title: "The Multiplier Defect"
 date: 2014-09-30 14:26:45
 author: John Vandivier
 ---

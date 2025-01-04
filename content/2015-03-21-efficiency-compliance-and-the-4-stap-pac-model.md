@@ -1,5 +1,5 @@
 ---
-title: Efficiency, Compliance, and the 4-Stap PAC Model
+title: "Efficiency, Compliance, and the 4-Stap PAC Model"
 date: 2015-03-20 22:20:58
 author: John Vandivier
 ---

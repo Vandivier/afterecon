@@ -1,5 +1,5 @@
 ---
-title: Seven Ways to Measure Economic Health
+title: "Seven Ways to Measure Economic Health"
 date: 2016-02-11 03:04:05
 author: John Vandivier
 ---

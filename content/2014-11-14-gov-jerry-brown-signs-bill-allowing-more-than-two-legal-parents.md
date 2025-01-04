@@ -1,5 +1,5 @@
 ---
-title: Gov. Jerry Brown signs bill allowing more than two legal parents
+title: "Gov. Jerry Brown signs bill allowing more than two legal parents"
 date: 2014-11-14 16:03:16
 author: John Vandivier
 ---

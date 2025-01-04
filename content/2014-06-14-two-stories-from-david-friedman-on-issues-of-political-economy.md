@@ -1,5 +1,5 @@
 ---
-title: Two Stories from David Friedman on Issues of Political Economy
+title: "Two Stories from David Friedman on Issues of Political Economy"
 date: 2014-06-14 16:52:43
 author: John Vandivier
 ---

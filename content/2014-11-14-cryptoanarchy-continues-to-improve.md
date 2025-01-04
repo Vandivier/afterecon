@@ -1,5 +1,5 @@
 ---
-title: CryptoAnarchy Continues to Improve
+title: "CryptoAnarchy Continues to Improve"
 date: 2014-11-14 16:04:40
 author: John Vandivier
 ---

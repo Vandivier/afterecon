@@ -1,5 +1,5 @@
 ---
-title: Could Information Be Energy?
+title: "Could Information Be Energy?"
 date: 2014-03-31 13:31:29
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Start Using Javascript for Statistics
+title: "Start Using Javascript for Statistics"
 date: 2015-05-30 17:27:17
 author: John Vandivier
 ---

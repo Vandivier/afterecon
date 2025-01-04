@@ -1,5 +1,5 @@
 ---
-title: My Thoughts on Raising Minimum Wage
+title: "My Thoughts on Raising Minimum Wage"
 date: 2014-11-14 16:11:48
 author: John Vandivier
 ---

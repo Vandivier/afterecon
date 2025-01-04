@@ -1,5 +1,5 @@
 ---
-title: Corruption and Elite Networks
+title: "Corruption and Elite Networks"
 date: 2015-04-30 06:50:54
 author: John Vandivier
 ---

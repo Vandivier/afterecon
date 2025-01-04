@@ -1,5 +1,5 @@
 ---
-title: Why Smart Employers Leverage EWW and Equity
+title: "Why Smart Employers Leverage EWW and Equity"
 date: 2018-03-08 09:33:45
 author: John Vandivier
 ---

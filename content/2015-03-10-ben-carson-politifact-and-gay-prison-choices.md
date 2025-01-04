@@ -1,5 +1,5 @@
 ---
-title: Ben Carson, Politifact, and Gay Prison Choices
+title: "Ben Carson, Politifact, and Gay Prison Choices"
 date: 2015-03-09 22:07:05
 author: John Vandivier
 ---

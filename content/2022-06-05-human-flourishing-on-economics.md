@@ -1,5 +1,5 @@
 ---
-title: Human Flourishing on Economics
+title: "Human Flourishing on Economics"
 date: 2022-06-05 13:21:44
 author: John Vandivier
 ---

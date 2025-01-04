@@ -1,5 +1,5 @@
 ---
-title: Two Key Tests for Caeconomics as a Theory
+title: "Two Key Tests for Caeconomics as a Theory"
 date: 2014-11-14 16:04:19
 author: John Vandivier
 ---

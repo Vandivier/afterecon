@@ -1,5 +1,5 @@
 ---
-title: Whatever Happened to Inflation? - Reason.com
+title: "Whatever Happened to Inflation? - Reason.com"
 date: 2014-12-01 04:04:46
 author: John Vandivier
 ---

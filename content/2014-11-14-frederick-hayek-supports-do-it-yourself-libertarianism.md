@@ -1,5 +1,5 @@
 ---
-title: Frederick Hayek Supports \"Do It Yourself\" Libertarianism
+title: "Frederick Hayek Supports \"Do It Yourself\" Libertarianism"
 date: 2014-11-14 16:05:58
 author: John Vandivier
 ---

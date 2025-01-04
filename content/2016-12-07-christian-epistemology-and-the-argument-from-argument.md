@@ -1,5 +1,5 @@
 ---
-title: Christian Epistemology and the Argument from Argument
+title: "Christian Epistemology and the Argument from Argument"
 date: 2016-12-06 19:50:06
 author: John Vandivier
 ---

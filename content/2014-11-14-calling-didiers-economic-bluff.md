@@ -1,5 +1,5 @@
 ---
-title: Calling Didier\'s Economic Bluff
+title: "Calling Didier\'s Economic Bluff"
 date: 2014-11-14 16:08:49
 author: John Vandivier
 ---

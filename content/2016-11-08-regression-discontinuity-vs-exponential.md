@@ -1,5 +1,5 @@
 ---
-title: Regression-Discontinuity vs Exponential
+title: "Regression-Discontinuity vs Exponential"
 date: 2016-11-08 14:42:43
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Benefits of Cognitive Dissonance
+title: "Benefits of Cognitive Dissonance"
 date: 2014-11-26 23:49:04
 author: John Vandivier
 ---

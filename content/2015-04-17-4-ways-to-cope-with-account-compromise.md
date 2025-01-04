@@ -1,5 +1,5 @@
 ---
-title: 4 Ways to Cope With Account Compromise
+title: "4 Ways to Cope With Account Compromise"
 date: 2015-04-17 16:23:15
 author: John Vandivier
 ---

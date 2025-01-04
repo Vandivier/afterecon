@@ -1,5 +1,5 @@
 ---
-title: Vigilante citizen arrests Uber driver
+title: "Vigilante citizen arrests Uber driver"
 date: 2014-12-05 18:19:58
 author: John Vandivier
 ---

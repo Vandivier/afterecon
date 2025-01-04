@@ -1,5 +1,5 @@
 ---
-title: Pro Coercion and Ignorance
+title: "Pro Coercion and Ignorance"
 date: 2016-12-09 16:34:02
 author: John Vandivier
 ---

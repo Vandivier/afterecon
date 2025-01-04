@@ -1,5 +1,5 @@
 ---
-title: The Intelligence Bubble: A New IT Bubble, or More?
+title: "The Intelligence Bubble: A New IT Bubble, or More?"
 date: 2015-06-02 21:39:14
 author: John Vandivier
 ---

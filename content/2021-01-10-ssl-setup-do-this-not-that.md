@@ -1,5 +1,5 @@
 ---
-title: SSL Setup: Do This, Not That
+title: "SSL Setup: Do This, Not That"
 date: 2021-01-10 11:16:15
 author: John Vandivier
 ---

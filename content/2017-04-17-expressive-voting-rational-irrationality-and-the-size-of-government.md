@@ -1,5 +1,5 @@
 ---
-title: Expressive Voting, Rational Irrationality, and the Size of Government
+title: "Expressive Voting, Rational Irrationality, and the Size of Government"
 date: 2017-04-17 15:00:41
 author: John Vandivier
 ---

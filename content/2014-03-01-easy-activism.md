@@ -1,5 +1,5 @@
 ---
-title: Easy Activism
+title: "Easy Activism"
 date: 2014-03-01 06:20:10
 author: John Vandivier
 ---

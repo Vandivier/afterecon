@@ -1,5 +1,5 @@
 ---
-title: Obfuscatable Extension as an Open Source Business Model
+title: "Obfuscatable Extension as an Open Source Business Model"
 date: 2016-01-08 16:30:12
 author: John Vandivier
 ---

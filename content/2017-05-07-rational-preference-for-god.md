@@ -1,5 +1,5 @@
 ---
-title: Rational Preference for God
+title: "Rational Preference for God"
 date: 2017-05-07 11:54:49
 author: John Vandivier
 ---

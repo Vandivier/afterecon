@@ -1,5 +1,5 @@
 ---
-title: This Pro-Christianity Video Just Survived r/atheism
+title: "This Pro-Christianity Video Just Survived r/atheism"
 date: 2016-12-07 15:00:20
 author: John Vandivier
 ---

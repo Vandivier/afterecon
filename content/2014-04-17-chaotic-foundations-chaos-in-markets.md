@@ -1,5 +1,5 @@
 ---
-title: Chaotic Foundations: Chaos in Markets
+title: "Chaotic Foundations: Chaos in Markets"
 date: 2014-04-17 05:18:20
 author: John Vandivier
 ---

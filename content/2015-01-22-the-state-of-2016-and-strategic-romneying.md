@@ -1,5 +1,5 @@
 ---
-title: The State of 2016 and Strategic Romneying
+title: "The State of 2016 and Strategic Romneying"
 date: 2015-01-22 16:19:01
 author: John Vandivier
 ---

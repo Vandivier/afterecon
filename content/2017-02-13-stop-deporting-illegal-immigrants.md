@@ -1,5 +1,5 @@
 ---
-title: Stop Deporting Illegal Immigrants
+title: "Stop Deporting Illegal Immigrants"
 date: 2017-02-12 21:32:29
 author: John Vandivier
 ---

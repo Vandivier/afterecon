@@ -1,5 +1,5 @@
 ---
-title: EQ Tactics from Six Books
+title: "EQ Tactics from Six Books"
 date: 2020-03-03 10:23:29
 author: John Vandivier
 ---

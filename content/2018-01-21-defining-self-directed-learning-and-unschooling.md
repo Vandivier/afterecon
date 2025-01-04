@@ -1,5 +1,5 @@
 ---
-title: Defining Self-Directed Learning and Unschooling
+title: "Defining Self-Directed Learning and Unschooling"
 date: 2018-01-21 17:09:30
 author: John Vandivier
 ---

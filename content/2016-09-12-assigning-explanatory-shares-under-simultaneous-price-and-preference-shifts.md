@@ -1,5 +1,5 @@
 ---
-title: Assigning Explanatory Shares Under Simultaneous Price and Preference Shifts
+title: "Assigning Explanatory Shares Under Simultaneous Price and Preference Shifts"
 date: 2016-09-12 01:19:31
 author: John Vandivier
 ---

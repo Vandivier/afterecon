@@ -1,5 +1,5 @@
 ---
-title: Criticizing Savings-Based Economic Growth
+title: "Criticizing Savings-Based Economic Growth"
 date: 2014-07-26 19:31:08
 author: John Vandivier
 ---

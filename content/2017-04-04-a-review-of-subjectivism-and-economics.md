@@ -1,5 +1,5 @@
 ---
-title: A Review of Subjectivism and Economics
+title: "A Review of Subjectivism and Economics"
 date: 2017-04-03 20:08:10
 author: John Vandivier
 ---

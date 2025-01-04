@@ -1,5 +1,5 @@
 ---
-title: 5 Ways to Properly Cite Wikipedia and Dynamic Information Sources
+title: "5 Ways to Properly Cite Wikipedia and Dynamic Information Sources"
 date: 2014-11-14 16:08:46
 author: John Vandivier
 ---

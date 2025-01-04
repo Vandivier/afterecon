@@ -1,5 +1,5 @@
 ---
-title: Legal Discretion Creates Incentives
+title: "Legal Discretion Creates Incentives"
 date: 2014-12-31 22:38:48
 author: John Vandivier
 ---

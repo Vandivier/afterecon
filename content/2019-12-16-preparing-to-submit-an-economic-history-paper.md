@@ -1,5 +1,5 @@
 ---
-title: Preparing to Submit an Economic History Paper
+title: "Preparing to Submit an Economic History Paper"
 date: 2019-12-15 22:00:39
 author: John Vandivier
 ---

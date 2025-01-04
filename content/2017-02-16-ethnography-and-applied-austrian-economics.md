@@ -1,5 +1,5 @@
 ---
-title: Ethnography and Applied Austrian Economics
+title: "Ethnography and Applied Austrian Economics"
 date: 2017-02-16 00:59:25
 author: John Vandivier
 ---

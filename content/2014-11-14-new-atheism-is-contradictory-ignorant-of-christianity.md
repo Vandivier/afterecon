@@ -1,5 +1,5 @@
 ---
-title: New Atheism Is Contradictory, Ignorant of Christianity
+title: "New Atheism Is Contradictory, Ignorant of Christianity"
 date: 2014-11-14 16:08:22
 author: John Vandivier
 ---

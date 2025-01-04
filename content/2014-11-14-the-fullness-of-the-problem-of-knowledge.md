@@ -1,5 +1,5 @@
 ---
-title: The Fullness of the Problem of Knowledge
+title: "The Fullness of the Problem of Knowledge"
 date: 2014-11-14 16:02:47
 author: John Vandivier
 ---

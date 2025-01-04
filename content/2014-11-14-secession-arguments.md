@@ -1,5 +1,5 @@
 ---
-title: Secession Arguments
+title: "Secession Arguments"
 date: 2014-11-14 16:03:13
 author: John Vandivier
 ---

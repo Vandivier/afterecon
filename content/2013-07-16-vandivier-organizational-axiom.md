@@ -1,5 +1,5 @@
 ---
-title: Vandivier Organizational Axiom
+title: "Vandivier Organizational Axiom"
 date: 2013-07-16 16:07:10
 author: John Vandivier
 ---

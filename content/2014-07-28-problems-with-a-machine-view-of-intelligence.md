@@ -1,5 +1,5 @@
 ---
-title: Problems With a Machine View of Intelligence
+title: "Problems With a Machine View of Intelligence"
 date: 2014-07-28 03:47:28
 author: John Vandivier
 ---

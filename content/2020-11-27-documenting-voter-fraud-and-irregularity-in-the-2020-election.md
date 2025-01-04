@@ -1,5 +1,5 @@
 ---
-title: Documenting Voter Fraud and Irregularity in the 2020 Election
+title: "Documenting Voter Fraud and Irregularity in the 2020 Election"
 date: 2020-11-27 14:08:08
 author: John Vandivier
 ---

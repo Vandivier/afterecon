@@ -1,5 +1,5 @@
 ---
-title: Re: Still Not the Anarchists Cookbook
+title: "Re: Still Not the Anarchists Cookbook"
 date: 2014-02-03 06:51:10
 author: John Vandivier
 ---

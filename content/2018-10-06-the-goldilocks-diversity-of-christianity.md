@@ -1,5 +1,5 @@
 ---
-title: The Goldilocks Diversity of Christianity
+title: "The Goldilocks Diversity of Christianity"
 date: 2018-10-06 14:56:14
 author: John Vandivier
 ---

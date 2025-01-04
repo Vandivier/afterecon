@@ -1,5 +1,5 @@
 ---
-title: Elasticity of Belief and Presuppositional Economics
+title: "Elasticity of Belief and Presuppositional Economics"
 date: 2014-09-19 13:47:38
 author: John Vandivier
 ---

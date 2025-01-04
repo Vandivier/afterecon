@@ -1,5 +1,5 @@
 ---
-title: Why Use Slack or HipChat?
+title: "Why Use Slack or HipChat?"
 date: 2016-04-16 21:50:10
 author: John Vandivier
 ---

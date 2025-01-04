@@ -1,5 +1,5 @@
 ---
-title: Ted Shoebat on Taliban Peace Talks - Table of Contents and Condensed Interview
+title: "Ted Shoebat on Taliban Peace Talks - Table of Contents and Condensed Interview"
 date: 2014-11-14 16:08:11
 author: John Vandivier
 ---

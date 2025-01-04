@@ -1,5 +1,5 @@
 ---
-title: Research Skills
+title: "Research Skills"
 date: 2014-07-27 04:32:17
 author: John Vandivier
 ---

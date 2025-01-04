@@ -1,5 +1,5 @@
 ---
-title: Computational vs Economic Efficiency
+title: "Computational vs Economic Efficiency"
 date: 2015-06-29 03:01:36
 author: John Vandivier
 ---

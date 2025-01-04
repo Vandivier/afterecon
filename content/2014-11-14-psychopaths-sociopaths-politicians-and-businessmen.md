@@ -1,5 +1,5 @@
 ---
-title: Psychopaths, Sociopaths, Politicians and Businessmen
+title: "Psychopaths, Sociopaths, Politicians and Businessmen"
 date: 2014-11-14 16:03:29
 author: John Vandivier
 ---

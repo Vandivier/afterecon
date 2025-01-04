@@ -1,5 +1,5 @@
 ---
-title: Police are the New Taxi Drivers
+title: "Police are the New Taxi Drivers"
 date: 2015-01-29 06:20:09
 author: John Vandivier
 ---

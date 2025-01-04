@@ -1,5 +1,5 @@
 ---
-title: About After Economics
+title: "About After Economics"
 date: 2023-09-30 21:22:33
 author: John Vandivier
 ---

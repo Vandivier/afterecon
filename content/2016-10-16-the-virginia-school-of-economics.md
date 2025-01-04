@@ -1,5 +1,5 @@
 ---
-title: The Virginia School of Economics
+title: "The Virginia School of Economics"
 date: 2016-10-16 19:06:00
 author: John Vandivier
 ---

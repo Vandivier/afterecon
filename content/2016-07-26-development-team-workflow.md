@@ -1,5 +1,5 @@
 ---
-title: Development Team Workflow
+title: "Development Team Workflow"
 date: 2016-07-26 14:19:56
 author: John Vandivier
 ---

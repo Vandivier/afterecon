@@ -1,5 +1,5 @@
 ---
-title: Sye and Election
+title: "Sye and Election"
 date: 2015-12-20 23:10:39
 author: John Vandivier
 ---

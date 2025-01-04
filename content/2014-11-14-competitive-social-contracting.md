@@ -1,5 +1,5 @@
 ---
-title: Competitive Social Contracting
+title: "Competitive Social Contracting"
 date: 2014-11-14 16:05:27
 author: John Vandivier
 ---

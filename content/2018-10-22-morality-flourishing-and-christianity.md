@@ -1,5 +1,5 @@
 ---
-title: Morality, Flourishing, and Christianity
+title: "Morality, Flourishing, and Christianity"
 date: 2018-10-22 14:24:34
 author: John Vandivier
 ---

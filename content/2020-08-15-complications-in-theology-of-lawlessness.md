@@ -1,5 +1,5 @@
 ---
-title: Complications in Theology of Lawlessness
+title: "Complications in Theology of Lawlessness"
 date: 2020-08-15 17:05:06
 author: John Vandivier
 ---

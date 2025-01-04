@@ -1,5 +1,5 @@
 ---
-title: 1/22/21 - Release Radar Favorites
+title: "1/22/21 - Release Radar Favorites"
 date: 2021-01-22 22:24:59
 author: John Vandivier
 ---

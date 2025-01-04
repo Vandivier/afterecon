@@ -1,5 +1,5 @@
 ---
-title: Why Redistribution Results in a Weak Economy
+title: "Why Redistribution Results in a Weak Economy"
 date: 2013-12-12 14:26:04
 author: John Vandivier
 ---

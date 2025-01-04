@@ -1,5 +1,5 @@
 ---
-title: Steve Lonegan - Defining Conservatism With The New Jersey Conservative!
+title: "Steve Lonegan - Defining Conservatism With The New Jersey Conservative!"
 date: 2014-11-14 16:09:21
 author: John Vandivier
 ---

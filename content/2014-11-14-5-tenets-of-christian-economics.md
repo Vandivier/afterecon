@@ -1,5 +1,5 @@
 ---
-title: 5 Tenets of Christian Economics
+title: "5 Tenets of Christian Economics"
 date: 2014-11-14 16:10:47
 author: John Vandivier
 ---

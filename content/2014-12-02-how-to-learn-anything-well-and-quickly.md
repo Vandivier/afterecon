@@ -1,5 +1,5 @@
 ---
-title: How to Learn Anything Well and Quickly
+title: "How to Learn Anything Well and Quickly"
 date: 2014-12-02 18:25:20
 author: John Vandivier
 ---

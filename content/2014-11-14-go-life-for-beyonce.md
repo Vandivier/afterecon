@@ -1,5 +1,5 @@
 ---
-title: Go Life For Beyonce
+title: "Go Life For Beyonce"
 date: 2014-11-14 16:11:55
 author: John Vandivier
 ---

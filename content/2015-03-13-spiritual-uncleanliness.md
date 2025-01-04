@@ -1,5 +1,5 @@
 ---
-title: Spiritual Uncleanliness
+title: "Spiritual Uncleanliness"
 date: 2015-03-13 15:41:00
 author: John Vandivier
 ---

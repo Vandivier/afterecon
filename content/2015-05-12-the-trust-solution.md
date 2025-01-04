@@ -1,5 +1,5 @@
 ---
-title: The Trust Solution
+title: "The Trust Solution"
 date: 2015-05-11 21:18:17
 author: John Vandivier
 ---

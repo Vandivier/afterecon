@@ -1,5 +1,5 @@
 ---
-title: The Underappreciation of Small Sample Sizes
+title: "The Underappreciation of Small Sample Sizes"
 date: 2014-12-14 03:22:12
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 3 Ways Google Says Education Changing
+title: "3 Ways Google Says Education Changing"
 date: 2014-11-14 16:08:55
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Business Value in an Angular Upgrade
+title: "The Business Value in an Angular Upgrade"
 date: 2019-07-23 16:02:27
 author: John Vandivier
 ---

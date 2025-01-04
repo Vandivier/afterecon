@@ -1,5 +1,5 @@
 ---
-title: Another Exception to the Law of Demand
+title: "Another Exception to the Law of Demand"
 date: 2015-09-09 01:15:28
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Criminal Investigation and Intelligent Design
+title: "Criminal Investigation and Intelligent Design"
 date: 2015-06-05 18:28:15
 author: John Vandivier
 ---

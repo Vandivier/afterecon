@@ -1,5 +1,5 @@
 ---
-title: Ancap Public Policies
+title: "Ancap Public Policies"
 date: 2015-06-17 11:46:24
 author: John Vandivier
 ---

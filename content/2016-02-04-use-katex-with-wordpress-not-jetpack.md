@@ -1,5 +1,5 @@
 ---
-title: Use KaTeX with WordPress - Not JetPack
+title: "Use KaTeX with WordPress - Not JetPack"
 date: 2016-02-04 03:16:36
 author: John Vandivier
 ---

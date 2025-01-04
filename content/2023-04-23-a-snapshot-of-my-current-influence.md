@@ -1,5 +1,5 @@
 ---
-title: A Snapshot of My Current Influence
+title: "A Snapshot of My Current Influence"
 date: 2023-04-23 16:16:24
 author: John Vandivier
 ---

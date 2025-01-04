@@ -1,5 +1,5 @@
 ---
-title: Bryan Fischer: ObamaCare Threatens Homeschooling
+title: "Bryan Fischer: ObamaCare Threatens Homeschooling"
 date: 2014-11-14 16:06:08
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Some Quick Bullets on Property Rights
+title: "Some Quick Bullets on Property Rights"
 date: 2016-09-17 14:00:20
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Panpsychism and Classical Theism
+title: "Panpsychism and Classical Theism"
 date: 2023-10-14 17:43:42
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ecological Rationality Matters
+title: "Ecological Rationality Matters"
 date: 2017-01-30 15:00:29
 author: John Vandivier
 ---

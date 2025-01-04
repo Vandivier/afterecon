@@ -1,5 +1,5 @@
 ---
-title: Commoditized Votes and Vote Contracts
+title: "Commoditized Votes and Vote Contracts"
 date: 2016-01-02 20:30:33
 author: John Vandivier
 ---

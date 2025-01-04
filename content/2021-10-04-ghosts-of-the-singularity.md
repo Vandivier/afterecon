@@ -1,5 +1,5 @@
 ---
-title: Ghosts of the Singularity
+title: "Ghosts of the Singularity"
 date: 2021-10-04 14:24:51
 author: John Vandivier
 ---

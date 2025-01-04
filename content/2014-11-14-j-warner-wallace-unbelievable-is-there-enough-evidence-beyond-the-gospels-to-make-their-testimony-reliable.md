@@ -1,5 +1,5 @@
 ---
-title: J. Warner Wallace: Unbelievable? Is There Enough Evidence Beyond the Gospels to Make Their Testimony Reliable?
+title: "J. Warner Wallace: Unbelievable? Is There Enough Evidence Beyond the Gospels to Make Their Testimony Reliable?"
 date: 2014-11-14 16:05:44
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Lessons from Dinner With J Warner Wallace
+title: "Lessons from Dinner With J Warner Wallace"
 date: 2014-11-14 16:11:17
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: An Update on the Litecoin Explosion
+title: "An Update on the Litecoin Explosion"
 date: 2014-11-14 16:10:20
 author: John Vandivier
 ---

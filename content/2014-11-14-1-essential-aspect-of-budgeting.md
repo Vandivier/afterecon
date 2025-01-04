@@ -1,5 +1,5 @@
 ---
-title: 1 Essential Aspect of Budgeting
+title: "1 Essential Aspect of Budgeting"
 date: 2014-11-14 16:03:46
 author: John Vandivier
 ---

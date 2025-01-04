@@ -1,5 +1,5 @@
 ---
-title: How to Monetize Any Text Platform
+title: "How to Monetize Any Text Platform"
 date: 2014-11-14 16:11:04
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Republican Party Is Gaining Ground With Minorities! | youngblkrepub\'s Blog
+title: "The Republican Party Is Gaining Ground With Minorities! | youngblkrepub\'s Blog"
 date: 2014-11-21 23:28:24
 author: John Vandivier
 ---

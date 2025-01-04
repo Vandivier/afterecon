@@ -1,5 +1,5 @@
 ---
-title: Defining Conservative Economics
+title: "Defining Conservative Economics"
 date: 2014-11-14 16:02:59
 author: John Vandivier
 ---

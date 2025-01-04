@@ -1,5 +1,5 @@
 ---
-title: The SBF EA Red Herring
+title: "The SBF EA Red Herring"
 date: 2023-03-26 14:26:14
 author: John Vandivier
 ---

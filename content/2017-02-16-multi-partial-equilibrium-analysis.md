@@ -1,5 +1,5 @@
 ---
-title: Multi-Partial Equilibrium Analysis
+title: "Multi-Partial Equilibrium Analysis"
 date: 2017-02-16 00:08:23
 author: John Vandivier
 ---

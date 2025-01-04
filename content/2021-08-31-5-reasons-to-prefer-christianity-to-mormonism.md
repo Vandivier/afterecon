@@ -1,5 +1,5 @@
 ---
-title: 5 Reasons to Prefer Christianity to Mormonism
+title: "5 Reasons to Prefer Christianity to Mormonism"
 date: 2021-08-30 21:45:50
 author: John Vandivier
 ---

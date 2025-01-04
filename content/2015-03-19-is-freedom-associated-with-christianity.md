@@ -1,5 +1,5 @@
 ---
-title: Is Freedom Associated with Christianity
+title: "Is Freedom Associated with Christianity"
 date: 2015-03-19 14:44:42
 author: John Vandivier
 ---

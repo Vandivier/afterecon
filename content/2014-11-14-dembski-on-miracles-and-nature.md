@@ -1,5 +1,5 @@
 ---
-title: Dembski on Miracles and Nature
+title: "Dembski on Miracles and Nature"
 date: 2014-11-14 16:09:53
 author: John Vandivier
 ---

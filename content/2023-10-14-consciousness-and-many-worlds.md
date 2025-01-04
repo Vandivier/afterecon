@@ -1,5 +1,5 @@
 ---
-title: Consciousness and Many Worlds
+title: "Consciousness and Many Worlds"
 date: 2023-10-14 16:04:58
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 7 Techniques to Conceptual Engineering
+title: "7 Techniques to Conceptual Engineering"
 date: 2015-05-28 03:53:07
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Further Against Logarithmic Transformation
+title: "Further Against Logarithmic Transformation"
 date: 2015-10-27 13:04:45
 author: John Vandivier
 ---

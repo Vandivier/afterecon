@@ -1,5 +1,5 @@
 ---
-title: Ted Shoebat on Taliban-USA Peace Talks
+title: "Ted Shoebat on Taliban-USA Peace Talks"
 date: 2014-11-14 16:08:17
 author: John Vandivier
 ---

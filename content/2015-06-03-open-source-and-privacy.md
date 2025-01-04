@@ -1,5 +1,5 @@
 ---
-title: Open Source and Privacy
+title: "Open Source and Privacy"
 date: 2015-06-03 01:28:46
 author: John Vandivier
 ---

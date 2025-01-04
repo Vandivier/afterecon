@@ -1,5 +1,5 @@
 ---
-title: Quickly Showing that God Exists
+title: "Quickly Showing that God Exists"
 date: 2018-08-16 08:35:34
 author: John Vandivier
 ---

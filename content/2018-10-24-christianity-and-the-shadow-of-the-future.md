@@ -1,5 +1,5 @@
 ---
-title: Christianity and the Shadow of the Future
+title: "Christianity and the Shadow of the Future"
 date: 2018-10-23 23:42:56
 author: John Vandivier
 ---

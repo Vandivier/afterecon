@@ -1,5 +1,5 @@
 ---
-title: Municipal Bonds and the Cost of Sovereignty
+title: "Municipal Bonds and the Cost of Sovereignty"
 date: 2014-11-06 02:51:46
 author: John Vandivier
 ---

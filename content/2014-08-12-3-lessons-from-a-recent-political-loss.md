@@ -1,5 +1,5 @@
 ---
-title: 3 Lessons from a Recent Political Loss
+title: "3 Lessons from a Recent Political Loss"
 date: 2014-08-11 23:18:39
 author: John Vandivier
 ---

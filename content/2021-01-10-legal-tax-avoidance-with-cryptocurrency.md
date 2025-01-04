@@ -1,5 +1,5 @@
 ---
-title: Legal Tax Avoidance with Cryptocurrency
+title: "Legal Tax Avoidance with Cryptocurrency"
 date: 2021-01-10 12:45:47
 author: John Vandivier
 ---

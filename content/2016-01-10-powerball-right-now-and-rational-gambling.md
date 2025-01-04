@@ -1,5 +1,5 @@
 ---
-title: Powerball Right Now and Rational Gambling
+title: "Powerball Right Now and Rational Gambling"
 date: 2016-01-10 18:55:35
 author: John Vandivier
 ---

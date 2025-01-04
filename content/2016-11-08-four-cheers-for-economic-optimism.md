@@ -1,5 +1,5 @@
 ---
-title: Four Cheers for Economic Optimism
+title: "Four Cheers for Economic Optimism"
 date: 2016-11-08 14:51:14
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fact Checking Cabot Phillips on Dat Micky Deez
+title: "Fact Checking Cabot Phillips on Dat Micky Deez"
 date: 2018-09-03 15:54:41
 author: John Vandivier
 ---

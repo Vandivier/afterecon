@@ -1,5 +1,5 @@
 ---
-title: Focus, Please
+title: "Focus, Please"
 date: 2014-04-16 17:47:53
 author: John Vandivier
 ---

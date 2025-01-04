@@ -1,5 +1,5 @@
 ---
-title: Arbitrary Morality is Intuitive
+title: "Arbitrary Morality is Intuitive"
 date: 2020-10-14 22:31:32
 author: John Vandivier
 ---

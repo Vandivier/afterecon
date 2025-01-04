@@ -1,5 +1,5 @@
 ---
-title: Preparing to Submit a Short Experimental Paper
+title: "Preparing to Submit a Short Experimental Paper"
 date: 2020-01-26 14:59:34
 author: John Vandivier
 ---

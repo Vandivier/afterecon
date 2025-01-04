@@ -1,5 +1,5 @@
 ---
-title: Contra Flattening the Curve: Epidemiology vs Economics
+title: "Contra Flattening the Curve: Epidemiology vs Economics"
 date: 2020-04-02 18:51:26
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Supplementing Pascal
+title: "Supplementing Pascal"
 date: 2017-03-30 15:45:20
 author: John Vandivier
 ---

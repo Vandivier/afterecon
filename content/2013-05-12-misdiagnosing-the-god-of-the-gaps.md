@@ -1,5 +1,5 @@
 ---
-title: Misdiagnosing the God of the Gaps
+title: "Misdiagnosing the God of the Gaps"
 date: 2013-05-12 16:09:46
 author: John Vandivier
 ---

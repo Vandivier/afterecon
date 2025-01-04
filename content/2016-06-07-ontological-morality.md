@@ -1,5 +1,5 @@
 ---
-title: Ontological Morality
+title: "Ontological Morality"
 date: 2016-06-07 02:06:20
 author: John Vandivier
 ---

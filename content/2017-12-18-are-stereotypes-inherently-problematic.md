@@ -1,5 +1,5 @@
 ---
-title: Are Stereotypes Inherently Problematic?
+title: "Are Stereotypes Inherently Problematic?"
 date: 2017-12-17 22:19:31
 author: John Vandivier
 ---

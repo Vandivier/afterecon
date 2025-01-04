@@ -1,5 +1,5 @@
 ---
-title: CAE Interpretive Proof - Traditional Marriage (1/2, Right-Handed Proof)
+title: "CAE Interpretive Proof - Traditional Marriage (1/2, Right-Handed Proof)"
 date: 2014-11-14 16:13:06
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 3 Christian Anarchist Lessons from 1 Samuel 12
+title: "3 Christian Anarchist Lessons from 1 Samuel 12"
 date: 2015-06-09 04:15:15
 author: John Vandivier
 ---

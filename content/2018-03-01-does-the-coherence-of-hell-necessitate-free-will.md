@@ -1,5 +1,5 @@
 ---
-title: Does the Coherence of Hell Necessitate Free Will?
+title: "Does the Coherence of Hell Necessitate Free Will?"
 date: 2018-03-01 12:14:14
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Brackets > Atom
+title: "Brackets > Atom"
 date: 2017-04-16 14:24:03
 author: John Vandivier
 ---

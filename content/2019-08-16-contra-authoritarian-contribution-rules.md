@@ -1,5 +1,5 @@
 ---
-title: Contra Authoritarian Contribution Rules
+title: "Contra Authoritarian Contribution Rules"
 date: 2019-08-16 12:59:00
 author: John Vandivier
 ---

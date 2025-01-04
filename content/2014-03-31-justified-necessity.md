@@ -1,5 +1,5 @@
 ---
-title: Justified Necessity
+title: "Justified Necessity"
 date: 2014-03-31 13:36:42
 author: John Vandivier
 ---

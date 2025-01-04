@@ -1,5 +1,5 @@
 ---
-title: How Voluntaryists Claim Enforcement Would Work
+title: "How Voluntaryists Claim Enforcement Would Work"
 date: 2014-11-14 16:04:06
 author: John Vandivier
 ---

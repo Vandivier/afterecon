@@ -1,5 +1,5 @@
 ---
-title: Price Gouging and Morality
+title: "Price Gouging and Morality"
 date: 2015-09-03 22:59:47
 author: John Vandivier
 ---

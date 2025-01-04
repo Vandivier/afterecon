@@ -1,5 +1,5 @@
 ---
-title: Statistics Evolved
+title: "Statistics Evolved"
 date: 2013-11-09 16:40:00
 author: John Vandivier
 ---

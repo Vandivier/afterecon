@@ -1,5 +1,5 @@
 ---
-title: The Independent Effect of Education on Christianity
+title: "The Independent Effect of Education on Christianity"
 date: 2017-05-25 15:00:25
 author: John Vandivier
 ---

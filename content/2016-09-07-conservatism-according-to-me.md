@@ -1,5 +1,5 @@
 ---
-title: Conservatism According to Me
+title: "Conservatism According to Me"
 date: 2016-09-07 10:00:35
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: How Extreme are Nonvoters?
+title: "How Extreme are Nonvoters?"
 date: 2019-05-04 12:31:39
 author: John Vandivier
 ---

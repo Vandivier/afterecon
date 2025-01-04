@@ -1,5 +1,5 @@
 ---
-title: Caeconomics and Self-Ownership are Incompatible
+title: "Caeconomics and Self-Ownership are Incompatible"
 date: 2014-11-14 16:04:09
 author: John Vandivier
 ---

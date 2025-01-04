@@ -1,5 +1,5 @@
 ---
-title: Huemer v Plantiga
+title: "Huemer v Plantiga"
 date: 2018-10-01 12:30:23
 author: John Vandivier
 ---

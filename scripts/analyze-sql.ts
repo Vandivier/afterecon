@@ -42,7 +42,7 @@ try {
 // Create map of existing posts by title for easy lookup
 const existingPostsByTitle = new Map<string, Post>();
 existingPosts.forEach((post) => {
-  existingPostsByTitle.set(post.title, post);
+  existingPostsByTitle.set(normalizeTitle(post.title), post);
 });
 
 const existingPostsById = new Map<number, Post>();
@@ -75,7 +75,9 @@ lines.forEach((line) => {
     isPublished ? "', 'publish', '" : "', 'inherit', '"
   )[0];
   const titleParts = beforeStatus.split("', '");
-  const title = titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "");
+  const title = normalizeTitle(
+    titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "")
+  );
 
   // Extract post date (third element when splitting by comma)
   const parts = line.split(",");
@@ -106,8 +108,12 @@ const legacyPosts: LegacyPost[] = JSON.parse(
   fs.readFileSync(legacyPath, "utf8")
 );
 
-const newTitles = new Set(Array.from(titleToPost.values()).map((p) => p.title));
-const missingTitles = legacyPosts.filter((p) => !newTitles.has(p.title));
+const newTitles = new Set(
+  Array.from(titleToPost.values()).map((p) => normalizeTitle(p.title))
+);
+const missingTitles = legacyPosts.filter(
+  (p) => !newTitles.has(normalizeTitle(p.title))
+);
 
 // Merge missing legacy posts into uniquePosts
 missingTitles.forEach((legacyPost) => {
@@ -118,11 +124,13 @@ missingTitles.forEach((legacyPost) => {
     postDate: legacyPost.date,
     content: legacyPost.content,
     // Check if we have existing data for this title
-    ...(existingPostsByTitle.get(legacyPost.title)
+    ...(existingPostsByTitle.get(normalizeTitle(legacyPost.title))
       ? {
-          originalPostDate: existingPostsByTitle.get(legacyPost.title)!
-            .originalPostDate,
-          ignore: existingPostsByTitle.get(legacyPost.title)!.ignore,
+          originalPostDate: existingPostsByTitle.get(
+            normalizeTitle(legacyPost.title)
+          )!.originalPostDate,
+          ignore: existingPostsByTitle.get(normalizeTitle(legacyPost.title))!
+            .ignore,
         }
       : {}),
   };
@@ -179,7 +187,9 @@ postsWithContent.forEach((post) => {
 // When writing final output, merge with existing data
 const mergedPosts = Array.from(titleToPost.values()).map((post) => {
   const existingPostById = existingPostsById.get(post.postId);
-  const existingPostByTitle = existingPostsByTitle.get(post.title);
+  const existingPostByTitle = existingPostsByTitle.get(
+    normalizeTitle(post.title)
+  );
 
   if (existingPostById) {
     // If we have a matching postId, keep existing title but update content
@@ -189,14 +199,16 @@ const mergedPosts = Array.from(titleToPost.values()).map((post) => {
       title: existingPostById.title, // Keep existing title
       originalPostDate: existingPostById.originalPostDate,
       ignore: existingPostById.ignore,
+      postId: post.postId || existingPostById.postId, // Keep non-zero postId
     };
-  } else if (existingPostByTitle) {
-    // Fall back to title matching if no postId match
+  } else if (existingPostByTitle && post.postId === 0) {
+    // Only fall back to title matching if current post has no real postId
     return {
       ...existingPostByTitle,
       ...post,
       originalPostDate: existingPostByTitle.originalPostDate,
       ignore: existingPostByTitle.ignore,
+      postId: existingPostByTitle.postId || post.postId, // Keep non-zero postId
     };
   }
   return post;
@@ -224,4 +236,8 @@ if (postsWithoutContent.length > 0) {
     `\nWARNING: ${postsWithoutContent.length} posts have no content and are not ignored:`
   );
   postsWithoutContent.forEach((p) => console.log(`- [${p.postId}] ${p.title}`));
+}
+
+function normalizeTitle(title: string): string {
+  return title.replace(/\\'/g, "'");
 }

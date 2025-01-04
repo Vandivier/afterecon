@@ -1,5 +1,5 @@
 ---
-title: The Free Market is the Democratic Republic
+title: "The Free Market is the Democratic Republic"
 date: 2014-12-18 15:42:24
 author: John Vandivier
 ---

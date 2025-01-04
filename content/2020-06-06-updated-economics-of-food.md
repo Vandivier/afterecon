@@ -1,5 +1,5 @@
 ---
-title: Updated Economics of Food
+title: "Updated Economics of Food"
 date: 2020-06-06 16:29:58
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 200 Point Business Checklist
+title: "200 Point Business Checklist"
 date: 2014-11-10 14:29:18
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Pros and Cons of Aggregate Terms in Advancing Particular Theory
+title: "Pros and Cons of Aggregate Terms in Advancing Particular Theory"
 date: 2016-10-25 15:00:42
 author: John Vandivier
 ---

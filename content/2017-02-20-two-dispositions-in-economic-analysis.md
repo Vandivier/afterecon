@@ -1,5 +1,5 @@
 ---
-title: Two Dispositions in Economic Analysis
+title: "Two Dispositions in Economic Analysis"
 date: 2017-02-20 15:00:21
 author: John Vandivier
 ---

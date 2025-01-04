@@ -1,5 +1,5 @@
 ---
-title: Faith, Trust, and Confidence in Religion and Science
+title: "Faith, Trust, and Confidence in Religion and Science"
 date: 2015-11-01 23:41:26
 author: John Vandivier
 ---

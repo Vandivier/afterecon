@@ -1,5 +1,5 @@
 ---
-title: The 9 Most Important States for Entrepreneurship
+title: "The 9 Most Important States for Entrepreneurship"
 date: 2016-04-09 23:14:59
 author: John Vandivier
 ---

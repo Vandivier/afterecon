@@ -1,5 +1,5 @@
 ---
-title: Relating Conservatisms
+title: "Relating Conservatisms"
 date: 2015-05-15 03:03:38
 author: John Vandivier
 ---

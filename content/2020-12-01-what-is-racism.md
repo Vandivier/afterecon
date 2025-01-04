@@ -1,5 +1,5 @@
 ---
-title: What is Racism?
+title: "What is Racism?"
 date: 2020-11-30 23:38:11
 author: John Vandivier
 ---

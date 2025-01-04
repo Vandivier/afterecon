@@ -1,5 +1,5 @@
 ---
-title: Updating a Paper on Perceived Skill Gaps
+title: "Updating a Paper on Perceived Skill Gaps"
 date: 2020-08-19 22:02:35
 author: John Vandivier
 ---

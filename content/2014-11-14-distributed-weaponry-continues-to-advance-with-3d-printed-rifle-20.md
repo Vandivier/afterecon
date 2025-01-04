@@ -1,5 +1,5 @@
 ---
-title: Distributed Weaponry Continues to Advance With 3D Printed Rifle 2.0
+title: "Distributed Weaponry Continues to Advance With 3D Printed Rifle 2.0"
 date: 2014-11-14 16:06:18
 author: John Vandivier
 ---

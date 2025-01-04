@@ -1,5 +1,5 @@
 ---
-title: Sufficiency Development
+title: "Sufficiency Development"
 date: 2015-05-29 22:40:16
 author: John Vandivier
 ---

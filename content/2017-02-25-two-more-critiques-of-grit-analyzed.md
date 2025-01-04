@@ -1,5 +1,5 @@
 ---
-title: Two More Critiques of Grit Analyzed
+title: "Two More Critiques of Grit Analyzed"
 date: 2017-02-24 23:40:46
 author: John Vandivier
 ---

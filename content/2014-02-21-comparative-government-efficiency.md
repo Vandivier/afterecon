@@ -1,5 +1,5 @@
 ---
-title: Comparative Government Efficiency
+title: "Comparative Government Efficiency"
 date: 2014-02-21 16:07:47
 author: John Vandivier
 ---

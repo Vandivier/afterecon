@@ -1,5 +1,5 @@
 ---
-title: Grounding AllSides.com
+title: "Grounding AllSides.com"
 date: 2014-04-10 01:35:25
 author: John Vandivier
 ---

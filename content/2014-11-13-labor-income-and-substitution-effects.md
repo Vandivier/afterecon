@@ -1,5 +1,5 @@
 ---
-title: Labor Income and Substitution Effects
+title: "Labor Income and Substitution Effects"
 date: 2014-11-13 02:48:06
 author: John Vandivier
 ---

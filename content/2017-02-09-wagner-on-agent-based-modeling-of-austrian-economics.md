@@ -1,5 +1,5 @@
 ---
-title: Wagner on Agent Based Modeling of Austrian Economics
+title: "Wagner on Agent Based Modeling of Austrian Economics"
 date: 2017-02-09 15:00:49
 author: John Vandivier
 ---

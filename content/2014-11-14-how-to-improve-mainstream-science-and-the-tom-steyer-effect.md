@@ -1,5 +1,5 @@
 ---
-title: How To Improve Mainstream Science and the Tom Steyer Effect
+title: "How To Improve Mainstream Science and the Tom Steyer Effect"
 date: 2014-11-14 16:03:49
 author: John Vandivier
 ---

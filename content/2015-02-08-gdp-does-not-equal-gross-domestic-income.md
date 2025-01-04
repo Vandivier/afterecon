@@ -1,5 +1,5 @@
 ---
-title: GDP Does not Equal Gross Domestic Income
+title: "GDP Does not Equal Gross Domestic Income"
 date: 2015-02-07 21:13:01
 author: John Vandivier
 ---

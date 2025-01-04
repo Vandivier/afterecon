@@ -1,5 +1,5 @@
 ---
-title: Exciting News and New Website!
+title: "Exciting News and New Website!"
 date: 2014-11-14 16:02:33
 author: John Vandivier
 ---

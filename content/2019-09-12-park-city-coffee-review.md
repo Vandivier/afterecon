@@ -1,5 +1,5 @@
 ---
-title: Park City Coffee Review
+title: "Park City Coffee Review"
 date: 2019-09-12 14:24:06
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Forget 2016, In 2020 Adam Kokesh Wants to Abolish the US, Run for President
+title: "Forget 2016, In 2020 Adam Kokesh Wants to Abolish the US, Run for President"
 date: 2014-11-14 16:05:51
 author: John Vandivier
 ---

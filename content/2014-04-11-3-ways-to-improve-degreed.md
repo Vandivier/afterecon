@@ -1,5 +1,5 @@
 ---
-title: 3 Ways to Improve Degreed
+title: "3 Ways to Improve Degreed"
 date: 2014-04-11 04:35:38
 author: John Vandivier
 ---

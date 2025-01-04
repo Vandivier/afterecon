@@ -1,5 +1,5 @@
 ---
-title: 5 Elements of an Advanced Campaign Plan
+title: "5 Elements of an Advanced Campaign Plan"
 date: 2015-03-24 04:04:20
 author: John Vandivier
 ---

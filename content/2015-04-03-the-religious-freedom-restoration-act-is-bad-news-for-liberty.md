@@ -1,5 +1,5 @@
 ---
-title: The Religious Freedom Restoration Act is Bad News for Liberty
+title: "The Religious Freedom Restoration Act is Bad News for Liberty"
 date: 2015-04-02 20:28:16
 author: John Vandivier
 ---

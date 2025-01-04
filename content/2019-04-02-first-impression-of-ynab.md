@@ -1,5 +1,5 @@
 ---
-title: First Impression of YNAB
+title: "First Impression of YNAB"
 date: 2019-04-01 23:14:09
 author: John Vandivier
 ---

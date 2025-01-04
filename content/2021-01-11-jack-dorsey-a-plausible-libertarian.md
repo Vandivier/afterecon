@@ -1,5 +1,5 @@
 ---
-title: Jack Dorsey, a Plausible Libertarian
+title: "Jack Dorsey, a Plausible Libertarian"
 date: 2021-01-10 20:42:27
 author: John Vandivier
 ---

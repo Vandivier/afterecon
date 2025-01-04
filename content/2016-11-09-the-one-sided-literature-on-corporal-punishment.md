@@ -1,5 +1,5 @@
 ---
-title: The One-Sided Literature on Corporal Punishment
+title: "The One-Sided Literature on Corporal Punishment"
 date: 2016-11-09 00:46:33
 author: John Vandivier
 ---

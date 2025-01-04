@@ -1,5 +1,5 @@
 ---
-title: BibTex Troubleshooting
+title: "BibTex Troubleshooting"
 date: 2020-02-02 12:31:37
 author: John Vandivier
 ---

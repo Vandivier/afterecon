@@ -1,5 +1,5 @@
 ---
-title: The New Crusades: Apologetics as War
+title: "The New Crusades: Apologetics as War"
 date: 2014-08-05 13:16:28
 author: John Vandivier
 ---

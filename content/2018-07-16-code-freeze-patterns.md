@@ -1,5 +1,5 @@
 ---
-title: Code Freeze Patterns
+title: "Code Freeze Patterns"
 date: 2018-07-16 12:34:44
 author: John Vandivier
 ---

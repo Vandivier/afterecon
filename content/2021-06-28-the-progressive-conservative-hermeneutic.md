@@ -1,5 +1,5 @@
 ---
-title: The Progressive-Conservative Hermeneutic
+title: "The Progressive-Conservative Hermeneutic"
 date: 2021-06-27 20:19:10
 author: John Vandivier
 ---

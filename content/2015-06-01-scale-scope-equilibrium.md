@@ -1,5 +1,5 @@
 ---
-title: Scale-Scope Equilibrium
+title: "Scale-Scope Equilibrium"
 date: 2015-06-01 04:41:45
 author: John Vandivier
 ---

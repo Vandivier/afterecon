@@ -1,5 +1,5 @@
 ---
-title: Epsilon Likelihood in Ordinal Logic
+title: "Epsilon Likelihood in Ordinal Logic"
 date: 2022-05-11 12:02:43
 author: John Vandivier
 ---

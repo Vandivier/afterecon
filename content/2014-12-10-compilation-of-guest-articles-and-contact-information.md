@@ -1,5 +1,5 @@
 ---
-title: Compilation of Guest Articles and Contact Information!
+title: "Compilation of Guest Articles and Contact Information!"
 date: 2014-12-10 15:26:13
 author: John Vandivier
 ---

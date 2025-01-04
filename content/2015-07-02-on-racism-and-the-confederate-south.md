@@ -1,5 +1,5 @@
 ---
-title: On Racism and the Confederate South
+title: "On Racism and the Confederate South"
 date: 2015-07-02 02:03:41
 author: John Vandivier
 ---

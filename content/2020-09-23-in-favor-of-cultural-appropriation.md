@@ -1,5 +1,5 @@
 ---
-title: In Favor of Cultural Appropriation
+title: "In Favor of Cultural Appropriation"
 date: 2020-09-23 09:07:55
 author: John Vandivier
 ---

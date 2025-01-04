@@ -1,5 +1,5 @@
 ---
-title: Biblical Inerrancy
+title: "Biblical Inerrancy"
 date: 2013-12-18 17:03:29
 author: John Vandivier
 ---

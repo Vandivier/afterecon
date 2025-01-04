@@ -1,5 +1,5 @@
 ---
-title: A Second and Third Economic Argument for Theism
+title: "A Second and Third Economic Argument for Theism"
 date: 2021-04-22 19:30:25
 author: John Vandivier
 ---

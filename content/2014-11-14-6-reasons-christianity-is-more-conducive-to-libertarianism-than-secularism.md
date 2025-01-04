@@ -1,5 +1,5 @@
 ---
-title: 6 Reasons Christianity is More Conducive to Libertarianism Than Secularism
+title: "6 Reasons Christianity is More Conducive to Libertarianism Than Secularism"
 date: 2014-11-14 16:05:10
 author: John Vandivier
 ---

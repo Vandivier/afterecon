@@ -1,5 +1,5 @@
 ---
-title: The State of Diversity in US Tech
+title: "The State of Diversity in US Tech"
 date: 2022-02-05 20:35:50
 author: John Vandivier
 ---

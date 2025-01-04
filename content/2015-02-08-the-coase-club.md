@@ -1,5 +1,5 @@
 ---
-title: The Coase Club
+title: "The Coase Club"
 date: 2015-02-08 03:56:51
 author: John Vandivier
 ---

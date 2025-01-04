@@ -1,5 +1,5 @@
 ---
-title: What are organizations and institutions?
+title: "What are organizations and institutions?"
 date: 2013-11-05 00:32:42
 author: John Vandivier
 ---

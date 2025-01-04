@@ -1,5 +1,5 @@
 ---
-title: A Simple Argument for Objective Value
+title: "A Simple Argument for Objective Value"
 date: 2017-04-05 15:00:21
 author: John Vandivier
 ---

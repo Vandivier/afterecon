@@ -1,5 +1,5 @@
 ---
-title: Predicting Political Races By The Money
+title: "Predicting Political Races By The Money"
 date: 2014-09-13 01:43:37
 author: John Vandivier
 ---

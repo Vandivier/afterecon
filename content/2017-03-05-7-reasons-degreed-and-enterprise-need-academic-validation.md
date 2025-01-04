@@ -1,5 +1,5 @@
 ---
-title: 7 Reasons Degreed and Enterprise Need Academic Validation
+title: "7 Reasons Degreed and Enterprise Need Academic Validation"
 date: 2017-03-05 14:14:30
 author: John Vandivier
 ---

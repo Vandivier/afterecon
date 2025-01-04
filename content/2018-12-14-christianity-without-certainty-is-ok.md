@@ -1,5 +1,5 @@
 ---
-title: Christianity Without Certainty is OK
+title: "Christianity Without Certainty is OK"
 date: 2018-12-13 20:08:25
 author: John Vandivier
 ---

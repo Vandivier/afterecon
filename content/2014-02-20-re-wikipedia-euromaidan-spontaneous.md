@@ -1,5 +1,5 @@
 ---
-title: Re: Wikipedia, \"Euromaidan\" (!=Spontaneous)
+title: "Re: Wikipedia, \"Euromaidan\" (!=Spontaneous)"
 date: 2014-02-20 18:07:31
 author: John Vandivier
 ---

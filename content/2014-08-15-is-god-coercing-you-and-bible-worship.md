@@ -1,5 +1,5 @@
 ---
-title: Is God Coercing You? And Bible Worship
+title: "Is God Coercing You? And Bible Worship"
 date: 2014-08-15 13:14:33
 author: John Vandivier
 ---

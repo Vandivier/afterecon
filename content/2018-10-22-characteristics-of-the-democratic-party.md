@@ -1,5 +1,5 @@
 ---
-title: Characteristics of the Democratic Party
+title: "Characteristics of the Democratic Party"
 date: 2018-10-22 13:41:30
 author: John Vandivier
 ---

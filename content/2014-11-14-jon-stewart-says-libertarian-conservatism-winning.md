@@ -1,5 +1,5 @@
 ---
-title: Jon Stewart Says Libertarian Conservatism Winning
+title: "Jon Stewart Says Libertarian Conservatism Winning"
 date: 2014-11-14 16:02:12
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: On Utility
+title: "On Utility"
 date: 2016-10-29 22:01:48
 author: John Vandivier
 ---

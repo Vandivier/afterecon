@@ -1,5 +1,5 @@
 ---
-title: Current Research Goals
+title: "Current Research Goals"
 date: 2017-02-28 23:33:26
 author: John Vandivier
 ---

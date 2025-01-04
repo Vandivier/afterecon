@@ -1,5 +1,5 @@
 ---
-title: Last Resort Entrepreneurship
+title: "Last Resort Entrepreneurship"
 date: 2020-01-25 13:12:58
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Don\'t Fear Metrics When Measuring Developer Quality
+title: "Don\'t Fear Metrics When Measuring Developer Quality"
 date: 2018-11-19 17:46:41
 author: John Vandivier
 ---

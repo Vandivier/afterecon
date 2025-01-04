@@ -1,5 +1,5 @@
 ---
-title: 5 Reasons Markets More About Coordination Than Competition
+title: "5 Reasons Markets More About Coordination Than Competition"
 date: 2016-03-20 23:03:16
 author: John Vandivier
 ---

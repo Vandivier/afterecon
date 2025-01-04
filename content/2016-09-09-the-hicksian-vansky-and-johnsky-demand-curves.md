@@ -1,5 +1,5 @@
 ---
-title: The Hicksian, Vansky, and Johnsky Demand Curves
+title: "The Hicksian, Vansky, and Johnsky Demand Curves"
 date: 2016-09-08 23:02:24
 author: John Vandivier
 ---

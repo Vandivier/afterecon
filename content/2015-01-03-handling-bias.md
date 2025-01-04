@@ -1,5 +1,5 @@
 ---
-title: Handling Bias
+title: "Handling Bias"
 date: 2015-01-02 19:30:09
 author: John Vandivier
 ---

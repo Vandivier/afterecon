@@ -1,5 +1,5 @@
 ---
-title: Theories of Sufficient and Voluntary Information
+title: "Theories of Sufficient and Voluntary Information"
 date: 2015-05-31 04:40:51
 author: John Vandivier
 ---

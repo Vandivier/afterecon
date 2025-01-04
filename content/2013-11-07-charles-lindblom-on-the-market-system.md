@@ -1,5 +1,5 @@
 ---
-title: Charles Lindblom on the Market System
+title: "Charles Lindblom on the Market System"
 date: 2013-11-07 00:09:29
 author: John Vandivier
 ---

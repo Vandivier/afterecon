@@ -1,5 +1,5 @@
 ---
-title: Why Gradualism?
+title: "Why Gradualism?"
 date: 2015-05-09 20:21:19
 author: John Vandivier
 ---

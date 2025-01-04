@@ -1,5 +1,5 @@
 ---
-title: Rational Estimation and Price Under Uncertainty
+title: "Rational Estimation and Price Under Uncertainty"
 date: 2016-11-30 01:59:23
 author: John Vandivier
 ---

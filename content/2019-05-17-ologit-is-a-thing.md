@@ -1,5 +1,5 @@
 ---
-title: Ologit is a Thing
+title: "Ologit is a Thing"
 date: 2019-05-16 20:54:10
 author: John Vandivier
 ---

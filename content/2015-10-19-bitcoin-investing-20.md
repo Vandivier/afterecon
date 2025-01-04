@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Investing 2.0
+title: "Bitcoin Investing 2.0"
 date: 2015-10-19 00:53:58
 author: John Vandivier
 ---

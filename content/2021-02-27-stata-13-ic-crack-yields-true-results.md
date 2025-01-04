@@ -1,5 +1,5 @@
 ---
-title: STATA 13-IC Crack Yields True Results
+title: "STATA 13-IC Crack Yields True Results"
 date: 2021-02-26 20:46:03
 author: John Vandivier
 ---

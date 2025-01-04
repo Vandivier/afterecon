@@ -1,5 +1,5 @@
 ---
-title: Two Predictions
+title: "Two Predictions"
 date: 2014-02-23 06:27:00
 author: John Vandivier
 ---

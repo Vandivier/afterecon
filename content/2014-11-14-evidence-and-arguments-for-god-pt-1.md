@@ -1,5 +1,5 @@
 ---
-title: Evidence and Arguments for God pt. 1
+title: "Evidence and Arguments for God pt. 1"
 date: 2014-11-14 16:11:31
 author: John Vandivier
 ---

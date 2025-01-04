@@ -1,5 +1,5 @@
 ---
-title: Cut The Evolution Crap
+title: "Cut The Evolution Crap"
 date: 2012-09-03
 author: John Vandivier
 ---

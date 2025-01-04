@@ -1,5 +1,5 @@
 ---
-title: Immediate Mental Direction
+title: "Immediate Mental Direction"
 date: 2016-12-13 15:00:19
 author: John Vandivier
 ---

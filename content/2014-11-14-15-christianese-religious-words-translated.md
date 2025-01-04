@@ -1,5 +1,5 @@
 ---
-title: 15 Christianese Religious Words Translated
+title: "15 Christianese Religious Words Translated"
 date: 2014-11-14 16:12:17
 author: John Vandivier
 ---

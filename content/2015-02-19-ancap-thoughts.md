@@ -1,5 +1,5 @@
 ---
-title: Ancap Thoughts
+title: "Ancap Thoughts"
 date: 2015-02-19 15:54:16
 author: John Vandivier
 ---

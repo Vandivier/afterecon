@@ -1,5 +1,5 @@
 ---
-title: Voter Manipulation and The Cloward Piven Strategy
+title: "Voter Manipulation and The Cloward Piven Strategy"
 date: 2012-09-05
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Can an Anarchic Nation Exist?
+title: "Can an Anarchic Nation Exist?"
 date: 2014-11-14 16:06:11
 author: John Vandivier
 ---

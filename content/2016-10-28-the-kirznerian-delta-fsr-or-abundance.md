@@ -1,5 +1,5 @@
 ---
-title: The Kirznerian Delta: FSR or Abundance?
+title: "The Kirznerian Delta: FSR or Abundance?"
 date: 2016-10-28 15:00:08
 author: John Vandivier
 ---

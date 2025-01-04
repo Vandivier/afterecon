@@ -1,5 +1,5 @@
 ---
-title: On Stigler\'s Economics of Information
+title: "On Stigler\'s Economics of Information"
 date: 2015-10-28 00:32:05
 author: John Vandivier
 ---

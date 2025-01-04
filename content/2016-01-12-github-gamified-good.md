@@ -1,5 +1,5 @@
 ---
-title: Github Gamified: Good?
+title: "Github Gamified: Good?"
 date: 2016-01-11 20:30:58
 author: John Vandivier
 ---

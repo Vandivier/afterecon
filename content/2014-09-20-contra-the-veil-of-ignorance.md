@@ -1,5 +1,5 @@
 ---
-title: Contra the Veil of Ignorance
+title: "Contra the Veil of Ignorance"
 date: 2014-09-20 15:20:59
 author: John Vandivier
 ---

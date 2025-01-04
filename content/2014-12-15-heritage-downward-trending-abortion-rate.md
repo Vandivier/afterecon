@@ -1,5 +1,5 @@
 ---
-title: Heritage: Downward Trending Abortion Rate
+title: "Heritage: Downward Trending Abortion Rate"
 date: 2014-12-15 16:15:41
 author: John Vandivier
 ---

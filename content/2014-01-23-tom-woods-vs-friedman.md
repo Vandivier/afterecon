@@ -1,5 +1,5 @@
 ---
-title: Tom Woods VS Friedman?
+title: "Tom Woods VS Friedman?"
 date: 2014-01-23 03:16:21
 author: John Vandivier
 ---

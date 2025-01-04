@@ -1,5 +1,5 @@
 ---
-title: Autoacculturation and Threshold Earning
+title: "Autoacculturation and Threshold Earning"
 date: 2017-02-27 15:00:35
 author: John Vandivier
 ---

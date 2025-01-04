@@ -1,5 +1,5 @@
 ---
-title: Self-Crowdfunding Plugin for Wordpress
+title: "Self-Crowdfunding Plugin for Wordpress"
 date: 2014-11-14 16:02:22
 author: John Vandivier
 ---

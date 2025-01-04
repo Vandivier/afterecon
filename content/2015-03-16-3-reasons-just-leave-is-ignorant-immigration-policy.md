@@ -1,5 +1,5 @@
 ---
-title: 3 Reasons \"Just Leave\" is Ignorant Immigration Policy
+title: "3 Reasons \"Just Leave\" is Ignorant Immigration Policy"
 date: 2015-03-16 00:51:30
 author: John Vandivier
 ---

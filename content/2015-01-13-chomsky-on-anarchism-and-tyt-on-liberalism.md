@@ -1,5 +1,5 @@
 ---
-title: Chomsky on Anarchism and TYT on Liberalism
+title: "Chomsky on Anarchism and TYT on Liberalism"
 date: 2015-01-13 16:02:28
 author: John Vandivier
 ---

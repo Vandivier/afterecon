@@ -1,5 +1,5 @@
 ---
-title: Police Double Standard on Provocation?
+title: "Police Double Standard on Provocation?"
 date: 2015-01-20 16:13:03
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: \"Is Gary Johnson Worth It?\" With Other Deep and Philosophical Questions.
+title: "\"Is Gary Johnson Worth It?\" With Other Deep and Philosophical Questions."
 date: 2012-09-04
 author: John Vandivier
 ---

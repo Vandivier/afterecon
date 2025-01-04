@@ -1,5 +1,5 @@
 ---
-title: Hypernontraditional Learning Strategies and Project Concepts
+title: "Hypernontraditional Learning Strategies and Project Concepts"
 date: 2023-06-11 21:09:25
 author: John Vandivier
 ---

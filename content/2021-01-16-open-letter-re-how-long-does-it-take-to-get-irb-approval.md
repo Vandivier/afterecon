@@ -1,5 +1,5 @@
 ---
-title: Open Letter: Re: How long does it take to get IRB approval?
+title: "Open Letter: Re: How long does it take to get IRB approval?"
 date: 2021-01-16 13:26:22
 author: John Vandivier
 ---

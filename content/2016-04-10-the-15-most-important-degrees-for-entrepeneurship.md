@@ -1,5 +1,5 @@
 ---
-title: The 15 Most Important Degrees for Entrepeneurship
+title: "The 15 Most Important Degrees for Entrepeneurship"
 date: 2016-04-10 12:26:33
 author: John Vandivier
 ---

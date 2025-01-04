@@ -1,5 +1,5 @@
 ---
-title: Revisiting Degreed
+title: "Revisiting Degreed"
 date: 2017-02-18 16:11:15
 author: John Vandivier
 ---

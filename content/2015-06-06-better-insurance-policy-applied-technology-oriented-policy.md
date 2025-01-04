@@ -1,5 +1,5 @@
 ---
-title: Better Insurance Policy: Applied Technology-Oriented Policy
+title: "Better Insurance Policy: Applied Technology-Oriented Policy"
 date: 2015-06-06 19:51:11
 author: John Vandivier
 ---

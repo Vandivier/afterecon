@@ -1,5 +1,5 @@
 ---
-title: Christian Anarchism: You\'re Doing it Wrong
+title: "Christian Anarchism: You\'re Doing it Wrong"
 date: 2014-04-27 21:11:19
 author: John Vandivier
 ---

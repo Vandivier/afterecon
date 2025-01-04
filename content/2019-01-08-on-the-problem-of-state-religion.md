@@ -1,5 +1,5 @@
 ---
-title: On the Problem of State Religion
+title: "On the Problem of State Religion"
 date: 2019-01-08 09:46:54
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: 5 Routes to Anarchy
+title: "5 Routes to Anarchy"
 date: 2014-11-14 16:05:30
 author: John Vandivier
 ---

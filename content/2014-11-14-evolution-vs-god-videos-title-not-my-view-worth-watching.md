@@ -1,5 +1,5 @@
 ---
-title: Evolution Vs God (Video\'s Title, Not My View, Worth Watching)
+title: "Evolution Vs God (Video\'s Title, Not My View, Worth Watching)"
 date: 2014-11-14 16:06:21
 author: John Vandivier
 ---

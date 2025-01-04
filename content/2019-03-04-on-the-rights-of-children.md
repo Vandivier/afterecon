@@ -1,5 +1,5 @@
 ---
-title: On The Rights of Children
+title: "On The Rights of Children"
 date: 2019-03-04 10:40:30
 author: John Vandivier
 ---

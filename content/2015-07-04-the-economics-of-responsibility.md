@@ -1,5 +1,5 @@
 ---
-title: The Economics of Responsibility
+title: "The Economics of Responsibility"
 date: 2015-07-04 18:36:05
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Free Information Necessary for Free Markets
+title: "Free Information Necessary for Free Markets"
 date: 2014-11-14 16:07:29
 author: John Vandivier
 ---

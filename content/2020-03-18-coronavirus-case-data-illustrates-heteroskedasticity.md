@@ -1,5 +1,5 @@
 ---
-title: Coronavirus Case Data Illustrates Heteroskedasticity
+title: "Coronavirus Case Data Illustrates Heteroskedasticity"
 date: 2020-03-18 13:05:59
 author: John Vandivier
 ---

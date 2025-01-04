@@ -1,5 +1,5 @@
 ---
-title: Do Illegal Immigrants Take American Jobs?
+title: "Do Illegal Immigrants Take American Jobs?"
 date: 2014-11-14 16:06:32
 author: John Vandivier
 ---

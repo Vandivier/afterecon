@@ -1,5 +1,5 @@
 ---
-title: 4 Reasons to Say \"Nah Bro\" to Mandatory Vaccines
+title: "4 Reasons to Say \"Nah Bro\" to Mandatory Vaccines"
 date: 2015-04-27 00:14:19
 author: John Vandivier
 ---

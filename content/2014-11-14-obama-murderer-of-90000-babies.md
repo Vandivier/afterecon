@@ -1,5 +1,5 @@
 ---
-title: Obama: Murderer of 90,000 Babies
+title: "Obama: Murderer of 90,000 Babies"
 date: 2014-11-14 16:08:59
 author: John Vandivier
 ---

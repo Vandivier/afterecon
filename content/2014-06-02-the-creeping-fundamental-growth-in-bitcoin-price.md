@@ -1,5 +1,5 @@
 ---
-title: The Creeping Fundamental Growth in Bitcoin Price
+title: "The Creeping Fundamental Growth in Bitcoin Price"
 date: 2014-06-02 03:22:35
 author: John Vandivier
 ---

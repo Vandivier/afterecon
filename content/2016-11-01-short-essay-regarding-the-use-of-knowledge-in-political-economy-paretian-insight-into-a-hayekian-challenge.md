@@ -1,5 +1,5 @@
 ---
-title: Short Essay Regarding: \"The Use of Knowledge in Political Economy: Paretian Insight into a Hayekian Challenge\"
+title: "Short Essay Regarding: \"The Use of Knowledge in Political Economy: Paretian Insight into a Hayekian Challenge\""
 date: 2016-11-01 15:00:24
 author: John Vandivier
 ---

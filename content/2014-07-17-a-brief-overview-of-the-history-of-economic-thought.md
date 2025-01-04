@@ -1,5 +1,5 @@
 ---
-title: A Brief Overview of the History of Economic Thought
+title: "A Brief Overview of the History of Economic Thought"
 date: 2014-07-17 13:51:06
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Misesian Efficiency as Subjective Moral Optimization
+title: "Misesian Efficiency as Subjective Moral Optimization"
 date: 2016-09-11 11:34:49
 author: John Vandivier
 ---

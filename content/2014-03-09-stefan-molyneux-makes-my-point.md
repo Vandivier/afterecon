@@ -1,5 +1,5 @@
 ---
-title: Stefan Molyneux Makes My Point
+title: "Stefan Molyneux Makes My Point"
 date: 2014-03-09 17:25:17
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Quantifying Political Support
+title: "Quantifying Political Support"
 date: 2014-06-14 01:48:39
 author: John Vandivier
 ---

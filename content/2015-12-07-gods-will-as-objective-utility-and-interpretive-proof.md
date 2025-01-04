@@ -1,5 +1,5 @@
 ---
-title: God\'s Will as Objective Utility and Interpretive Proof
+title: "God\'s Will as Objective Utility and Interpretive Proof"
 date: 2015-12-07 06:10:26
 author: John Vandivier
 ---

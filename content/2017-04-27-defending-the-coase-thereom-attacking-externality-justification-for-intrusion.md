@@ -1,5 +1,5 @@
 ---
-title: Defending the Coase Thereom, Attacking Externality Justification for Intrusion
+title: "Defending the Coase Thereom, Attacking Externality Justification for Intrusion"
 date: 2017-04-27 15:28:21
 author: John Vandivier
 ---

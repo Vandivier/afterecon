@@ -1,5 +1,5 @@
 ---
-title: Hal Varian Makes Sense of NoSQL
+title: "Hal Varian Makes Sense of NoSQL"
 date: 2016-11-27 21:26:36
 author: John Vandivier
 ---

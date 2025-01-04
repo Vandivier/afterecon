@@ -1,5 +1,5 @@
 ---
-title: Agile and Betting Markets
+title: "Agile and Betting Markets"
 date: 2019-06-20 02:31:40
 author: John Vandivier
 ---

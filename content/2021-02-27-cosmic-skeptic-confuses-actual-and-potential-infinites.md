@@ -1,5 +1,5 @@
 ---
-title: Cosmic Skeptic Confuses Actual and Potential Infinites
+title: "Cosmic Skeptic Confuses Actual and Potential Infinites"
 date: 2021-02-26 21:09:39
 author: John Vandivier
 ---

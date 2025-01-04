@@ -1,5 +1,5 @@
 ---
-title: The Anerrantist View of Scripture
+title: "The Anerrantist View of Scripture"
 date: 2016-09-03 13:44:12
 author: John Vandivier
 ---

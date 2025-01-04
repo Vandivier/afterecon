@@ -1,5 +1,5 @@
 ---
-title: 3 Problems With Libertarianism
+title: "3 Problems With Libertarianism"
 date: 2017-09-10 15:00:10
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Arguing for the God of the Gaps and Against Dietrich Bonhoeffer
+title: "Arguing for the God of the Gaps and Against Dietrich Bonhoeffer"
 date: 2017-09-21 23:35:08
 author: John Vandivier
 ---

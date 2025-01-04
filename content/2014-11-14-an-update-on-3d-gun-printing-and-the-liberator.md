@@ -1,5 +1,5 @@
 ---
-title: An Update on 3D Gun Printing and The Liberator
+title: "An Update on 3D Gun Printing and The Liberator"
 date: 2014-11-14 16:09:34
 author: John Vandivier
 ---

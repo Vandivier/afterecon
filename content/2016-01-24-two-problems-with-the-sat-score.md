@@ -1,5 +1,5 @@
 ---
-title: Two Problems With the SAT Score
+title: "Two Problems With the SAT Score"
 date: 2016-01-24 17:10:43
 author: John Vandivier
 ---

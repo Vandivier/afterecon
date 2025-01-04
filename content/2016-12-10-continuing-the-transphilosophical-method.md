@@ -1,5 +1,5 @@
 ---
-title: Continuing the Transphilosophical Method
+title: "Continuing the Transphilosophical Method"
 date: 2016-12-09 19:03:21
 author: John Vandivier
 ---

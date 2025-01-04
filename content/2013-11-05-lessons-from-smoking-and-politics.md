@@ -1,5 +1,5 @@
 ---
-title: Lessons from \"Smoking and Politics\"
+title: "Lessons from \"Smoking and Politics\""
 date: 2013-11-05 02:40:10
 author: John Vandivier
 ---

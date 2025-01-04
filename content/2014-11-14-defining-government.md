@@ -1,5 +1,5 @@
 ---
-title: Defining Government
+title: "Defining Government"
 date: 2014-11-14 16:05:13
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Does Information and Transparency Even Matter?
+title: "Does Information and Transparency Even Matter?"
 date: 2015-05-15 18:45:47
 author: John Vandivier
 ---

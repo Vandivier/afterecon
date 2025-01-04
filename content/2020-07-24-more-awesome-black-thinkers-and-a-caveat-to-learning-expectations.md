@@ -1,5 +1,5 @@
 ---
-title: More Awesome Black Thinkers and a Caveat to Learning Expectations
+title: "More Awesome Black Thinkers and a Caveat to Learning Expectations"
 date: 2020-07-24 09:41:55
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Introducing Ted Shoebat, Islam and Caeconomics
+title: "Introducing Ted Shoebat, Islam and Caeconomics"
 date: 2014-11-14 16:07:57
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Specific Mechanism of Anarcho-Capitalist Conflict Resolution
+title: "The Specific Mechanism of Anarcho-Capitalist Conflict Resolution"
 date: 2015-04-25 23:41:14
 author: John Vandivier
 ---

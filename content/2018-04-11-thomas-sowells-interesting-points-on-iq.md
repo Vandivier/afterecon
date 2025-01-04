@@ -1,5 +1,5 @@
 ---
-title: Thomas Sowell\'s Interesting Points on IQ
+title: "Thomas Sowell\'s Interesting Points on IQ"
 date: 2018-04-11 01:08:49
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Nintendo Heart
+title: "Nintendo Heart"
 date: 2012-09-01
 author: John Vandivier
 ---

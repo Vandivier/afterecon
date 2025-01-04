@@ -1,5 +1,5 @@
 ---
-title: Project Managers and Knowledge Types
+title: "Project Managers and Knowledge Types"
 date: 2014-07-03 19:00:41
 author: John Vandivier
 ---

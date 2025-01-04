@@ -1,5 +1,5 @@
 ---
-title: Re: David Friedman \"Duck Dynasty, Medieval Islam, and Moral Philosophy\"
+title: "Re: David Friedman \"Duck Dynasty, Medieval Islam, and Moral Philosophy\""
 date: 2015-04-02 23:11:56
 author: John Vandivier
 ---

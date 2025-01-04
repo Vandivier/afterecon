@@ -1,5 +1,5 @@
 ---
-title: China and the Problem of State Religion
+title: "China and the Problem of State Religion"
 date: 2019-01-08 09:52:41
 author: John Vandivier
 ---

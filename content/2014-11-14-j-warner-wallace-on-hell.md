@@ -1,5 +1,5 @@
 ---
-title: J Warner Wallace On Hell
+title: "J Warner Wallace On Hell"
 date: 2014-11-14 16:03:39
 author: John Vandivier
 ---

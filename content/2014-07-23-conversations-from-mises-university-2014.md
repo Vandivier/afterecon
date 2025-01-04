@@ -1,5 +1,5 @@
 ---
-title: Conversations from Mises University 2014
+title: "Conversations from Mises University 2014"
 date: 2014-07-23 17:31:21
 author: John Vandivier
 ---

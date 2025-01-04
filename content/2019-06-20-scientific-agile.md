@@ -1,5 +1,5 @@
 ---
-title: Scientific Agile
+title: "Scientific Agile"
 date: 2019-06-20 01:55:24
 author: John Vandivier
 ---

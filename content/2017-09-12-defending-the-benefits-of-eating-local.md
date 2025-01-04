@@ -1,5 +1,5 @@
 ---
-title: Defending the Benefits of Eating Local
+title: "Defending the Benefits of Eating Local"
 date: 2017-09-12 07:52:40
 author: John Vandivier
 ---

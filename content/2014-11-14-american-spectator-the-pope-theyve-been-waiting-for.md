@@ -1,5 +1,5 @@
 ---
-title: American Spectator: The Pope They've Been Waiting For
+title: "American Spectator: The Pope They've Been Waiting For"
 date: 2014-11-14 16:03:23
 author: John Vandivier
 ---

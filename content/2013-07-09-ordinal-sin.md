@@ -1,5 +1,5 @@
 ---
-title: Ordinal Sin
+title: "Ordinal Sin"
 date: 2013-07-09 16:07:21
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tim Ferris Manages Up on Remote Work
+title: "Tim Ferris Manages Up on Remote Work"
 date: 2019-01-20 15:22:41
 author: John Vandivier
 ---

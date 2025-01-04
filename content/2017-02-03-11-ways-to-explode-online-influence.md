@@ -1,5 +1,5 @@
 ---
-title: 11 Ways to Explode Online Influence
+title: "11 Ways to Explode Online Influence"
 date: 2017-02-03 08:28:51
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Otherness, the Holy Spirit and Protestants
+title: "Otherness, the Holy Spirit and Protestants"
 date: 2014-03-02 05:34:57
 author: John Vandivier
 ---

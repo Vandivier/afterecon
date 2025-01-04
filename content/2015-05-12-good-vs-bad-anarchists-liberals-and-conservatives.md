@@ -1,5 +1,5 @@
 ---
-title: Good vs Bad: Anarchists, Liberals, and Conservatives
+title: "Good vs Bad: Anarchists, Liberals, and Conservatives"
 date: 2015-05-11 21:42:18
 author: John Vandivier
 ---

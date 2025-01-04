@@ -1,5 +1,5 @@
 ---
-title: When Conservatives Immigration Wrong
+title: "When Conservatives Immigration Wrong"
 date: 2014-11-22 19:32:34
 author: John Vandivier
 ---

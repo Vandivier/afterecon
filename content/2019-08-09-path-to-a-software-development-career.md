@@ -1,5 +1,5 @@
 ---
-title: Path to a Software Development Career
+title: "Path to a Software Development Career"
 date: 2019-08-09 13:18:36
 author: John Vandivier
 ---

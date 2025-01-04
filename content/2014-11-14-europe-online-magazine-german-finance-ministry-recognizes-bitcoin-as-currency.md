@@ -1,5 +1,5 @@
 ---
-title: Europe Online Magazine: German Finance Ministry recognizes bitcoin as currency
+title: "Europe Online Magazine: German Finance Ministry recognizes bitcoin as currency"
 date: 2014-11-14 16:06:05
 author: John Vandivier
 ---

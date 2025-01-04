@@ -1,5 +1,5 @@
 ---
-title: Intelligent Design is Real Science! (Part 3)
+title: "Intelligent Design is Real Science! (Part 3)"
 date: 2014-11-14 16:12:31
 author: John Vandivier
 ---

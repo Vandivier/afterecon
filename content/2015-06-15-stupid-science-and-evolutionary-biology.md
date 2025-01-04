@@ -1,5 +1,5 @@
 ---
-title: Stupid Science and Evolutionary Biology
+title: "Stupid Science and Evolutionary Biology"
 date: 2015-06-15 17:37:38
 author: John Vandivier
 ---

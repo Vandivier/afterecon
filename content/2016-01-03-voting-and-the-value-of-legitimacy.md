@@ -1,5 +1,5 @@
 ---
-title: Voting and the Value of Legitimacy
+title: "Voting and the Value of Legitimacy"
 date: 2016-01-02 20:40:21
 author: John Vandivier
 ---

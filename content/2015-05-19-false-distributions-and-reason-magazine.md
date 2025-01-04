@@ -1,5 +1,5 @@
 ---
-title: False Distributions and Reason Magazine
+title: "False Distributions and Reason Magazine"
 date: 2015-05-19 17:31:23
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Unfinished Topics to Write On
+title: "Unfinished Topics to Write On"
 date: 2016-10-22 14:56:34
 author: John Vandivier
 ---

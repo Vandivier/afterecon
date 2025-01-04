@@ -1,5 +1,5 @@
 ---
-title: David Friedman Answers Some Questions
+title: "David Friedman Answers Some Questions"
 date: 2015-01-30 14:36:42
 author: John Vandivier
 ---

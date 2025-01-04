@@ -1,5 +1,5 @@
 ---
-title: Firm Structure in an ACS
+title: "Firm Structure in an ACS"
 date: 2015-04-28 07:20:44
 author: John Vandivier
 ---

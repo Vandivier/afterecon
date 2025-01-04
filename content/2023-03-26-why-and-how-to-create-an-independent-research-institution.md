@@ -1,5 +1,5 @@
 ---
-title: Why and How to Create an Independent Research Institution
+title: "Why and How to Create an Independent Research Institution"
 date: 2023-03-25 21:42:03
 author: John Vandivier
 ---

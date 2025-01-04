@@ -1,5 +1,5 @@
 ---
-title: Virtual Competition Solves Geographic Monopoly
+title: "Virtual Competition Solves Geographic Monopoly"
 date: 2016-11-03 15:00:25
 author: John Vandivier
 ---

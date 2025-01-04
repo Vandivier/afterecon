@@ -1,5 +1,5 @@
 ---
-title: Neil deGrasse Tyson Equivocates on Global Warming
+title: "Neil deGrasse Tyson Equivocates on Global Warming"
 date: 2014-12-05 17:43:25
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Contra Sample Splitting
+title: "Contra Sample Splitting"
 date: 2016-12-15 15:00:17
 author: John Vandivier
 ---

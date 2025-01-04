@@ -1,5 +1,5 @@
 ---
-title: The No Goal Posts Fallacy
+title: "The No Goal Posts Fallacy"
 date: 2018-08-15 09:10:59
 author: John Vandivier
 ---

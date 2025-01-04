@@ -1,5 +1,5 @@
 ---
-title: Top 3 Worst Facebook Political Equivications
+title: "Top 3 Worst Facebook Political Equivications"
 date: 2014-11-14 16:08:36
 author: John Vandivier
 ---

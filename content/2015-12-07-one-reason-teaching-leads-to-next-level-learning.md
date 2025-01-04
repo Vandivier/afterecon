@@ -1,5 +1,5 @@
 ---
-title: One Reason Teaching Leads to Next Level Learning
+title: "One Reason Teaching Leads to Next Level Learning"
 date: 2015-12-07 16:25:23
 author: John Vandivier
 ---

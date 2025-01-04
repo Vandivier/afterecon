@@ -1,5 +1,5 @@
 ---
-title: Eleven Arguments to Prefer Christianity to Islam
+title: "Eleven Arguments to Prefer Christianity to Islam"
 date: 2019-06-28 20:24:45
 author: John Vandivier
 ---

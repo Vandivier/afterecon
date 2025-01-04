@@ -1,5 +1,5 @@
 ---
-title: Futarchy, Blockchain Voting, and Vote Contracts
+title: "Futarchy, Blockchain Voting, and Vote Contracts"
 date: 2015-01-19 06:42:09
 author: John Vandivier
 ---

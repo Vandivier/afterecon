@@ -1,5 +1,5 @@
 ---
-title: 5 Solutions to the Signaling Problem in New Autodidacticism
+title: "5 Solutions to the Signaling Problem in New Autodidacticism"
 date: 2015-06-07 14:43:25
 author: John Vandivier
 ---

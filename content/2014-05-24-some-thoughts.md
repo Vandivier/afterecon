@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts
+title: "Some Thoughts"
 date: 2014-05-24 18:48:31
 author: John Vandivier
 ---

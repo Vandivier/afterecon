@@ -1,5 +1,5 @@
 ---
-title: Left Wing Trends Fuel Criticism
+title: "Left Wing Trends Fuel Criticism"
 date: 2014-11-18 14:18:10
 author: John Vandivier
 ---

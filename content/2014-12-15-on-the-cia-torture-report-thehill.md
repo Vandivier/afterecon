@@ -1,5 +1,5 @@
 ---
-title: On the CIA torture report | TheHill
+title: "On the CIA torture report | TheHill"
 date: 2014-12-14 21:28:56
 author: John Vandivier
 ---

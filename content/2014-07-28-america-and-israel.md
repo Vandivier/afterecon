@@ -1,5 +1,5 @@
 ---
-title: America and Israel
+title: "America and Israel"
 date: 2014-07-27 23:43:37
 author: John Vandivier
 ---

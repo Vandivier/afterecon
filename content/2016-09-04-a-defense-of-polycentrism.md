@@ -1,5 +1,5 @@
 ---
-title: A Defense of Polycentrism
+title: "A Defense of Polycentrism"
 date: 2016-09-04 18:26:00
 author: John Vandivier
 ---

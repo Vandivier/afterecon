@@ -1,5 +1,5 @@
 ---
-title: Meta-Economics
+title: "Meta-Economics"
 date: 2015-11-01 14:39:11
 author: John Vandivier
 ---

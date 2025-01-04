@@ -1,5 +1,5 @@
 ---
-title: 3 Principals of American Leadership
+title: "3 Principals of American Leadership"
 date: 2013-12-06 00:41:06
 author: John Vandivier
 ---

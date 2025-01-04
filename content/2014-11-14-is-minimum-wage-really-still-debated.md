@@ -1,5 +1,5 @@
 ---
-title: Is Minimum Wage Really Still Debated?
+title: "Is Minimum Wage Really Still Debated?"
 date: 2014-11-14 16:08:33
 author: John Vandivier
 ---

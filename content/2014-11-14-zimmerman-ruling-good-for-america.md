@@ -1,5 +1,5 @@
 ---
-title: Zimmerman Ruling Good for America
+title: "Zimmerman Ruling Good for America"
 date: 2014-11-14 16:07:14
 author: John Vandivier
 ---

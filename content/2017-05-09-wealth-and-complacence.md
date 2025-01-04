@@ -1,5 +1,5 @@
 ---
-title: Wealth and Complacence
+title: "Wealth and Complacence"
 date: 2017-05-08 21:05:57
 author: John Vandivier
 ---

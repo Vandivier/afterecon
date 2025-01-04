@@ -1,5 +1,5 @@
 ---
-title: Anarcho-Capitalism in The Economist
+title: "Anarcho-Capitalism in The Economist"
 date: 2016-12-06 15:00:35
 author: John Vandivier
 ---

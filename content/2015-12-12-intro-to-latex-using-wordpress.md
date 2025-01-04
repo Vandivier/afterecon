@@ -1,5 +1,5 @@
 ---
-title: Intro to LaTeX using WordPress
+title: "Intro to LaTeX using WordPress"
 date: 2015-12-12 02:38:02
 author: John Vandivier
 ---

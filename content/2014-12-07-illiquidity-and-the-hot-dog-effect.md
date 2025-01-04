@@ -1,5 +1,5 @@
 ---
-title: Illiquidity and the Hot Dog Effect
+title: "Illiquidity and the Hot Dog Effect"
 date: 2014-12-06 23:19:32
 author: John Vandivier
 ---

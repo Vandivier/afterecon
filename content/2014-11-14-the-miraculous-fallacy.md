@@ -1,5 +1,5 @@
 ---
-title: The Miraculous Fallacy
+title: "The Miraculous Fallacy"
 date: 2014-11-14 16:11:27
 author: John Vandivier
 ---

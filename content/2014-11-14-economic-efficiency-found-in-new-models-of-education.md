@@ -1,5 +1,5 @@
 ---
-title: Economic Efficiency Found in New Models of Education
+title: "Economic Efficiency Found in New Models of Education"
 date: 2014-11-14 16:09:31
 author: John Vandivier
 ---

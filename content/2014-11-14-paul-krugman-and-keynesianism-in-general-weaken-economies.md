@@ -1,5 +1,5 @@
 ---
-title: Paul Krugman, and Keynesianism in General, Weaken Economies
+title: "Paul Krugman, and Keynesianism in General, Weaken Economies"
 date: 2014-11-14 16:07:07
 author: John Vandivier
 ---

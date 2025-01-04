@@ -1,5 +1,5 @@
 ---
-title: Lower Home Prices, Part 2
+title: "Lower Home Prices, Part 2"
 date: 2018-06-08 23:25:01
 author: John Vandivier
 ---

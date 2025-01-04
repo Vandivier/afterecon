@@ -1,5 +1,5 @@
 ---
-title: Materialism and Reincarnation
+title: "Materialism and Reincarnation"
 date: 2018-03-12 17:04:30
 author: John Vandivier
 ---

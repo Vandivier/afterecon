@@ -1,5 +1,5 @@
 ---
-title: Combining Trends in Marriage and Christianity
+title: "Combining Trends in Marriage and Christianity"
 date: 2014-12-21 22:37:43
 author: John Vandivier
 ---

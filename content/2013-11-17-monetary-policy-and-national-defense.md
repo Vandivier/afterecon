@@ -1,5 +1,5 @@
 ---
-title: Monetary Policy and National Defense
+title: "Monetary Policy and National Defense"
 date: 2013-11-17 18:31:42
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Denotative Dominance
+title: "Denotative Dominance"
 date: 2017-07-18 15:00:52
 author: John Vandivier
 ---

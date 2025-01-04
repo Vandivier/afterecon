@@ -1,5 +1,5 @@
 ---
-title: Duplication in Degreed
+title: "Duplication in Degreed"
 date: 2014-11-14 16:04:12
 author: John Vandivier
 ---

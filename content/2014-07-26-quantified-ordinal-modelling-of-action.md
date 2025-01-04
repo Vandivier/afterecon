@@ -1,5 +1,5 @@
 ---
-title: Quantified Ordinal Modelling of Action
+title: "Quantified Ordinal Modelling of Action"
 date: 2014-07-26 16:07:36
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Issues in Modern Microeconomics
+title: "Issues in Modern Microeconomics"
 date: 2017-04-06 15:00:37
 author: John Vandivier
 ---

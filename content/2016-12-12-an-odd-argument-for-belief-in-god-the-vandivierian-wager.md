@@ -1,5 +1,5 @@
 ---
-title: An Odd Argument for Belief in God - The Vandivierian Wager
+title: "An Odd Argument for Belief in God - The Vandivierian Wager"
 date: 2016-12-12 15:00:47
 author: John Vandivier
 ---

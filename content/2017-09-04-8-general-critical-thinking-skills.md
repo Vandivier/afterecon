@@ -1,5 +1,5 @@
 ---
-title: 8 General Critical Thinking Skills
+title: "8 General Critical Thinking Skills"
 date: 2017-09-04 15:46:11
 author: John Vandivier
 ---

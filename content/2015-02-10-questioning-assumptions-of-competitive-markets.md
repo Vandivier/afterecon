@@ -1,5 +1,5 @@
 ---
-title: Questioning Assumptions of Competitive Markets
+title: "Questioning Assumptions of Competitive Markets"
 date: 2015-02-10 01:44:12
 author: John Vandivier
 ---

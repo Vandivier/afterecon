@@ -1,5 +1,5 @@
 ---
-title: A Morgue of Featured Writings Prior to 2014
+title: "A Morgue of Featured Writings Prior to 2014"
 date: 2023-09-30 21:00:41
 author: John Vandivier
 ---

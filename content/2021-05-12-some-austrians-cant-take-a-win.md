@@ -1,5 +1,5 @@
 ---
-title: Some Austrians Can\'t Take a Win
+title: "Some Austrians Can\'t Take a Win"
 date: 2021-05-11 23:13:07
 author: John Vandivier
 ---

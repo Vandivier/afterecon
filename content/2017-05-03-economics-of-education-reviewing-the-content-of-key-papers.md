@@ -1,5 +1,5 @@
 ---
-title: Economics of Education: Reviewing the Content of Key Papers
+title: "Economics of Education: Reviewing the Content of Key Papers"
 date: 2017-05-02 21:32:07
 author: John Vandivier
 ---

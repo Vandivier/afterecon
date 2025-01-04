@@ -1,5 +1,5 @@
 ---
-title: Crowdfunding Continues to Evolve
+title: "Crowdfunding Continues to Evolve"
 date: 2014-11-14 16:02:03
 author: John Vandivier
 ---

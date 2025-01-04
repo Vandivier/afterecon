@@ -1,5 +1,5 @@
 ---
-title: A Model of Entrepeneurship
+title: "A Model of Entrepeneurship"
 date: 2015-05-22 22:14:01
 author: John Vandivier
 ---

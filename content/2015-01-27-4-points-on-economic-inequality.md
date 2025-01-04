@@ -1,5 +1,5 @@
 ---
-title: 4 Points on Economic Inequality
+title: "4 Points on Economic Inequality"
 date: 2015-01-27 18:14:15
 author: John Vandivier
 ---

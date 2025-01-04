@@ -1,5 +1,5 @@
 ---
-title: On the Garland Shooting
+title: "On the Garland Shooting"
 date: 2015-05-06 05:23:54
 author: John Vandivier
 ---

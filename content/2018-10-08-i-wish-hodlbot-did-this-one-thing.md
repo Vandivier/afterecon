@@ -1,5 +1,5 @@
 ---
-title: I Wish Hodlbot Did This One Thing
+title: "I Wish Hodlbot Did This One Thing"
 date: 2018-10-08 12:18:31
 author: John Vandivier
 ---

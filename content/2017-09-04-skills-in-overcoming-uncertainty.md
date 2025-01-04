@@ -1,5 +1,5 @@
 ---
-title: Skills in Overcoming Uncertainty
+title: "Skills in Overcoming Uncertainty"
 date: 2017-09-04 15:47:25
 author: John Vandivier
 ---

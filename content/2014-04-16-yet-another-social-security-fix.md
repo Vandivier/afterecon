@@ -1,5 +1,5 @@
 ---
-title: Yet Another Social Security Fix
+title: "Yet Another Social Security Fix"
 date: 2014-04-16 19:20:43
 author: John Vandivier
 ---

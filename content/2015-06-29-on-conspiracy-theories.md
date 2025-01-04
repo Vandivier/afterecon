@@ -1,5 +1,5 @@
 ---
-title: On Conspiracy Theories
+title: "On Conspiracy Theories"
 date: 2015-06-29 14:27:20
 author: John Vandivier
 ---

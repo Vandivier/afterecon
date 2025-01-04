@@ -1,5 +1,5 @@
 ---
-title: The Argument for Paternalism from Pleasant Surprise
+title: "The Argument for Paternalism from Pleasant Surprise"
 date: 2016-09-12 10:00:23
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Thoughts on Social Mobility
+title: "Thoughts on Social Mobility"
 date: 2015-06-01 00:33:51
 author: John Vandivier
 ---

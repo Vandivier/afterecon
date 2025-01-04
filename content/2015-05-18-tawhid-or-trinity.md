@@ -1,5 +1,5 @@
 ---
-title: Tawhid or Trinity?
+title: "Tawhid or Trinity?"
 date: 2015-05-17 20:13:04
 author: John Vandivier
 ---

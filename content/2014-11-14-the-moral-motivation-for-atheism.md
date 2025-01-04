@@ -1,5 +1,5 @@
 ---
-title: The Moral Motivation for Atheism
+title: "The Moral Motivation for Atheism"
 date: 2014-11-14 16:11:24
 author: John Vandivier
 ---

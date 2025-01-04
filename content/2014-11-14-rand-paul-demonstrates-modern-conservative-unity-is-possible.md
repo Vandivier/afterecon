@@ -1,5 +1,5 @@
 ---
-title: Rand Paul Demonstrates Modern Conservative Unity is Possible
+title: "Rand Paul Demonstrates Modern Conservative Unity is Possible"
 date: 2014-11-14 16:06:53
 author: John Vandivier
 ---

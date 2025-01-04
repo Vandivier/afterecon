@@ -1,5 +1,5 @@
 ---
-title: Goal: 68 Million New Voters, Healthcare be Damned | Rob Cunningham USARob Cunningham USA
+title: "Goal: 68 Million New Voters, Healthcare be Damned | Rob Cunningham USARob Cunningham USA"
 date: 2014-12-16 13:59:01
 author: John Vandivier
 ---

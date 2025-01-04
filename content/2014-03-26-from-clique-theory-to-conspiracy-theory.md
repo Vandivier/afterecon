@@ -1,5 +1,5 @@
 ---
-title: From Clique Theory to Conspiracy Theory
+title: "From Clique Theory to Conspiracy Theory"
 date: 2014-03-26 17:22:57
 author: John Vandivier
 ---

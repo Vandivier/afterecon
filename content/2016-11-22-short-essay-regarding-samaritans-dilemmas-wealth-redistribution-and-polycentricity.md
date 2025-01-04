@@ -1,5 +1,5 @@
 ---
-title: Short Essay Regarding \"Samaritan's Dilemmas, Wealth Redistribution, and Polycentricity\"
+title: "Short Essay Regarding \"Samaritan's Dilemmas, Wealth Redistribution, and Polycentricity\""
 date: 2016-11-22 15:00:43
 author: John Vandivier
 ---

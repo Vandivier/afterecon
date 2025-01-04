@@ -1,5 +1,5 @@
 ---
-title: Requested BTCJam AutoInvest Features
+title: "Requested BTCJam AutoInvest Features"
 date: 2015-08-09 14:46:41
 author: John Vandivier
 ---

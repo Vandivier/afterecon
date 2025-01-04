@@ -1,5 +1,5 @@
 ---
-title: Greedy Capitalist Pigs
+title: "Greedy Capitalist Pigs"
 date: 2014-09-20 14:42:26
 author: John Vandivier
 ---

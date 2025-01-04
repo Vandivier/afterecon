@@ -1,5 +1,5 @@
 ---
-title: 4 Recommended Ways to Buy and Sell Bitcoin
+title: "4 Recommended Ways to Buy and Sell Bitcoin"
 date: 2014-11-14 16:11:10
 author: John Vandivier
 ---

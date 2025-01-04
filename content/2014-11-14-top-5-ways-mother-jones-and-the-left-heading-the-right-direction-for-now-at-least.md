@@ -1,5 +1,5 @@
 ---
-title: Top 5 Ways Mother Jones and the Left Heading the Right Direction! (For Now at Least)
+title: "Top 5 Ways Mother Jones and the Left Heading the Right Direction! (For Now at Least)"
 date: 2014-11-14 16:09:39
 author: John Vandivier
 ---

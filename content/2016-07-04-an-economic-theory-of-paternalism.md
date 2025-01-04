@@ -1,5 +1,5 @@
 ---
-title: An Economic Theory of Paternalism
+title: "An Economic Theory of Paternalism"
 date: 2016-07-04 19:00:20
 author: John Vandivier
 ---

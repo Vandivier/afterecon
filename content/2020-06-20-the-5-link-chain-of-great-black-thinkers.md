@@ -1,5 +1,5 @@
 ---
-title: The 5-Link Chain of Great Black Thinkers
+title: "The 5-Link Chain of Great Black Thinkers"
 date: 2020-06-19 22:38:56
 author: John Vandivier
 ---

@@ -1,5 +1,5 @@
 ---
-title: Theology: The Age of Man as a Prophecy Tool
+title: "Theology: The Age of Man as a Prophecy Tool"
 date: 2014-05-26 17:23:28
 author: John Vandivier
 ---
