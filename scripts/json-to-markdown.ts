@@ -25,7 +25,7 @@ function createSlug(title: string): string {
 
 function createMarkdownContent(post: Post): string {
   return `---
-title: ${post.title}
+title: "${post.title}"
 date: ${post.originalPostDate || post.postDate}
 author: John Vandivier
 ---
