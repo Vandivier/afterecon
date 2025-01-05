@@ -2,10 +2,7 @@
   "compilerOptions": {
     "target": "es2017",
     "module": "ESNext",
-    "lib": [
-      "es2017",
-      "esnext.asynciterable"
-    ],
+    "lib": ["es2017", "esnext.asynciterable"],
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -16,9 +13,7 @@
     "incremental": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"]
     },
     "allowJs": true,
     "noEmit": true,
@@ -29,11 +24,6 @@
       }
     ]
   },
-  "include": [
-    "**/*.ts",
-    ".next/types/**/*.ts"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
 }
