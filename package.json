@@ -13,7 +13,7 @@
     "lint": "next lint",
     "convert": "node --loader ts-node/esm scripts/sql-to-json.ts && node --loader ts-node/esm scripts/analyze-sql.ts && node --loader ts-node/esm scripts/json-to-markdown.ts",
     "prebuild": "node --loader ts-node/esm scripts/build-content.ts",
-    "postbuild": "next-sitemap"
+    "postbuild": "node --loader ts-node/esm scripts/build-sitemap.ts"
   },
   "repository": {
     "type": "git",
