@@ -136,7 +136,7 @@ function extractPosts(sql: string): Post[] {
 // Main execution
 const sqlContent = fs.readFileSync(
   path.join(__dirname, "../wp-dump.sql"),
-  "utf8"
+  "utf8",
 );
 
 const posts = extractPosts(sqlContent);

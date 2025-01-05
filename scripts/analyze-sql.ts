@@ -1,6 +1,6 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -12,7 +12,7 @@ interface Post {
   postDate: string;
   content?: string;
   originalPostDate?: string;
-  ignore?: boolean | "quote" | "obsolete";
+  ignore?: boolean | 'quote' | 'obsolete';
 }
 
 interface LegacyPost {
@@ -27,21 +27,21 @@ interface LegacyPost {
 
 // Read existing articles if file exists
 let existingPosts: Post[] = [];
-const existingPath = path.join(__dirname, "../articles-from-analyze-sql.json");
+const existingPath = path.join(__dirname, '../articles-from-analyze-sql.json');
 try {
-  existingPosts = JSON.parse(fs.readFileSync(existingPath, "utf8"));
+  existingPosts = JSON.parse(fs.readFileSync(existingPath, 'utf8'));
   console.log(
     `Read ${existingPosts.length} existing posts from articles-from-analyze-sql.json`
   );
 } catch (e) {
   console.log(
-    "No existing articles-from-analyze-sql.json found, starting fresh"
+    'No existing articles-from-analyze-sql.json found, starting fresh'
   );
 }
 
 // Normalize titles in existing posts
 if (existingPosts.length > 0) {
-  console.log("\nNormalizing titles in existing posts...");
+  console.log('\nNormalizing titles in existing posts...');
   const normalizedPosts = existingPosts.map((post) => ({
     ...post,
     title: normalizeTitle(post.title),
@@ -68,10 +68,10 @@ existingPosts.forEach((post) => {
   }
 });
 
-const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
+const chunk1 = fs.readFileSync(path.join(__dirname, '../wp-dump.sql'), 'utf8');
 
 // Split into all lines
-const lines = chunk1.split("\n");
+const lines = chunk1.split('\n');
 const titleToPost = new Map<string, Post>();
 
 lines.forEach((line) => {
@@ -92,17 +92,17 @@ lines.forEach((line) => {
   )[0];
   const titleParts = beforeStatus.split("', '");
   const title = normalizeTitle(
-    titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "")
+    titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, '')
   );
 
   // Extract post date (third element when splitting by comma)
-  const parts = line.split(",");
+  const parts = line.split(',');
   if (parts.length < 3) return;
-  const postDate = parts[2].trim().replace(/^'|'$/g, "");
+  const postDate = parts[2].trim().replace(/^'|'$/g, '');
 
   const post = {
     postId,
-    status: isPublished ? "publish" : "inherit",
+    status: isPublished ? 'publish' : 'inherit',
     title,
     postDate,
     // Preserve originalPostDate if it exists in previous data
@@ -119,9 +119,9 @@ lines.forEach((line) => {
 });
 
 // Compare with legacy articles.json
-const legacyPath = path.join(__dirname, "../articles.json");
+const legacyPath = path.join(__dirname, '../articles.json');
 const legacyPosts: LegacyPost[] = JSON.parse(
-  fs.readFileSync(legacyPath, "utf8")
+  fs.readFileSync(legacyPath, 'utf8')
 );
 
 const newTitles = new Set(
@@ -159,9 +159,9 @@ console.log(
 );
 missingTitles.forEach((p) => console.log(`- ${p.title}`));
 
-console.log("\nMerging posts...");
+console.log('\nMerging posts...');
 
-console.log("\nExtracting content for posts...");
+console.log('\nExtracting content for posts...');
 
 // Extract content for each post
 const postsWithContent = Array.from(titleToPost.values()).map((post) => {
@@ -182,8 +182,8 @@ const postsWithContent = Array.from(titleToPost.values()).map((post) => {
     // The content should be the third field after splitting on "', '"
     const content = contentParts[2]
       .replace(/\\'/g, "'") // Unescape single quotes
-      .replace(/\\n/g, "\n") // Convert \n to actual newlines
-      .replace(/\\r/g, "\r") // Convert \r to actual carriage returns
+      .replace(/\\n/g, '\n') // Convert \n to actual newlines
+      .replace(/\\r/g, '\r') // Convert \r to actual carriage returns
       .trim();
 
     return {
