@@ -34,6 +34,7 @@
     "@next/third-parties": "^14.2.22",
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
+    "postcss-nesting": "^12.1.0",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "markdown-it": "^13.0.1",
