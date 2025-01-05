@@ -1,0 +1,19 @@
+---
+title: "On Science and Religion"
+date: 2018-10-05 15:24:25
+author: John Vandivier
+---
+
+
+
+<!-- wp:paragraph -->
+<p>This article aggregates a few talking points on the relationship between Christianity, education, religion, and science.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {\"ordered\":true} -->
+<ol><li>Ecklund and Scheitle, 2017, <a href=\"https://www.christianitytoday.com/news/2017/december/proof-that-scientists-dont-hate-christians-dawkins-aaas.html\">Religion vs. Science: What Religious People Really Think</a><ol><li>About 36 percent of evangelicals think scientists are hostile to religion, compared to 22 percent of Americans overall, according to a 2014 study released by the American Association for the Advancement of Science (AAAS).<ol><li>Ecklund seems baffled about this, but evangelicals are right to think the academy is against them. See <a href=\"http://coldcasechristianity.com/2018/are-young-people-really-leaving-christianity/\">The Religious Beliefs and Behavior of College Faculty</a>, 2007, The Institute for Jewish &amp; Community Research Review: Faculty Feel Most Unfavorably about Evangelical Christians. This is the only religious group about which a majority of non-Evangelical faculty have negative feelings.</li></ol></li><li>While university scientists remain less likely than the average American to have a religious affiliation, those with “rank-and-file” science careers aren’t so different than those outside the field...Research showed that believers tend to focus on practical application.</li></ol></li><li><a href=\"http://www.pewinternet.org/2015/10/22/science-and-religion/\">Pew, 2015, Religion and Science</a><ol><li>Highly religious Americans are less likely than others to see conflict between faith and science.</li></ol></li><li><a href=\"http://www.pewforum.org/2009/11/05/scientists-and-belief/\">Pew, 2009, Scientists and Belief</a><ol><li>A minority of American scientists are irreligious.</li><li>Christians are the most common religious group, and protestants are the most common kind of Christian.</li><li>A scientist is more likely to be a protestant than an atheist or an agnostic. Combining atheists and agnostics together, they are more common than protestants but less common than Christians.</li></ol></li><li><a href=\"http://www.afterecon.com/education/independent-effect-education-christianity/\">The Independent Effect of Education on Christianity</a><br/><ol><li>More educated folks are more often church members and more likely to have attended church in the past week.</li><li>Converts to theism come disproportionately from those with a Master’s or higher.</li><li>Few studies on religiousness consider the unique question on Christianity. If Christianity is true and Islam is false, for example, we would not expect more education to lead to a general effect.</li></ol></li><li><a href=\"http://www.afterecon.com/philosophy-religion-and-apologetics/apparent-link-atheism-intelligence/\">On the Apparent Link Between Atheism and Intelligence</a><ol><li>\"there is no reason to think that the more intelligent people are less religious, and small reasons to think otherwise.\"</li></ol></li><li>Both the Old and New Testaments begin on empirical grounds.<ol><li>Genesis 1:1 states the universe had a beginning, contra the historical position of atheists that the universe was timeless and without beginning. This is an empirical claim which has been verified by modern science.</li><li>The New Testament starts with the Gospels, which are eye witness accounts. Eye witness testimony is a method of collecting empirical data. The gospel accounts are some of the most textually valid historic documents that exist in the entire academic field of history.<br/></li></ol></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

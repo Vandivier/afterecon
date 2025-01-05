@@ -1,0 +1,9 @@
+---
+title: "Lessons from Dinner With J Warner Wallace"
+date: 2014-11-14 16:11:17
+author: John Vandivier
+---
+
+
+
+Today is April 9, 2013. Today J. Warner Wallace is giving a speech at Sam Houston State University in Huntsville, TX which I will be attending. Last night, however, I had the rare opportunity to have dinner with him and a few others due to the remarkable club called Ratio Christi which I attend and which I may discuss later.<br /><br />This is <a href=\"http://www.str.org/site/News2?page=NewsArticle&amp;id=8036\">J.(im) Warner Wallace</a>:<br /><br />[youtube http://www.youtube.com/watch?v=XcB9h1T_SAQ&amp;w=560&amp;h=315]<br /><br /><br />Some of the insights he shared:<br />-Blogging once per day, 5 days a week &gt; blogging on occasion, even with in-depth, lengthy articles.<br />-An ideal blog article will be about 500 words. (I recently did my first guest blog and the blog owner there specifically requested less than 500 words...This independent verification convinced me that lengthy articles are a blog-killer.)<br />-I need to read the following 2 books: 1 - <a href=\"https://secure2.convio.net/str/site/Ecommerce/929219665?VIEW_PRODUCT=true&amp;product_id=3723&amp;store_id=1161&amp;JServSessionIdr004=ilw7lr7r28.app209a\">Decision Making and the Will of God</a> (actually Wallace recommended the an audio version from Koukl, not <a href=\"http://www.amazon.com/Decision-Making-Will-God-Alternative/dp/1590522052\">the original</a>.) 2 - <a href=\"http://michaelhyatt.com/platform-overview\">Platform by Michael Hyatt</a> Look forward to the upcoming reviews.<br />- Affecting culture &gt; affecting policy/academia/law...<br /><br />Today I will attend his speech and bring you even more of his insights!

@@ -1,0 +1,9 @@
+---
+title: "\"Economic Experts\" Still Have No Clue About Bitcoin"
+date: 2014-11-14 16:10:36
+author: John Vandivier
+---
+
+
+
+<a href=\"http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_8qRwhHaLc7b5Sp7\">This article</a> covers a poll of mainstream \"economic experts,\" about half Keynesian and half Chicago school or monetarist. No notable Austrians were surveyed.<br /><br />The poll was a statement and the respondents agreed or disagreed. The statement was, \"A bitcoin's value derives solely from the belief that others will want to use it for trade, which implies that its purchasing power is likely to fluctuate over time to a degree that will limit its usefulness.\"<br /><br />79% of respondents either agreed or strongly agreed. 87% after a weighting process was applied which considers votes from more well-reputed economists as stronger. This means not only is mainstream economics wrong, it thinks the people who are wrong are the smart ones! 0% strongly disagreed.<br /><br />One thing all economists are taught as an elementary concept is opportunity cost. These economists fail to realize that opportunity cost is a source of intrinsic value! Some of bitcoin's intrinsic value are also true regardless of opportunity cost. They are absolute intrinsic values. Bitcoin has at lest 6 kinds of intrinsic value, some absolute and some relative, in addition to the subjective value addressed by the poll:<br /><br />1) Superior payment processing<br />2) Anonymity<br />3) Self-enforcing and automated contracts such as escrow, multiparty signature and others. See the video below on these very valuable \"contracts,\" which can potentially replace entire industries or governments:<br /><br />[youtube http://www.youtube.com/watch?v=mD4L7xDNCmA&amp;w=560&amp;h=315]<br /><br />4) Inflation protection<br />5) Superior divisibility<br />6) International usability

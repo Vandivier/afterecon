@@ -1,0 +1,27 @@
+---
+title: "Problems of Math in Economic Modelling"
+date: 2015-01-16 04:04:48
+author: John Vandivier
+---
+
+
+
+There are problems in the application of math in economic modelling. Specifically, calculus and statistics are misapplied in mainstream economic modelling.
+<p style=\"text-align: center;\"><strong>Calculus</strong></p>
+<p style=\"text-align: center;\"><em><strong>Instantaneous change != marginal change</strong></em></p>
+<p style=\"text-align: left;\">A large issue in the application of calculus to economics is the improper equivocation of economic marginal change and a marginal or instantaneous change in calculus. In economics, a marginal change is a change of 1. In calculus, a marginal or instantaneous change is an infinitesimal change.</p>
+<p style=\"text-align: left;\">Something of infinitesimal size is equal to the value of the limit of x as x approaches 0. Basically, it's almost 0 but it's not.</p>
+<p style=\"text-align: left;\">This issue is not nitpicking. Let's take an example from economics. Let's say the marginal product of labor, according to the calculus, is 5 units. The problem is that a lame economist would improperly translate this into saying, \"If we add 1 unit of labor then we should expect output to rise by 5 units.\" The smarter economist would add the phrase \"ceteris paribus\" in that sentence somewhere, but the smartest economist would realize that the ceteris paribus requirement has already been broken by the positional movement from a infinitesimal change to a change of 1.</p>
+<p style=\"text-align: left;\">This is because the marginal product of labor is not constant. It changes based on the amount of labor and the ratio of labor to capital among many other factors. It has elasticity and sensitivity which measure the degree of this change. If the marginal product of labor is sensitive enough to the level of labor or the ratio of capital to labor then it may be significantly different when the change in labor is 1, rather than infinitesimal.</p>
+<p style=\"text-align: left;\">I'm not advocating a Rothbardian rejection of calculus. I'm a fan of the Friedmanian attitude that we ought to use that which works. For macroeconomic models where a marginal change is relatively more like an instantaneous change, although it still isn't, calculus seems to work pretty well, although careful evaluation of underlying assumptions is one way in which a good thing is yet made better.</p>
+<p style=\"text-align: left;\">The problem is pronounced in microeconomics, small business economics, economics of entrepreneurship, and single-actor economics. In each of these cases the quantity of labor, or the amount of most variables and parameters of interest for that matter, is small. In such cases a single unit change is proportionally much more significant and potentially model-breaking.</p>
+<p style=\"text-align: left;\">In short, marginal values are useless without additional information and testing related to elasticity, sensitivity, robustness, and so on, particularly when looking at small markets.</p>
+<p style=\"text-align: center;\"><strong>Statistics</strong></p>
+<p style=\"text-align: center;\"><em><strong>Free market population size assumptions invalidate most statistical measures</strong></em></p>
+<p style=\"text-align: left;\">Developing probabilistic price theory might allow us to explain why markets support nearly identical goods at a variety of prices, help resolve otherwise apparently irrational action, explain why markets move smoothly, and shed light on the process of innovation.</p>
+<p style=\"text-align: left;\">Unfortunately, modern free market assumptions include the assumption that there are infinite producers and consumers. An example of one problematic implication would be that the size of the standard deviation would collapse to 0.</p>
+An economist would retort, \"Exactly. In our theoretical models every firm produces at the same price. There is no deviation.\" In some sense that economist is correct. External validity, not internal validity, is the issue with this incompatibility.
+<p style=\"text-align: left;\">The practical economist uses statistics for many things. This is perfectly appropriate because the applied economist is dealing with finite population and sample sizes. The issue comes in when the empirical economist begins to interpret their data in light of free market economic theory, which is based on incompatible assumptions.</p>
+<p style=\"text-align: left;\">In parallel to the calculus critique, the issue is less strong at the macroeconomic level. This is because the assumptions are more compatible as the population size grows, although it is never actually compatible.</p>
+<p style=\"text-align: left;\">Also in parallel to the calculus point, I do not suggest we shouldn't use statistics. They work very well as anyone can tell. The problem to me is obviously with the assumptions. In short, this discussion plays into the richer criticism of many theoretical assumptions made in economics these days.</p>
+<p style=\"text-align: left;\">Tangentially, the market-accepted range of prices is related to the elasticities of supply and demand. Traditional models would identify an equilibrium point which probabilistic models would identify as the center of a range, where deviation from the equilibrium incurs a lower probability of transaction, for either supply reasons or demand reasons depending on the direction of the price deviation.</p>

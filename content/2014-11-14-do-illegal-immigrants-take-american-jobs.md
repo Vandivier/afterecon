@@ -1,0 +1,31 @@
+---
+title: "Do Illegal Immigrants Take American Jobs?"
+date: 2014-11-14 16:06:32
+author: John Vandivier
+---
+
+
+
+I recently butchered an interview when I was asked, \"Do <a class=\"zem_slink\" title=\"Illegal immigration\" href=\"http://en.wikipedia.org/wiki/Illegal_immigration\" target=\"_blank\" rel=\"wikipedia\">illegal immigrants</a> take American jobs?\" My answer, which no doubt confounded my interviewer and left him with the impression that I was intellectually confused, was, \"Yes and no, but usually yes.\" This article is meant to defend that statement, and perhaps find a way to rephrase it in a more intelligent fashion.
+
+I elaborated that illegal immigrants both increase the labor stock which creates more jobs and economic growth and sometimes accept sub-minimum wage jobs or otherwise less-than-competitive wages. Although the law discourages them, some employers would prefer illegals to Americans due to this. In fact there are other reasons employers would prefer illegals such as for loyalty reasons when the employer itself is behaving illegally, but let's put those cases aside for now.
+
+In the case where an employer would genuinely not hire a new worker for the competitive wage, but would hire a new worker for sub-competitive wages, the illegal cannot be said to have \"taken a job.\" Factors such as geographical firm isolation and the minimum wage contribute to this genuine non-stealing of jobs. Furthermore many illegals are not <a class=\"zem_slink\" title=\"Laborer\" href=\"http://en.wikipedia.org/wiki/Laborer\" target=\"_blank\" rel=\"wikipedia\">unskilled workers</a> as they are portrayed to be. I have met some extremely fine construction workers and other workers with advanced woodworking, concrete working, lingual and other skills who turned out to be illegal.
+
+Geographic firm isolation means that there may be no options other than an illegal when a particular skill is sought for a particular job in a particular time frame. I don't simply mean this in some theoretical way, I have seen it happen. In these cases the job and a series of related jobs because of the nature of construction sub-contracting these days would genuinely never have been created.
+
+[caption id=\"\" align=\"alignright\" width=\"300\"]<a href=\"http://commons.wikipedia.org/wiki/File:2006_Minimum_Wage_Map.svg\" target=\"_blank\"><img class=\"zemanta-img-inserted\" title=\"Status of minimum wage in 2006 in United State...\" alt=\"Status of minimum wage in 2006 in United State...\" src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2006_Minimum_Wage_Map.svg/300px-2006_Minimum_Wage_Map.svg.png\" width=\"300\" height=\"186\" /></a> Status of minimum wage in 2006 in United States and territories (Photo credit: Wikipedia)[/caption]
+
+Minimum wage further exacerbates the situation. Illegals are not the only ones accepting sub-minimum wage jobs, but they have less motivation not to do so. A young high school kid might be offered a sub-<a class=\"zem_slink\" title=\"Minimum wage\" href=\"http://en.wikipedia.org/wiki/Minimum_wage\" target=\"_blank\" rel=\"wikipedia\">minimum wage job</a>, but would also be discouraged by the fact that the job is illegal which caries various consequences. The illegal immigrant cares less that the job is illegal because they are already breaking the law. The lack of respect for the <a class=\"zem_slink\" title=\"Rule of law\" href=\"http://en.wikipedia.org/wiki/Rule_of_law\" target=\"_blank\" rel=\"wikipedia\">rule of law</a> both causes them to become illegal immigrants in the first place and later causes them to become illegal workers. When minimum wage is present in a culture where workers greatly respect the rule of law but employers don't, the labor stock is limited and there is geographic isolation, the result is that there are many jobs which genuinely would not have been created. Illegal immigrants may obtain illegal jobs in such a situation without displacing workers.
+
+We should note the non-economic reasons for illegal immigration. It is not necessarily a lack of respect for the law. It may simply be that the benefits outweigh that respect. In some cases it may even be a matter of survival for one's self or family. This taking care of one's self or family may be due either to the fact that other countries such as Mexico and other Latin American countries have such horrible economies, or it may be due to such factors as the fact that such countries are outright dangerous. Mexican gangs are ruthless and dangerous as are various Muslim groups and even certain governments around the world.
+
+So we can see that in some cases illegal immigrants do take jobs which would have been given to Americans. However, they usually do. To explain that side of the argument will require a separate post.
+<h6 class=\"zemanta-related-title\" style=\"font-size:1em;\">Related articles</h6>
+<ul class=\"zemanta-article-ul\">
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://themuslimissue.wordpress.com/2013/07/23/muslims-in-second-largest-group-of-illegal-immigrants-in-new-york/\" target=\"_blank\">Muslims in 'second largest group of illegal immigrants' in New York</a> (themuslimissue.wordpress.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.newrepublic.com/article/113651/liberal-opposes-immigration-reform\" target=\"_blank\">Why Liberals Should Oppose the Immigration Bill</a> (newrepublic.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.humanevents.com/2013/06/20/immigration-reform-lower-wages-more-unemployment-and-lots-more-illegal-aliens/\" target=\"_blank\">Immigration reform: lower wages, more unemployment, and lots more illegal aliens</a> (humanevents.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.realclearmarkets.com/articles/2013/07/02/the_senate_immigration_bill_encourages_more_illegal_immigration_100447.html\" target=\"_blank\">The Senate Immigration Bill Encourages More Illegal Immigration</a> (realclearmarkets.com)</li>
+	<li class=\"zemanta-article-ul-li\"><a href=\"http://www.washingtontimes.com/news/2013/jul/29/white-house-illegal-immigrants-key-rural-economy/\" target=\"_blank\">White House: Illegal immigrants key to rural economy</a> (washingtontimes.com)</li>
+</ul>

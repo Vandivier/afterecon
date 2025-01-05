@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { fileURLToPath } from 'url';
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -136,7 +136,7 @@ function extractPosts(sql: string): Post[] {
 // Main execution
 const sqlContent = fs.readFileSync(
   path.join(__dirname, "../wp-dump.sql"),
-  "utf8"
+  "utf8",
 );
 
 const posts = extractPosts(sqlContent);

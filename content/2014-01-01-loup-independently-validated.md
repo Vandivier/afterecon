@@ -1,0 +1,21 @@
+---
+title: "LoUP Independently Validated"
+date: 2014-01-01 01:35:42
+author: John Vandivier
+---
+
+
+
+This article will discuss a philosophy article I just crossed and note that it independently verifies an old idea of mine.
+
+<em><a href=\"http://www.egs.edu/faculty/slavoj-zizek/articles/philosophy-the-unknown-knowns-and-the-public-use-of-reason/\">Philosophy, the \"unknown knowns\", and the public use of reason</a> </em>is the name of an article I recently encountered from an author by the name of Slavoj Žižek. The article was apparently published in 2006 but I only just ran across it. Key quote:
+<blockquote>In March 2003, Donald Rumsfeld engaged in a little bit of amateur philosophizing about the relationship between the known and the unknown: ‘‘There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we know we don’t know. But there are also unknown unknowns. There are things we don’t know we don’t know.’\" What he forgot to add was the crucial fourth term: the ‘‘unknown knowns,’’ things we don’t know that we know—which is precisely the Freudian unconscious, the ‘‘knowledge which doesn’t know itself.’’</blockquote>
+I think there are two interesting points here. The first is the idea of \"unknown unknowns.\" I talked about this a long time ago as the Law of Unobservable Phenomenon as shown in the following video among many others:
+
+http://www.youtube.com/watch?v=Pn0zjQ-Mi9s&amp;feature=c4-overview-vl&amp;list=PL879915C94D7599D9
+
+This idea is also discussed in sociological literature as a bad thing. This unknown unknown is one kind of what sociologists refer to as a wicked problem. There are many qualities which can make a problem a wicked problem, but one such quality is the fact that it is a problem you don't know is a problem. Sociologists and policymakers hate wicked problems because they are fundamentally unable to be solved. I love wicked problems for precisely the reason that they can't be solved by government policy or regulation, making them a direct reason that anarchism is fundamentally superior to centralized governance. Some kinds of wicked problems are also related to my idea of <a href=\"http://afterecon.com/theoretical-development-and-application/importance-moral-information/\">double innovations</a>. Technology or innovation is hard for regulators to handle, but these double innovations are another kind of wicked problem which is absolutely impossible for regulators to handle.
+
+The other interesting point is that the philosopher author considers unknown knowns as equivalent to the Freudian unconscious. I am no psychology theorist but what little Freud I have read has seemed like garbage to me. On the other hand there is a related concept in sociology and organization theory which I would consider a valid operationalization of the concept of an unknown known. In organization theory we often analyze culture. There are three levels of culture which include artifacts, espoused values and basic assumptions.
+
+Basic assumptions are essentially real values or the values which are observed through your action rather than your words. Economists use basic assumptions and real values, rather than espoused values, when an economist implicitly assumes that a voluntary transaction reveals consumer preference. In other words you can say you hate being fat but when you buy a can of Pringles and eat it voluntarily, the economist and the sociologist will assume that actions speak louder than words and that your real values are the ones you act on rather than the ones you espouse. If that is what the philosopher author meant when he talked about the Freudian unconscious then great but I wouldn't assume that. I think there are some tools such as sociological tools for uncovering basic assumptions and operating or real values which constitutes the unknown knowns, but unknown unknowns are a unique problem which can't be prepared for very well by centralized political structures.

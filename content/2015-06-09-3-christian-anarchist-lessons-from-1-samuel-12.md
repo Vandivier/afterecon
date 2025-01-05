@@ -1,0 +1,20 @@
+---
+title: "3 Christian Anarchist Lessons from 1 Samuel 12"
+date: 2015-06-09 04:15:15
+author: John Vandivier
+---
+
+
+
+This article will attempt to draw out 3 theological points relevant to Christian anarchism on the basis of <a href=\"https://www.biblegateway.com/passage/?search=1%20Samuel%2012\">1 Samuel 12</a>.
+
+An important excerpt occurs in verses 12 through 17:
+<blockquote><span id=\"en-NIV-7473\" class=\"text 1Sam-12-12\"><sup class=\"versenum\">12 </sup>“But when you saw that Nahash king of the Ammonites was moving against you, you said to me, ‘No, we want a king to rule over us’—even though the <span class=\"small-caps\">Lord</span> your God was your king.</span> <span id=\"en-NIV-7474\" class=\"text 1Sam-12-13\"><sup class=\"versenum\">13 </sup>Now here is the king you have chosen, the one you asked for; see, the <span class=\"small-caps\">Lord</span> has set a king over you.</span> <span id=\"en-NIV-7475\" class=\"text 1Sam-12-14\"><sup class=\"versenum\">14 </sup>If you fear the <span class=\"small-caps\">Lord</span> and serve and obey him and do not rebel against his commands, and if both you and the king who reigns over you follow the <span class=\"small-caps\">Lord</span> your God—good!</span> <span id=\"en-NIV-7476\" class=\"text 1Sam-12-15\"><sup class=\"versenum\">15 </sup>But if you do not obey the <span class=\"small-caps\">Lord</span>, and if you rebel against his commands, his hand will be against you, as it was against your ancestors.</span>
+
+<span id=\"en-NIV-7477\" class=\"text 1Sam-12-16\"><sup class=\"versenum\">16 </sup>“Now then, stand still and see this great thing the <span class=\"small-caps\">Lord</span> is about to do before your eyes!</span> <span id=\"en-NIV-7478\" class=\"text 1Sam-12-17\"><sup class=\"versenum\">17 </sup>Is it not wheat harvest now? I will call on the <span class=\"small-caps\">Lord</span> to send thunder and rain. And you will realize what an evil thing you did in the eyes of the <span class=\"small-caps\">Lord</span> when you asked for a king.”</span></blockquote>
+Three points:
+<ol>
+	<li><strong>Having a state is apparently not a requirement from God</strong>. Yes, <a href=\"http://www.biblestudytools.com/nlt/romans/13.html\">God says to respect government</a>, but it also seems that he does not demand or perhaps not even prefer the existence of a state. So obey states where they exist, but their existence is optional and perhaps not even preferred. God may be open to or even prefer a society where there is no ruling authority other than God. I like to say this is a <a href=\"http://americanvision.org/948/theonomy-vs-theocracy/\">theonomy rather than a theocracy</a>, but I am using that term a bit strangely.</li>
+	<li><strong>God gave the people a king because they asked for it. </strong>God is loving and just. In his love he sometimes gives us what we ask for, even if we are asking for something less than optimal. Of course he will end up using this toward his own end and perhaps that includes teaching us a lesson. One important thing about this point is that it lends itself to the idea that anarchists will need to win over public opinion and demand in order to change society.</li>
+	<li><strong>Preferring a government other than God is bad. </strong>Saying that having a state is apparently not a requirement and that God gave the people a king because they asked for it makes it maybe seem like the form of government isn't a big deal for God. That he doesn't really have a strong preference one way or another. This is not true when we look at scripture. When the Isrealites ask for a king this is called evil. It's also interesting to note that this is a case where the preference itself is called evil. Almost no economist would dare to call a preference evil per se, but the Christian has a reason to do so from scripture.</li>
+</ol>

@@ -1,6 +1,6 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -10,6 +10,9 @@ interface Post {
   title: string;
   status: string;
   postDate: string;
+  content?: string;
+  originalPostDate?: string;
+  ignore?: boolean | 'quote' | 'obsolete';
 }
 
 interface LegacyPost {
@@ -22,15 +25,56 @@ interface LegacyPost {
   filepath: string;
 }
 
-const chunk1 = fs.readFileSync(path.join(__dirname, "../wp-dump.sql"), "utf8");
+// Read existing articles if file exists
+let existingPosts: Post[] = [];
+const existingPath = path.join(__dirname, '../articles-from-analyze-sql.json');
+try {
+  existingPosts = JSON.parse(fs.readFileSync(existingPath, 'utf8'));
+  console.log(
+    `Read ${existingPosts.length} existing posts from articles-from-analyze-sql.json`
+  );
+} catch (e) {
+  console.log(
+    'No existing articles-from-analyze-sql.json found, starting fresh'
+  );
+}
+
+// Normalize titles in existing posts
+if (existingPosts.length > 0) {
+  console.log('\nNormalizing titles in existing posts...');
+  const normalizedPosts = existingPosts.map((post) => ({
+    ...post,
+    title: normalizeTitle(post.title),
+  }));
+
+  // Save normalized posts back to file
+  fs.writeFileSync(existingPath, JSON.stringify(normalizedPosts, null, 2));
+  console.log(`Normalized and saved ${normalizedPosts.length} titles`);
+
+  // Update existingPosts with normalized versions
+  existingPosts = normalizedPosts;
+}
+
+// Create map of existing posts by title for easy lookup
+const existingPostsByTitle = new Map<string, Post>();
+existingPosts.forEach((post) => {
+  existingPostsByTitle.set(normalizeTitle(post.title), post);
+});
+
+const existingPostsById = new Map<number, Post>();
+existingPosts.forEach((post) => {
+  if (post.postId) {
+    existingPostsById.set(post.postId, post);
+  }
+});
+
+const chunk1 = fs.readFileSync(path.join(__dirname, '../wp-dump.sql'), 'utf8');
 
 // Split into all lines
-const lines = chunk1.split("\n");
-
-const posts: Post[] = [];
+const lines = chunk1.split('\n');
 const titleToPost = new Map<string, Post>();
 
-lines.forEach(line => {
+lines.forEach((line) => {
   // Extract post ID
   const postIdMatch = line.match(/\((\d+),/);
   if (!postIdMatch) return;
@@ -43,20 +87,28 @@ lines.forEach(line => {
   if (!isPublished && !isInherited) return;
 
   // Extract title
-  const beforeStatus = line.split(isPublished ? "', 'publish', '" : "', 'inherit', '")[0];
+  const beforeStatus = line.split(
+    isPublished ? "', 'publish', '" : "', 'inherit', '"
+  )[0];
   const titleParts = beforeStatus.split("', '");
-  const title = titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, "");
+  const title = normalizeTitle(
+    titleParts[titleParts.length - 2]?.trim().replace(/^'|'$/g, '')
+  );
 
   // Extract post date (third element when splitting by comma)
-  const parts = line.split(",");
+  const parts = line.split(',');
   if (parts.length < 3) return;
-  const postDate = parts[2].trim().replace(/^'|'$/g, "");
+  const postDate = parts[2].trim().replace(/^'|'$/g, '');
 
   const post = {
     postId,
-    status: isPublished ? "publish" : "inherit",
+    status: isPublished ? 'publish' : 'inherit',
     title,
-    postDate
+    postDate,
+    // Preserve originalPostDate if it exists in previous data
+    ...(existingPostsByTitle.get(title)?.originalPostDate
+      ? { originalPostDate: existingPostsByTitle.get(title)!.originalPostDate }
+      : {}),
   };
 
   // Only keep most recent version of each title
@@ -66,21 +118,142 @@ lines.forEach(line => {
   }
 });
 
-// Convert map to array
-const uniquePosts = Array.from(titleToPost.values());
-
-// Write to JSON file
-const outputPath = path.join(__dirname, "../articles-from-analyze-sql.json");
-fs.writeFileSync(outputPath, JSON.stringify(uniquePosts, null, 2));
-
 // Compare with legacy articles.json
-const legacyPath = path.join(__dirname, "../articles.json");
-const legacyPosts: LegacyPost[] = JSON.parse(fs.readFileSync(legacyPath, "utf8"));
+const legacyPath = path.join(__dirname, '../articles.json');
+const legacyPosts: LegacyPost[] = JSON.parse(
+  fs.readFileSync(legacyPath, 'utf8')
+);
 
-const newTitles = new Set(uniquePosts.map(p => p.title));
-const missingTitles = legacyPosts.filter(p => !newTitles.has(p.title));
+const newTitles = new Set(
+  Array.from(titleToPost.values()).map((p) => normalizeTitle(p.title))
+);
+const missingTitles = legacyPosts.filter(
+  (p) => !newTitles.has(normalizeTitle(p.title))
+);
 
-console.log(`\nFound ${missingTitles.length} titles in legacy articles.json that are missing from new analysis:`);
-missingTitles.forEach(p => console.log(`- ${p.title}`));
+// Merge missing legacy posts into uniquePosts
+missingTitles.forEach((legacyPost) => {
+  const post: Post = {
+    postId: 0, // No postId available from legacy posts
+    title: legacyPost.title,
+    status: legacyPost.status,
+    postDate: legacyPost.date,
+    content: legacyPost.content,
+    // Check if we have existing data for this title
+    ...(existingPostsByTitle.get(normalizeTitle(legacyPost.title))
+      ? {
+          originalPostDate: existingPostsByTitle.get(
+            normalizeTitle(legacyPost.title)
+          )!.originalPostDate,
+          ignore: existingPostsByTitle.get(normalizeTitle(legacyPost.title))!
+            .ignore,
+        }
+      : {}),
+  };
 
-console.log(`\nWrote ${uniquePosts.length} unique posts to articles-from-analyze-sql.json`); 
+  titleToPost.set(legacyPost.title, post);
+});
+
+console.log(
+  `\nFound ${missingTitles.length} titles in the alternately-parsed articles.json that were merged from legacy analysis:`
+);
+missingTitles.forEach((p) => console.log(`- ${p.title}`));
+
+console.log('\nMerging posts...');
+
+console.log('\nExtracting content for posts...');
+
+// Extract content for each post
+const postsWithContent = Array.from(titleToPost.values()).map((post) => {
+  // Find the SQL insert line containing this post's content
+  const postLine = lines.find((line) => {
+    const postIdMatch = line.match(/\((\d+),/);
+    return postIdMatch && parseInt(postIdMatch[1]) === post.postId;
+  });
+
+  if (!postLine) {
+    return post;
+  }
+
+  // Extract content between post_content field quotes
+  // Split on post_content field which comes after postId and author
+  const contentParts = postLine.split("', '");
+  if (contentParts.length >= 3) {
+    // The content should be the third field after splitting on "', '"
+    const content = contentParts[2]
+      .replace(/\\'/g, "'") // Unescape single quotes
+      .replace(/\\n/g, '\n') // Convert \n to actual newlines
+      .replace(/\\r/g, '\r') // Convert \r to actual carriage returns
+      .trim();
+
+    return {
+      ...post,
+      content,
+    };
+  }
+
+  return post;
+});
+
+// Update titleToPost with content-enhanced posts
+postsWithContent.forEach((post) => {
+  titleToPost.set(post.title, post);
+});
+
+// When writing final output, merge with existing data
+const mergedPosts = Array.from(titleToPost.values()).map((post) => {
+  const existingPostById = existingPostsById.get(post.postId);
+  const existingPostByTitle = existingPostsByTitle.get(
+    normalizeTitle(post.title)
+  );
+
+  if (existingPostById) {
+    // If we have a matching postId, keep existing title but update content
+    return {
+      ...existingPostById,
+      ...post,
+      title: existingPostById.title, // Keep existing title
+      originalPostDate: existingPostById.originalPostDate,
+      ignore: existingPostById.ignore,
+      postId: post.postId || existingPostById.postId, // Keep non-zero postId
+    };
+  } else if (existingPostByTitle && post.postId === 0) {
+    // Only fall back to title matching if current post has no real postId
+    return {
+      ...existingPostByTitle,
+      ...post,
+      originalPostDate: existingPostByTitle.originalPostDate,
+      ignore: existingPostByTitle.ignore,
+      postId: existingPostByTitle.postId || post.postId, // Keep non-zero postId
+    };
+  }
+  return post;
+});
+
+// Write merged posts back to original file
+fs.writeFileSync(existingPath, JSON.stringify(mergedPosts, null, 2));
+
+console.log(
+  `\nWrote ${mergedPosts.length} posts to articles-from-analyze-sql.json`
+);
+console.log(
+  `Preserved ignore field for ${
+    mergedPosts.filter((p) => p.ignore !== undefined).length
+  } posts`
+);
+console.log(
+  `Added content for ${mergedPosts.filter((p) => p.content).length} posts`
+);
+
+const postsWithoutContent = mergedPosts.filter((p) => !p.content && !p.ignore);
+
+if (postsWithoutContent.length > 0) {
+  console.log(
+    `\nWARNING: ${postsWithoutContent.length} posts have no content and are not ignored:`
+  );
+  postsWithoutContent.forEach((p) => console.log(`- [${p.postId}] ${p.title}`));
+}
+
+function normalizeTitle(title: string): string {
+  return title.replace(/\\'/g, "'");
+}

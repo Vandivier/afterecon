@@ -1,0 +1,9 @@
+---
+title: "MEGA's Next Move: Encrypted Email"
+date: 2014-11-14 16:11:38
+author: John Vandivier
+---
+
+
+
+Do you have a google, yahoo, AOL, MSN, hotmail, or other nonencrypted email service? Most entities keep archives of significant amounts of info you share, even privately through email. The US government has a right to view that data if they have \"reasonable suspicion\" of any crime.<br /><br />MEGA is an encrypted data storage firm. That means they disguise data from both sides so that even the firm doesn't know what data you are storing. <a href=\"http://www.guardian.co.uk/technology/2013/feb/26/kim-dotcom-mega-encrypted-email\">They have decided that they will begin offering email!!</a> Why does that matter? If the government asks to see a particular account they will get encrypted data. To be sure, it's possible to de-encrypt this kind of stuff, but not in all circumstances, and it is extremely difficult. If you couple that with an account paid for in Bitcoin and Tor or some other onion browser the ability to link an identity to actions done online is exponentially decreased.<br /><br />MEGA is an interesting firm and it's founder, Kim Dotcom, has faced more than a little notoriety. Yes. That is his legal last name. You would never realize that it only launched in January from the fact that MEGA already has more than 3 million registered users. Here is Kim Dotcom's keynote speech from the MEGA launch party. Note his slightly evil accent and laugh despite his apparent genius and pro-freedom stance:<br /><br />[youtube http://www.youtube.com/watch?v=rKBbM2ch_Pk&amp;w=560&amp;h=315]<br /><br />Did I mention? They accept Bitcoin ;)

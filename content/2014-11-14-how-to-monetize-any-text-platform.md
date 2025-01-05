@@ -1,0 +1,9 @@
+---
+title: "How to Monetize Any Text Platform"
+date: 2014-11-14 16:11:04
+author: John Vandivier
+---
+
+
+
+Bitcoin.<br /><br />Bitcoin can monetize anything that can hold text. Better yet, it can do so without revealing your identity and without charging fees! All you have to do is obtain a bitcoin \"wallet.\" These can be generated in various ways. For a basic wallet (ease of use, not intended to carry large amounts of money) I would recommend <a href=\"https://blockchain.info/wallet/\">https://blockchain.info/wallet/</a><br /><br />Blogs, social media postings, comments, anonymous writings, emails, or anything else. Simply paste the \"public key\" of your wallet and people will be able to send money to that address without compromising its security. Never reveal the private key though! This will allow people to take your money. This method is also hard to detect by Google or Amazon because it doesn't involve hyper-linking. You can monetize with this method and use those other services simultaneously, or use this method where others fail! Finally, this method requires virtually no information be required or tracked by any party.<br /><br />You can turn your bitcoins into dollars and vice versa on a Bitcoin currency exchange. In <a href=\"http://thegenerallifeblog.blogspot.com/2013/04/buy-bitcoin-in-5-easy-steps.html\">this article</a> I discuss my preferred way of buying bitcoins while I discuss <a href=\"http://thegenerallifeblog.blogspot.com/2013/04/4-recommended-ways-to-buy-and-sell.html\">getting cash out here.</a><br /><br />Lastly, once you gain a large number of bitcoins, you will more a more secure \"wallet.\" See the following video on how to make a much stronger wallet compared to the blockchain basic wallet:<br /><br />[youtube http://www.youtube.com/watch?v=JsyPfiENwQU&amp;w=560&amp;h=315]<br /><br /><br />Donate to me to boost my motivation and show appreciation!<br />1HT3ykSwHM6oHCjSvQVC9gwdXdHtWnjNkp

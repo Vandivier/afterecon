@@ -1,0 +1,39 @@
+---
+title: "Founding Fathers as Proto-Anarchists"
+date: 2014-12-12 17:06:18
+author: John Vandivier
+---
+
+
+
+There is an old saying which is often improperly attributed to Thomas Jefferson, and sometimes to Thomas Paine. The saying is, \"The government which governs best governs least.\" In fact, <a href=\"http://en.wikipedia.org/w/index.php?title=Civil_Disobedience_%28Thoreau%29&amp;oldid=633465805\">this is a quote from Henry David Thoreau</a>, who was in turn paraphrasing the motto of John O'Sullivan's magazine called <em>The United States Magazine and Democratic Review.</em>How nice it would be if the Democrats of today would embrace such thinking.
+
+While the quote was not from Jefferson, I think he would support it. <a href=\"http://en.wikipedia.org/w/index.php?title=Thomas_Jefferson&amp;oldid=636059391\">Jefferson helped form the Democratic-Republican Party</a> and principally authored the Declaration of Independence. Laissez faire thinking was favored in that time. <a href=\"http://texaslynn.wordpress.com/2010/05/04/our-founding-fathers-believed-in-limited-government-low%C2%A0taxes/\">In <em>Common Sense,</em> Paine discusses government as a necessary evil</a>. <a href=\"http://www.answers.com/Q/Quotes_from_founding_fathers_regarding_limited_government\">James Madison favored an impotent government by default </a>with specified special privileges rather than an assumed empowered government with specified exceptions. Madison also <a href=\"http://www.thenewamerican.com/culture/history/item/4781-james-madison-and-limited-government\">favored the free market and deregulation, saying</a>:
+<blockquote>I own myself the friend to a very free system of commerce, and hold it as a truth, that commercial shackles are generally unjust, oppressive and impolitic — it is also a truth, that if industry and labor are left to take there own course, they will generally be directed to those objects which are the most productive, and this in a more certain and direct manner than the wisdom of the most enlightened legislature could point out.</blockquote>
+Early American thinkers would be easily recognized as libertarian, or classically liberal, but I would go further to say that the American founding fathers were proto-anarchists. Primarily in the anarcho-capitalist sense, but in some cases perhaps even in the historical sense as <a href=\"http://en.wikipedia.org/w/index.php?title=French_Revolution&amp;oldid=636793362\">some favored the French Revolution</a> which occurred just after our own.
+
+The founding fathers attempted to create a minimal state, but believed that some level of state was a needed. Compare that radical idea to monarchy, the type of government nearly universally exercised elsewhere.
+
+By limiting government so radically, they were essentially prototyping or testing out anarchy. The founding of our country represented the founding of a country based on a radically new and different model of governance in that time, to such a degree that it has been called \"The American Experiment.\" This experiment is as much an experiment to test the hypothesis of anarcho-capitalism as it is to test the hypothesis of a minimal state.
+
+Today we know that <a href=\"http://www.afterecon.com/privatized-defense-reduces-violence/\">the market can provide security perfectly well, and arguably better than a central government</a>. In contrast, our founders believed that we needed a minimal state for security reasons.They did not unreasonably come to their own conclusion. They tried the Articles of Confederation, a weaker system of governance, but they concluded that the Articles of Confederation had failed because they created a government which was too weak.
+
+We may never resolve the curious discrepancy between their conclusion and my own. Did the founding fathers incorrectly conclude that a minimal security state was necessary, or were they correct in their own time, and the market's ability to provide security simply improved over time?
+
+I'd like to think that if they had lived until today, and seen the data we now have, they would favor a fully decentralized system.
+
+I also think the founding fathers had a great love and respect for the life of the frontiersman and the explorer. Retrospectively, the political system of the frontier and the oceans is recognizably anarcho-capitalism. <a href=\"http://en.wikipedia.org/w/index.php?title=Peter_Leeson&amp;oldid=626499512\">Peter Leeson has studied pirate society</a> as an exercise in emergent free market society and <a href=\"http://www.seasteading.org/floating-city-project/\">The Seasteading Institute</a> is attempting to use international waters to create anarcho-capitalist societies in the future.
+
+<a href=\"http://www.archives.gov/exhibits/charters/declaration_transcript.html\">The Declaration recognizes the right to life, liberty, and the pursuit of happiness</a>. Ever since I was a child I was always struck by the stupidity of the teaching that the right to pursue happiness means the right to own private property. It would be a shallow and materialistic life indeed if the only way in which we persued happiness was through the accumulation of property. In fact, the accumulation of property is only a small subset of the way in which we persue happiness and the right to happiness has always been very plain: It's the right to do what you want!
+
+Interestingly, the founders crafted an argument for a system of natural rights based in the idea that people do what they want. Basically, these so-called natural rights are de facto rights. You have the right to do whatever you can do, simply because you can do it. If you are unable to do something then you obviously have no right to do it. It is also absolutely correct to say these rights are God-given because God, as the creator, gave you all of your potential rights and then placed you in an environment which would allow you to choose to exercise some of them.
+
+The Declaration contains a clear articulation of the idea of natural rights, which are very much an anarcho-capitalist idea in retrospect.
+
+Basically, the Declaration says, \"We can do what we want, and allowing you to be our government is not what we want, so we are going to declare independence.\"
+
+How primitively self-interested is that? Yet it's also a beautifully honest and accurate description of a general trait in human nature. If you cut through the garbage of most historical narrative, the reasoning is essentially the same: People do what they want. The founding fathers were unique in their clarity of language when recognizing and supporting such a system of rights.
+
+Aleister Crowley and Ludwig von Mises have their own well-put versions as well. Crowley says the whole Law of Thelema may be summed up as, \"Do what thou wilt.\" Ludwig von Mises, a foundational Austrian Economist, considered what is now called <a href=\"http://wiki.mises.org/mediawiki/index.php?title=Action_axiom&amp;oldid=25994\">the Action Axiom</a> to be tautologically and necessarily true. The Action Axiom states that human action is teleological. Put another way, people intentionally act towards goals. These goals may be referred to as the interests of those people. In short, the thinking is that people necessarily act in their own perceived interest, which is another way of saying that people do what they want, or they pursue happiness.
+
+In conclusion, it seems to me that the founding fathers were, as many have said before me, supporters of a <a href=\"http://en.wikipedia.org/w/index.php?title=Night-watchman_state&amp;oldid=634088108\">Night-watchman state</a>. Compared to their time and neighbors, this change in thinking represents a leap toward anarcho-capitalism. While they didn't support a fully decentralized system due to security concerns, I think they would support a full ancap society today due to the information and abilities we now have.
