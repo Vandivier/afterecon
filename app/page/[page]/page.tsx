@@ -1,41 +1,58 @@
 import Link from 'next/link';
 import { format } from 'date-fns';
 import { getSortedPosts } from '@/lib/posts';
+import { notFound } from 'next/navigation';
 
-// Make this a server component by removing 'use client'
-export default function Home() {
+export async function generateStaticParams() {
+  const posts = getSortedPosts();
+  const totalPages = Math.ceil(posts.length / 10);
+
+  return Array.from({ length: totalPages - 1 }, (_, i) => ({
+    page: (i + 2).toString(),
+  }));
+}
+
+function getPaginationRange(currentPage: number, totalPages: number) {
+  const delta = 1; // Number of pages to show on either side of current page
+  const range: (number | string)[] = [];
+
+  for (let i = 1; i <= totalPages; i++) {
+    if (
+      i === 1 || // First page
+      i === totalPages || // Last page
+      (i >= currentPage - delta && i <= currentPage + delta) // Pages around current
+    ) {
+      range.push(i);
+    } else if (i === 2 && currentPage - delta > 2) {
+      range.push('...');
+    } else if (i === totalPages - 1 && currentPage + delta < totalPages - 1) {
+      range.push('...');
+    }
+  }
+
+  return range;
+}
+
+export default function Page({ params }: { params: { page: string } }) {
+  const pageNumber = parseInt(params.page);
   const posts = getSortedPosts();
   const postsPerPage = 10;
   const totalPages = Math.ceil(posts.length / postsPerPage);
 
-  function getPaginationRange(currentPage: number, totalPages: number) {
-    const delta = 1;
-    const range: (number | string)[] = [];
-
-    for (let i = 1; i <= totalPages; i++) {
-      if (
-        i === 1 ||
-        i === totalPages ||
-        (i >= currentPage - delta && i <= currentPage + delta)
-      ) {
-        range.push(i);
-      } else if (i === 2 && currentPage - delta > 2) {
-        range.push('...');
-      } else if (i === totalPages - 1 && currentPage + delta < totalPages - 1) {
-        range.push('...');
-      }
-    }
-
-    return range;
+  if (isNaN(pageNumber) || pageNumber < 2 || pageNumber > totalPages) {
+    notFound();
   }
 
-  // Generate all pages at build time
+  const startIndex = (pageNumber - 1) * postsPerPage;
+  const endIndex = startIndex + postsPerPage;
+  const currentPosts = posts.slice(startIndex, endIndex);
+
   return (
     <div className="mx-auto max-w-screen-xl">
       <div className="mx-auto max-w-3xl px-6 py-8 lg:px-8">
         <h1 className="mb-12 text-4xl font-bold">Recent Posts</h1>
         <div className="space-y-10">
-          {posts.slice(0, postsPerPage).map((post) => (
+          {currentPosts.map((post) => (
             <article
               key={post.slug}
               className="prose max-w-none dark:prose-invert"
@@ -61,21 +78,23 @@ export default function Home() {
         {/* Updated Pagination Controls */}
         <nav className="mt-10 flex justify-center" aria-label="Pagination">
           <ul className="flex items-center gap-1">
-            <li className="invisible">
-              {' '}
-              {/* Hidden on first page */}
-              <span className="flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium text-gray-300">
+            <li>
+              <Link
+                href={pageNumber > 2 ? `/page/${pageNumber - 1}` : '/'}
+                className="flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+                aria-label="Previous page"
+              >
                 ←
-              </span>
+              </Link>
             </li>
 
-            {getPaginationRange(1, totalPages).map((page, index) => (
+            {getPaginationRange(pageNumber, totalPages).map((page, index) => (
               <li key={index}>
                 {typeof page === 'number' ? (
                   <Link
                     href={page === 1 ? '/' : `/page/${page}`}
                     className={`flex h-9 w-9 items-center justify-center rounded-md text-sm font-medium ${
-                      page === 1
+                      page === pageNumber
                         ? 'bg-sky-600 text-white dark:bg-sky-500'
                         : 'border text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800'
                     }`}
@@ -92,8 +111,12 @@ export default function Home() {
 
             <li>
               <Link
-                href="/page/2"
-                className="flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+                href={`/page/${pageNumber + 1}`}
+                className={`flex h-9 w-9 items-center justify-center rounded-md border text-sm font-medium text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800 ${
+                  pageNumber === totalPages
+                    ? 'pointer-events-none opacity-50'
+                    : ''
+                }`}
                 aria-label="Next page"
               >
                 →
