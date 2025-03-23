@@ -1,9 +1,17 @@
-import { getAllPostSlugs, getPostData } from '@/lib/posts';
+import { getAllPostSlugs, getPostData, PostWithContent } from '@/lib/posts';
 import { format } from 'date-fns';
 import { Metadata } from 'next';
 
 interface Props {
   params: { slug: string };
+}
+
+interface Post {
+  date: string;
+  title: string;
+  author: string;
+  slug: string;
+  content?: string;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -20,7 +28,7 @@ export async function generateStaticParams() {
 }
 
 export default async function Post({ params }: Props) {
-  const post = await getPostData(params.slug);
+  const post = (await getPostData(params.slug)) as PostWithContent;
 
   return (
     <article className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
@@ -37,11 +45,11 @@ export default async function Post({ params }: Props) {
           </div>
           {post.content ? (
             <div
-              className="mt-8"
+              className="prose max-w-none dark:prose-invert"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
           ) : (
-            <p className="text-red-600">No content available for this post.</p>
+            <div>Loading...</div>
           )}
         </div>
       </div>
