@@ -7,12 +7,11 @@
     "node": ">=22.0.0"
   },
   "scripts": {
-    "dev": "npm run prebuild && next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "convert": "./node_modules/.bin/tsx scripts/sql-to-json.ts",
-    "prebuild": "./node_modules/.bin/tsx scripts/build-content.ts",
     "postbuild": "./node_modules/.bin/tsx scripts/build-sitemap.ts"
   },
   "repository": {
@@ -46,10 +45,7 @@
     "remark": "^14.0.3",
     "remark-html": "^15.0.2",
     "remark-parse": "^10.0.2",
-    "tailwindcss": "^3.3.5",
-    "unified": "^10.1.0",
-    "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.6"
+    "tailwindcss": "^3.3.5"
   },
   "devDependencies": {
     "@types/node": "^20.9.3",
@@ -59,7 +55,6 @@
     "prettier": "^3.4.2",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "typescript": "^5.3.2",
-    "node-gyp": "^9.4.0",
     "tsx": "^4.7.1"
   }
 }

@@ -2,7 +2,7 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 
-const postsDirectory = join(process.cwd(), 'content');
+const contentDirectory = join(process.cwd(), 'content');
 
 export interface Post {
   date: string;
@@ -16,19 +16,15 @@ export interface PostWithContent extends Post {
 }
 
 export function getSortedPosts(): Post[] {
-  try {
-    // Create posts directory if it doesn't exist
-    const fileNames = readdirSync(postsDirectory);
+  // Read from content directory instead of SQLite
+  const fileNames = readdirSync(contentDirectory);
 
-    const allPostsData = fileNames.map((fileName) => {
-      // Remove ".md" from file name to get slug
+  const allPostsData = fileNames
+    .filter((fileName) => fileName.endsWith('.md'))
+    .map((fileName) => {
       const slug = fileName.replace(/\.md$/, '');
-
-      // Read markdown file as string
-      const fullPath = join(postsDirectory, fileName);
+      const fullPath = join(contentDirectory, fileName);
       const fileContents = readFileSync(fullPath, 'utf8');
-
-      // Use gray-matter to parse the post metadata section
       const matterResult = matter(fileContents);
 
       return {
@@ -41,18 +37,7 @@ export function getSortedPosts(): Post[] {
       };
     });
 
-    // Sort posts by date
-    return allPostsData.sort((a, b) => {
-      if (a.date < b.date) {
-        return 1;
-      } else {
-        return -1;
-      }
-    });
-  } catch (error) {
-    console.error('Error reading posts directory:', error);
-    return [];
-  }
+  return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getAllPostSlugs() {
@@ -64,7 +49,7 @@ export function getAllPostSlugs() {
 
 export async function getPostData(slug: string) {
   // Read markdown file as string
-  const fullPath = join(postsDirectory, `${slug}.md`);
+  const fullPath = join(contentDirectory, `${slug}.md`);
   const fileContents = readFileSync(fullPath, 'utf8');
 
   // Use gray-matter to parse the post metadata section
@@ -78,7 +63,5 @@ export async function getPostData(slug: string) {
 }
 
 export async function generateStaticPosts() {
-  const posts = getSortedPosts();
-  // Add any additional static generation logic here
-  return posts;
+  return getSortedPosts();
 }

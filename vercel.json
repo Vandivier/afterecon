@@ -1,5 +1,5 @@
 {
-  "buildCommand": "apt-get update && apt-get install -y python3-distutils python3-dev build-essential && npm run build",
-  "installCommand": "apt-get update && apt-get install -y python3-setuptools && npm install",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install --build-from-source",
   "framework": "nextjs"
 }
