@@ -52,4 +52,14 @@ The project includes scripts to migrate content:
 
 ## Known Issues / Future Work
 - **Markdown Rendering:** The project uses `remark` and `remark-html` in `lib/posts.ts` to convert Markdown content into HTML. This handles both pure Markdown and legacy WordPress HTML (via `sanitize: false`). Content is then rendered in `app/posts/[slug]/page.tsx` using `dangerouslySetInnerHTML`.
+
+## Features
+
+### Search
+- **Mechanism:** Client-side title-level search using a static JSON index.
+- **Index Generation:** `scripts/build-search-index.ts` runs during `postbuild`, generating `public/search-index.json`.
+- **Component:** `components/Search.tsx` fetches the index and performs real-time filtering on the client.
+
+### Theme Toggle
+- **Component:** `components/ThemeToggle.tsx` provides a dark/light mode toggle. Standardized to use `☀️` and `🌙` icons.
 - **Pagination:** The home page has basic pagination logic but might need refinement as the number of posts grows.
