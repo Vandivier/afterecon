@@ -27,7 +27,7 @@ author: John Vandivier
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>More important than the specifics of this rando shitpost, however, is the general principal of the economic effect of government intervention in the free market. As has been discussed at length in academia, think tanks, news, and blogs including After Econ, government-produced goods and services tend to cost <a href=\"http://www.afterecon.com/economics-and-finance/the-triple-cost-of-government/\">3x as much</a> as similar-quality products produced on the free market.</p>
+<p>More important than the specifics of this rando shitpost, however, is the general principal of the economic effect of government intervention in the free market. As has been discussed at length in academia, think tanks, news, and blogs including AfterEcon, government-produced goods and services tend to cost <a href=\"http://www.afterecon.com/economics-and-finance/the-triple-cost-of-government/\">3x as much</a> as similar-quality products produced on the free market.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -1,6 +1,8 @@
 import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
 
 const contentDirectory = join(process.cwd(), 'content');
 
@@ -55,9 +57,15 @@ export async function getPostData(slug: string) {
   // Use gray-matter to parse the post metadata section
   const matterResult = matter(fileContents);
 
+  // Use remark to convert markdown into HTML string
+  const processedContent = await remark()
+    .use(html, { sanitize: false })
+    .process(matterResult.content);
+  const contentHtml = processedContent.toString();
+
   return {
     slug,
-    content: matterResult.content,
+    content: contentHtml,
     ...(matterResult.data as { date: string; title: string; author: string }),
   };
 }

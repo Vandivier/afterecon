@@ -51,5 +51,5 @@ The project includes scripts to migrate content:
 - **Performance:** Since this is a blog, prefer static generation where possible (`generateStaticParams`, `generateMetadata`).
 
 ## Known Issues / Future Work
-- **Markdown Rendering:** The project currently uses `dangerouslySetInnerHTML` for the post content. While many posts contain HTML legacy from WordPress, some are pure Markdown. Integrating a proper Markdown-to-HTML processor (like `remark` or `markdown-it`) in `getPostData` or the page component is a likely future task.
+- **Markdown Rendering:** The project uses `remark` and `remark-html` in `lib/posts.ts` to convert Markdown content into HTML. This handles both pure Markdown and legacy WordPress HTML (via `sanitize: false`). Content is then rendered in `app/posts/[slug]/page.tsx` using `dangerouslySetInnerHTML`.
 - **Pagination:** The home page has basic pagination logic but might need refinement as the number of posts grows.

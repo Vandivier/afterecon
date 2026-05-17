@@ -8,10 +8,10 @@ author: John Vandivier
 
 This website is dedicated to post-economic learning. In line with that type of learning, although it may seem contrary to some, I often write about religious or philosophical issues. This article will make clear that this type of writing is related to economics for at least 4 reasons:
 <ol>
-	<li>Economic Morality</li>
-	<li>The Economic Argument for God</li>
-	<li>The Philosophical Underpinnings of All Science</li>
-	<li>The Special Role of Philosophy in Economics</li>
+ <li>Economic Morality</li>
+ <li>The Economic Argument for God</li>
+ <li>The Philosophical Underpinnings of All Science</li>
+ <li>The Special Role of Philosophy in Economics</li>
 </ol>
 <strong>Economic Morality</strong>
 
@@ -21,7 +21,7 @@ The idea of Economic Morality calls into the discussion greater questions of mor
 
 The relationship between economics and libertarianism is an example of the relationship between economics and counterpart morality.
 
-Lastly, the point of After Econ is to answer the question, \"After I have learned economics, what should I do?\" Prima facie this a question of how to derive morality from economics. At second glance, however, this is easily a much more general question of morality.
+Lastly, the point of AfterEcon is to answer the question, \"After I have learned economics, what should I do?\" Prima facie this a question of how to derive morality from economics. At second glance, however, this is easily a much more general question of morality.
 
 <strong>The Economic Argument for God</strong>
 
