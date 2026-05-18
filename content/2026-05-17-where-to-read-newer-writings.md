@@ -13,7 +13,7 @@ I've moved my writing into more monetizable locations where content is more tigh
 2. Three Substacks with content more tightly focused around particular themes
 3. Ladderly.io/blog contains much of my writing on tech career best practices
 
-I also create lots of social media content beyond text content. See my [social media links here](https://github.com/Vandivier/not-johns-linktree).
+I also create lots of social media content beyond text content. See my [social media links here](https://vandivier.github.io/not-johns-linktree/).
 
 ## Patreon — Books, Fiction, and Long-Form Creative Work
 

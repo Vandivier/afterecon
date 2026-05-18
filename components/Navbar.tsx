@@ -1,24 +1,24 @@
-"use client";
+'use client';
 
-import Link from "next/link";
-import ThemeToggle from "./ThemeToggle";
-import Search from "./Search";
+import Link from 'next/link';
+import ThemeToggle from './ThemeToggle';
+import Search from './Search';
 
 export default function Navbar() {
   return (
-    <nav className="sticky top-0 z-50 bg-sky-50 dark:bg-gray-900 shadow-sm border-b border-gray-200 dark:border-gray-800">
-      <div className="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center gap-4">
+    <nav className="sticky top-0 z-50 border-b border-gray-200 bg-sky-50 shadow-sm dark:border-gray-800 dark:bg-gray-900">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
         <Link
           href="/"
-          className="text-2xl font-semibold text-gray-800 dark:text-gray-100 hover:text-sky-600 dark:hover:text-sky-400 transition-colors shrink-0"
+          className="shrink-0 text-2xl font-semibold text-gray-800 transition-colors hover:text-sky-600 dark:text-gray-100 dark:hover:text-sky-400"
         >
           AfterEcon
         </Link>
 
         <div className="flex flex-1 items-center justify-end gap-6">
-          <div className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600 dark:text-gray-400">
+          <div className="hidden items-center gap-6 text-sm font-medium text-gray-600 dark:text-gray-400 md:flex">
             <Link
-              href="/posts/2026-05-17-where-to-read-newer-writings"
+              href="/posts/2026-05-16-about-afterecon"
               className="hover:text-sky-600 dark:hover:text-sky-400"
             >
               About
@@ -40,7 +40,7 @@ export default function Navbar() {
               Patreon
             </a>
           </div>
-          <div className="max-w-xs w-full">
+          <div className="w-full max-w-xs">
             <Search />
           </div>
           <ThemeToggle />
