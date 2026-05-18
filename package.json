@@ -12,7 +12,7 @@
     "start": "next start",
     "lint": "next lint",
     "convert": "./node_modules/.bin/tsx scripts/sql-to-json.ts",
-    "postbuild": "./node_modules/.bin/tsx scripts/build-sitemap.ts"
+    "postbuild": "./node_modules/.bin/tsx scripts/build-sitemap.ts && ./node_modules/.bin/tsx scripts/build-search-index.ts"
   },
   "repository": {
     "type": "git",

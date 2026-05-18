@@ -11,7 +11,7 @@ author: John Vandivier
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I'm a self-taught developer and a career switcher. Switching careers wasn't easy, but I was able to do it, and it has been everything I hoped it would be. I want to encourage others to switch into programming and I'm passionate about facilitating people with that goal. A career in coding can be rewarding, stable, and fun. <a href=\"https://www.afterecon.com/about/john-vandivier/\">Contact me here</a> if you would like me to personally assist you in learning to code, advancing your career, improving your resume and online presence, or for help landing and preparing for interviews.</p>
+<p>I'm a self-taught developer and a career switcher. Switching careers wasn't easy, but I was able to do it, and it has been everything I hoped it would be. I want to encourage others to switch into programming and I'm passionate about facilitating people with that goal. A career in coding can be rewarding, stable, and fun. <a href="https://ladderly.io/">Ladderly.io</a> is the community that I created to help others learn to code and land their first or next programming role. Check it out!
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -1,6 +1,7 @@
 import { ThemeProvider } from '@/components/theme-provider';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
@@ -43,6 +44,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           <Navbar />
           <main className="min-h-screen">{children}</main>
+          <Footer />
         </ThemeProvider>
         <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
       </body>
