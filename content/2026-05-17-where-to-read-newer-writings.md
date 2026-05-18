@@ -29,19 +29,19 @@ I currently publish across three separate Substacks, each focused on a different
 
 ### Optimality
 
-[Optimality](https://optimality.substack.com/about?utm_source=chatgpt.com)
+[Optimality](https://optimality.substack.com/about?utm_source=afterecon)
 
 Writing about living optimally across topics like economics, investing, finance, philosophy, policy, systems thinking, and long-term decision-making.
 
 ### Current Tech
 
-[Current Tech](https://currenttech.substack.com/?utm_source=chatgpt.com)
+[Current Tech](https://currenttech.substack.com/?utm_source=afterecon)
 
 Writing focused on software engineering careers, the tech industry, hiring, interviewing, and professional growth.
 
 ### Simulation Theory RPG
 
-[Simulation Theory RPG](https://simulationtheoryrpg.substack.com/?utm_source=chatgpt.com)
+[Simulation Theory RPG](https://simulationtheoryrpg.substack.com/?utm_source=afterecon)
 
 Fictional short stories, speculative worlds, and narrative experiments.
 
@@ -53,7 +53,7 @@ If you prefer frequent smaller updates instead of traditional articles, that’s
 
 ## Ladderly — Software Engineering Career Development
 
-[Ladderly Blog](https://ladderly.io/blog?utm_source=chatgpt.com)
+[Ladderly Blog](https://ladderly.io/blog?utm_source=afterecon)
 
 Ladderly is where I publish practical writing related to software engineering careers, interviewing, job search strategy, and professional development in tech.
 

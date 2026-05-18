@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <div className="flex flex-wrap justify-center gap-6 text-sm font-medium text-gray-600 dark:text-gray-400">
             <Link
-              href="/posts/2023-10-01-about-after-economics"
+              href="/posts/2026-05-16-about-afterecon"
               className="hover:text-sky-600 dark:hover:text-sky-400"
             >
               About
